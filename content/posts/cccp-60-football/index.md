@@ -1,8 +1,5 @@
 ---
-type: "post"
-subtitle: ""
-summary: ""
-authors: []
+authors: "Antuan"
 title: "Сборная CCCР – чемпион Европы-1960"
 slug: "cccp-60-football"
 draft: false

@@ -1,8 +1,5 @@
 ---
-type: "post"
-subtitle: ""
-summary: ""
-authors: []
+authors: "Antuan"
 title: "Статьи можно комментировать"
 slug: "add-comments"
 draft: false
