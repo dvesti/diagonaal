@@ -18,9 +18,9 @@ share:toc:
   enable: true
 comment:
   enable: true
-resources:cd
-  name: "featured"
-  src: "featured.jpg"
+resources:
+  - name: "featured"
+    src: "featured.jpg"
 lightgallery: true 
 ---
 
