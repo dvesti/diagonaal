@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: "Статистика по Covid-19 в Эстонии"
 date: 2021-03-22T02:53:07+02:00
 lastmod: ""
@@ -19,9 +18,9 @@ share:toc:
   enable: true
 comment:
   enable: true
-resources:
-  - name: "featured"
-    src: "featured.jpg"
+resources:cd
+  name: "featured"
+  src: "featured.jpg"
 lightgallery: true 
 ---
 
