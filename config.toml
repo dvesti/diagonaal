@@ -2,7 +2,7 @@ baseURL = "https://diagonaal.ru/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
-languageCode = "en"
+# languageCode = "en"
 title = "Diagonaal"
 
 # whether to use robots.txt
@@ -132,7 +132,7 @@ theme = "CodeIT"
 
 [languages]
   [languages.ru]
-    weight = 1
+    weight = 2
     # language code
     languageCode = "ru"
     # language name
@@ -147,7 +147,7 @@ theme = "CodeIT"
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     
   [languages.en]
-    weight = 2
+    weight = 1
     # language code
     languageCode = "en"
     # language name
