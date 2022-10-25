@@ -137,7 +137,7 @@ theme = "CodeIT"
     languageCode = "ru"
     # language name
     languageName = "Русский"
-    contentDir = "content/ru"
+    # contentDir = "content/ru"
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = false
     # default amount of posts in each pages
@@ -153,7 +153,7 @@ theme = "CodeIT"
     languageCode = "en"
     # language name
     languageName = "English"
-    contentDir = "content/en"
+    # contentDir = "content/en"
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = false
     # default amount of posts in each pages
