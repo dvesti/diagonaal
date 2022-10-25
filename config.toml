@@ -106,7 +106,7 @@ theme = "CodeIT"
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
-  #  which hash function used for SRI, when empty, no SRI is used
+  #  which hash function used for SRI, whcd ..empty, no SRI is used
   # ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   #  date format
