@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Thème Documentation - Concepts de Base"
+title: "Thème Documentation - Concepts de Base -- по-русски"
 date: 2020-03-06T21:40:32+08:00
 lastmod: 2020-03-06T21:40:32+08:00
 draft: false
