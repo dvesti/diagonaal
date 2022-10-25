@@ -1,4 +1,7 @@
 ---
+type: "post"
+subtitle: ""
+summary: ""
 authors: "Antuan"
 title: "Сборная CCCР – чемпион Европы-1960"
 slug: "cccp-60-football"
@@ -13,7 +16,6 @@ image:
   caption: 'Image credit: [**Rus.Delfi.ee**](https://rus.delfi.ee/)'
   focal_point: ""
   preview_only: true
-summary: ""  
 ---
 
 **Ровно 60 лет назад, 10 июля 1960 года**, сборная СССР выиграла первый в истории чемпионат Европы по футболу. В финальном матче подопечные Гавриила Качалина одолели в Париже Югославию - 2:1. 
