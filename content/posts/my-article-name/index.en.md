@@ -1,5 +1,5 @@
 ---
-title: "My Article Name – Тест"
+title: "My Article Name"
 slug: "my-article-name"
 categories: ["Demo"]
 tags: ["blog"]
