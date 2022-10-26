@@ -4,9 +4,36 @@
         <link>https://diagonaal.ru/</link>
         <description>Diagonaal</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><managingEditor>one2one@hot.ee (Antuan)</managingEditor>
-            <webMaster>one2one@hot.ee (Antuan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</lastBuildDate>
+            <webMaster>one2one@hot.ee (Antuan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</lastBuildDate>
             <atom:link href="https://diagonaal.ru/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Статистика по Covid-19 в Эстонии</title>
+    <link>https://diagonaal.ru/2021/covid-chart/</link>
+    <pubDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</pubDate>
+    <author>Автор</author>
+    <guid>https://diagonaal.ru/2021/covid-chart/</guid>
+    <description><![CDATA[<p>Создали <a href="/2021/covid-chart/" rel=""><strong>страницу</strong></a> со статистикой по коронавирусу в Эстонии.</p>
+<div class="details admonition info open">
+        <div class="details-summary admonition-title">
+            <i class="icon fas fa-info-circle fa-fw"></i>Инфо<i class="details-icon fas fa-angle-right fa-fw"></i>
+        </div>
+        <div class="details-content">
+            <div class="admonition-content">График <span style="color:#B03A5B"><strong>обновляется</strong></span>. <span style="color:#ff6600"><strong>Приостановлено: 01-05-2022 г.</strong></span></div>
+        </div>
+    </div>
+<p><strong>Статистика по Короновирусу</strong></p>
+<div class="echarts" id="id-1" style="width: 100%; height: 30rem;"></div>]]></description>
+</item><item>
+    <title>Веселье и похмелье</title>
+    <link>https://diagonaal.ru/2021/veselo/</link>
+    <pubDate>Wed, 10 Mar 2021 15:08:07 &#43;0200</pubDate>
+    <author>Автор</author>
+    <guid>https://diagonaal.ru/2021/veselo/</guid>
+    <description><![CDATA[<p><strong>Для друзей открыта дверь:<br>
+Каждый день - веселье!<br>
+… За стеною воет зверь,<br>
+А у нас - похмелье…</strong></p>]]></description>
+</item><item>
     <title>Bookmarks -- Russian</title>
     <link>https://diagonaal.ru/2021/bookmarks--russian/</link>
     <pubDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</pubDate>
@@ -469,24 +496,5 @@
 Сборная СССР еще дважды выигрывала Олимпийские игры (1956, 1988), но на этих турнирах действовали ряд ограничений.</p>
 <p>В первом финальном турнире чемпионата Европы принимали участие четыре команды. В полуфинале СССР победил Чехословакию - 3:0</p>
 <p><a href="https://rus.delfi.ee/sport/jalgpall/video-60-let-nazad-sbornaya-sssr-vyigrala-pervyj-chempionat-evropy-po-futbolu?id=90415071" target="_blank" rel="noopener noreferrer">Источник</a></p>]]></description>
-</item><item>
-    <title>Ринго – 80!</title>
-    <link>https://diagonaal.ru/2020/ringo-80/</link>
-    <pubDate>Tue, 07 Jul 2020 13:00:13 &#43;0300</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/2020/ringo-80/</guid>
-    <description><![CDATA[<p><br>
-Барабанщику группы «Битлз» Ринго Старру – 80!</p>
-]]></description>
-</item><item>
-    <title>Оруэлл «1984»</title>
-    <link>https://diagonaal.ru/2020/orwell-1984/</link>
-    <pubDate>Sun, 05 Jul 2020 21:30:13 &#43;0300</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/2020/orwell-1984/</guid>
-    <description><![CDATA[<p>За день упоминание о романе Джорджа Оруэлла <strong>«1984»</strong> встретил 3 раза. Редкое совпадение. Правда, иногда подразумевали и <strong>«Скотный Двор»</strong></p>
-<p>Разговор шёл про то, что все равны и про страну, где правит одна партия.<br>
-Видимо, <strong>«1984»</strong> надо прочитать.<br>
-<strong>«Скотный двор»</strong> читал несколько раз и даже в разных переводах. Кстати, от перевода зависит многое, но это я заметил при чтении других книг, в частности, Каттнера про прохфессора, но это уже другая история</p>]]></description>
 </item></channel>
 </rss>
