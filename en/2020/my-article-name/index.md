@@ -1,4 +1,4 @@
-# My Article Name – Тест
+# My Article Name
 
 
 [TOC]

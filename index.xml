@@ -4,7 +4,7 @@
         <link>https://diagonaal.ru/</link>
         <description>Diagonaal</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><managingEditor>one2one@hot.ee (Antuan)</managingEditor>
-            <webMaster>one2one@hot.ee (Antuan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</lastBuildDate>
+            <webMaster>one2one@hot.ee (Antuan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</lastBuildDate>
             <atom:link href="https://diagonaal.ru/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Bookmarks -- Russian</title>
@@ -377,31 +377,12 @@
 <li><a href="https://steamworkshopdownloader.io/" target="_blank" rel="noopener noreferrer">Steam workshop downloader</a> and another similar project: <a href="http://steamworkshop.download/" target="_blank" rel="noopener noreferrer">Steam workshop download</a></li>
 </ul>]]></description>
 </item><item>
-    <title>Статистика по Covid-19 в Эстонии</title>
-    <link>https://diagonaal.ru/2021/covid-chart/</link>
-    <pubDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/2021/covid-chart/</guid>
-    <description><![CDATA[<p>Создали <a href="/2021/covid-chart/" rel=""><strong>страницу</strong></a> со статистикой по коронавирусу в Эстонии.</p>
-<div class="details admonition info open">
-        <div class="details-summary admonition-title">
-            <i class="icon fas fa-info-circle fa-fw"></i>Инфо<i class="details-icon fas fa-angle-right fa-fw"></i>
-        </div>
-        <div class="details-content">
-            <div class="admonition-content">График <span style="color:#B03A5B"><strong>обновляется</strong></span>. <span style="color:#ff6600"><strong>Приостановлено: 01-05-2022 г.</strong></span></div>
-        </div>
-    </div>
-<p><strong>Статистика по Короновирусу</strong></p>
-<div class="echarts" id="id-1" style="width: 100%; height: 30rem;"></div>]]></description>
-</item><item>
     <title>Стили от 23-08-2020</title>
     <link>https://diagonaal.ru/2020/style-23-08-2020/</link>
     <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
     <author>Автор</author>
     <guid>https://diagonaal.ru/2020/style-23-08-2020/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/featured.jpg" referrerpolicy="no-referrer">
-            </div><p>Меняю стили каждый день, как я и писал ранее, в ущерб написанию заметок.<br>
+    <description><![CDATA[<p>Меняю стили каждый день, как я и писал ранее, в ущерб написанию заметок.<br>
 Сейчас всё-таки изменил размер шрифта даты, который был связан с другими стилями, поэтому пришлось выделить в отдельные строки.</p>
 <p>Использовал стили оригинала — <strong>Refined</strong>, а также <strong>Jane</strong></p>
 <p>Менять пришлось и <em>курсив</em>, так как он брался из другого шрифта получался другого размера (в частности, меньше), что было не очень красиво.</p>
@@ -419,9 +400,7 @@
     <pubDate>Sat, 22 Aug 2020 19:01:23 &#43;0300</pubDate>
     <author>Автор</author>
     <guid>https://diagonaal.ru/2020/pogladj-menja/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/featured.jpg" referrerpolicy="no-referrer">
-            </div><p><strong>Почему такой ты робкий?<br>
+    <description><![CDATA[<p><strong>Почему такой ты робкий?<br>
 Потому что я в коробке?<br>
 Не стесняйся и – погладь:<br>
 Будешь ночью крепче спать!</strong></p>]]></description>
@@ -431,9 +410,7 @@
     <pubDate>Fri, 14 Aug 2020 17:04:31 &#43;0300</pubDate>
     <author>Автор</author>
     <guid>https://diagonaal.ru/2020/test-1/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/featured.jpg" referrerpolicy="no-referrer">
-            </div><p>Это <del>тест</del>овое сообщение <em>с этой</em> <strong>картинкой</strong>:</p>
+    <description><![CDATA[<p>Это <del>тест</del>овое сообщение <em>с этой</em> <strong>картинкой</strong>:</p>
 <!--![](featured.jpg) -->
 <p>которая отображается при пересылке ссылки, например, в Скайп</p>
 ]]></description>
@@ -500,5 +477,14 @@
 <p>Для этого использовал <a href="https://sourcethemes.com/academic/docs/customization/#comments" target="_blank" rel="noopener noreferrer"><strong>это</strong></a> руководство.<br>
 В частности, в файле <code>config/_default/params.toml</code> установил <code>engine = 1</code> и в графе <code>shortname = &quot;&quot;</code> поставил <em>короткое имя</em>, созданное на <strong>Disqus</strong>-e для этого сайта.<br>
 В этой теме – <strong><code>Academic</code></strong> – ничего больше добавлять не надо: всё уже сделано до нас. Единственное то, что локально (<em>localhost:1313</em>) установка комментариев не видна. Она появляется только после деплоя на сервер: это надо иметь ввиду</p>]]></description>
+</item><item>
+    <title>Не все клубни, как клубни</title>
+    <link>https://diagonaal.ru/2020/potatos/</link>
+    <pubDate>Sun, 05 Jul 2020 13:42:13 &#43;0300</pubDate>
+    <author>Автор</author>
+    <guid>https://diagonaal.ru/2020/potatos/</guid>
+    <description><![CDATA[<p>Купленная картошка и оставленная на полу в пакете сгнила через 3 дня. И не жарко было. Клубни превратились в кисель на радость мушкам.</p>
+<p>Половину всё же удалось спасти: 5 штучек. Помыл и сразу сварил.<br>
+Варил 1 час — твёрдые, как кирпич. И верно: кирпич, как показывает практика, гниёт долго…</p>]]></description>
 </item></channel>
 </rss>

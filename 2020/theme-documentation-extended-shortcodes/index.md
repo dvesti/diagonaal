@@ -1,4 +1,4 @@
-# Thème Documentation - Extended Shortcodes
+# Theme Documentation - Extended Shortcodes
 
 
 Le thème **CodeIT** fournit plusieurs shortcodes en plus de ceux intégrés dans Hugo.
