@@ -5,12 +5,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-        <title>Theme Documentation - Extended Shortcodes - Diagonaal</title><meta name="description" content="CodeIT theme provides multiple shortcodes on top of built-in ones in Hugo."><meta property="og:title" content="Theme Documentation - Extended Shortcodes" />
+        <title>Theme Documentation - Extended Shortcodes - Diagonaal</title><meta name="Description" content="CodeIT theme provides multiple shortcodes on top of built-in ones in Hugo."><meta property="og:title" content="Theme Documentation - Extended Shortcodes" />
 <meta property="og:description" content="CodeIT theme provides multiple shortcodes on top of built-in ones in Hugo." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" /><meta property="og:image" content="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/featured-image.jpg"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2020-03-03T16:29:41+08:00" />
-<meta property="article:modified_time" content="2022-10-27T00:32:19+03:00" />
+<meta property="article:modified_time" content="2022-10-27T00:32:19+03:00" /><meta property="og:site_name" content="My cool site" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/featured-image.jpg"/>
@@ -19,7 +19,9 @@
 <meta name="application-name" content="Diagonaal.ru">
 <meta name="apple-mobile-web-app-title" content="Diagonaal.ru"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" /><link rel="prev" href="https://diagonaal.ru/2019/syntaxe-de-markdown-de-base/" /><link rel="next" href="https://diagonaal.ru/2020/theme-documentation-built-in-shortcodes/" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" /><link rel="prev" href="https://diagonaal.ru/2019/syntaxe-de-markdown-de-base/" /><link rel="next" href="https://diagonaal.ru/2020/theme-documentation-built-in-shortcodes/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -50,23 +52,23 @@
             <a href="/" title="Diagonaal"><span class="header-title-pre"><i class='fas fa-laptop-code fa-fw'></i></span>Diagonaal</a>
         </div>
         <div class="menu">
-            <div class="menu-inner"><a class="menu-item" href="/posts/"> Архив </a><a class="menu-item" href="/categories/"> Категории </a><a class="menu-item" href="/tags/"> Тэги </a><a class="menu-item" href="/about/"> O нас </a><a class="menu-item" href="/2021/covid-chart/"> Корона </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="Выбор Языка">Русский<i class="fas fa-chevron-right fa-fw"></i>
-                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/2020/theme-documentation-extended-shortcodes/" selected>Русский</option><option value="/en/2020/theme-documentation-extended-shortcodes/">English</option></select>
-                    </a><span class="menu-item search" id="search-desktop">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> Архив </a><a class="menu-item" href="/categories/"> Категории </a><a class="menu-item" href="/tags/"> Тэги </a><a class="menu-item" href="/about/"> O нас </a><a class="menu-item" href="/2021/covid-chart/"> Корона </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
                         <input type="text" placeholder="Поиск заголовков или содержимого ..." id="search-input-desktop">
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Поиск">
-                            <i class="fas fa-search fa-fw"></i>
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
                         </a>
                         <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Очистить">
-                            <i class="fas fa-times-circle fa-fw"></i>
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
                         </a>
                         <span class="search-button search-loading" id="search-loading-desktop">
-                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
                         </span>
                     </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Сменить Тему">
-                    <i class="fas fa-adjust fa-fw"></i>
-                </a>
-            </div>
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a><a href="javascript:void(0);" class="menu-item language" title="Выбор Языка">
+                    <i class="fa fa-globe" aria-hidden="true"></i>                      
+                    <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/2020/theme-documentation-extended-shortcodes/" selected>Русский</option><option value="/en/2020/theme-documentation-extended-shortcodes/">English</option></select>
+                </a></div>
         </div>
     </div>
 </header><header class="mobile" id="header-mobile">
@@ -83,39 +85,38 @@
                     <div class="search mobile" id="search-mobile">
                         <input type="text" placeholder="Поиск заголовков или содержимого ..." id="search-input-mobile">
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Поиск">
-                            <i class="fas fa-search fa-fw"></i>
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
                         </a>
                         <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Очистить">
-                            <i class="fas fa-times-circle fa-fw"></i>
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
                         </a>
                         <span class="search-button search-loading" id="search-loading-mobile">
-                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
                         </span>
                     </div>
                     <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
                         Отменить
                     </a>
                 </div><a class="menu-item" href="/posts/" title="">Архив</a><a class="menu-item" href="/categories/" title="">Категории</a><a class="menu-item" href="/tags/" title="">Тэги</a><a class="menu-item" href="/about/" title="">O нас</a><a class="menu-item" href="/2021/covid-chart/" title="">Корона</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Сменить Тему">
-                <i class="fas fa-adjust fa-fw"></i>
-            </a><a href="javascript:void(0);" class="menu-item" title="Выбор Языка">Русский<i class="fas fa-chevron-right fa-fw"></i>
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="Выбор Языка">
+                    <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
                     <select class="language-select" onchange="location = this.value;"><option value="/2020/theme-documentation-extended-shortcodes/" selected>Русский</option><option value="/en/2020/theme-documentation-extended-shortcodes/">English</option></select>
                 </a></div>
     </div>
-</header>
-<div class="search-dropdown desktop">
-    <div id="search-dropdown-desktop"></div>
-</div>
-<div class="search-dropdown mobile">
-    <div id="search-dropdown-mobile"></div>
-</div>
-<main class="main">
+</header><div class="search-dropdown desktop">
+        <div id="search-dropdown-desktop"></div>
+    </div>
+    <div class="search-dropdown mobile">
+        <div id="search-dropdown-mobile"></div>
+    </div><main class="main">
                 <div class="container"><div class="toc" id="toc-auto">
             <h2 class="toc-title">Содержание</h2>
             <div class="toc-content" id="toc-content-auto"></div>
-        </div><article class="page single"><h1 class="single-title animated flipInX">Theme Documentation - Extended Shortcodes</h1><div class="post-meta">
-            <div class="post-meta-line"><span class="post-author"><a href="https://suntprogramator.dev/" title="Author" target="_blank" rel="noopener noreferrer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Sunt Programator!</a></span>&nbsp;<span class="post-category">Категория: <a href="/categories/documentation/"><i class="far fa-folder fa-fw"></i>documentation</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="03-03-2020">03-03-2020</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;Слов: 3416&nbsp;
-                <i class="far fa-clock fa-fw"></i>&nbsp;17 мин. на чтение&nbsp;</div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Theme Documentation - Extended Shortcodes</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://suntprogramator.dev/" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Sunt Programator!</a></span>&nbsp;<span class="post-category">включен в <a href="/categories/documentation/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>documentation</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="03-03-2020">03-03-2020</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;3416 слов&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;17 минут&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
         src="/svg/loading.min.svg"
@@ -123,10 +124,10 @@
         data-srcset="/2020/theme-documentation-extended-shortcodes/featured-image.jpg, /2020/theme-documentation-extended-shortcodes/featured-image.jpg 1.5x, /2020/theme-documentation-extended-shortcodes/featured-image.jpg 2x"
         data-sizes="auto"
         alt="/2020/theme-documentation-extended-shortcodes/featured-image.jpg"
-        title="CodeIT theme provides multiple shortcodes on top of built-in ones in Hugo." /></div><div class="details toc" id="toc-static"  kept="">
+        title="CodeIT theme provides multiple shortcodes on top of built-in ones in Hugo." /></div><div class="details toc" id="toc-static"  data-kept="">
                 <div class="details-summary toc-title">
                     <span>Содержание</span>
-                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
@@ -169,17 +170,17 @@
             </div><div class="content" id="content"><p>Le thème <strong>CodeIT</strong> fournit plusieurs shortcodes en plus de ceux intégrés dans Hugo.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-exclamation-triangle fa-fw"></i>Предупреждение<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-exclamation-triangle fa-fw" aria-hidden="true"></i>Предупреждение<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">Sorry, this article has not been completely translated into <strong>French</strong>.
-Welcome to take the time to propose a translation by <a href="https://github.com/sunt-programator/CodeIT/pulls" target="_blank" rel="noopener noreferrer"><i class="fas fa-code-branch fa-fw"></i>&nbsp;making a PR</a> to the theme!</div>
+Welcome to take the time to propose a translation by <a href="https://github.com/sunt-programator/CodeIT/pulls" target="_blank" rel="noopener noreferrer"><i class="fas fa-code-branch fa-fw" aria-hidden="true"></i>&nbsp;making a PR</a> to the theme!</div>
         </div>
     </div>
 <h2 id="1-style">1 style</h2>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-pencil-alt fa-fw"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">Hugo <strong>extended</strong> version is necessary for <code>style</code> shortcode.</div>
@@ -188,7 +189,7 @@ Welcome to take the time to propose a translation by <a href="https://github.com
 <p><code>style</code> is a shortcode to insert custom style in your post.</p>
 <p>The <code>style</code> shortcode has two positional parameters.</p>
 <p>The <strong>first</strong> one is the custom style content,
-which supports nesting syntax in <a href="https://sass-lang.com/documentation/style-rules/declarations#nesting" target="_blank" rel="noopener noreferrer"><i class="fab fa-sass fa-fw"></i>&nbsp;SASS</a>
+which supports nesting syntax in <a href="https://sass-lang.com/documentation/style-rules/declarations#nesting" target="_blank" rel="noopener noreferrer"><i class="fab fa-sass fa-fw" aria-hidden="true"></i>&nbsp;SASS</a>
 and <code>&amp;</code> referring to this parent HTML element.</p>
 <p>And the <strong>second</strong> one is the tag name of the HTML element wrapping the content you want to change style, and whose default value is <code>div</code>.</p>
 <p>Example <code>style</code> input:</p>
@@ -264,9 +265,9 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
 </div>
 </div><p>The rendered output looks like this:</p>
 <ul>
-<li><a href="https://assemble.io" target="_blank" rel="noopener noreferrer">https://assemble.io</a></li>
+<li><a href="https://assemble.io" target="_blank" rel="noopener noreffer ">https://assemble.io</a></li>
 <li><a href="mailto:contact@revolunet.com" rel="">mailto:contact@revolunet.com</a></li>
-<li><a href="https://assemble.io" target="_blank" rel="noopener noreferrer">Assemble</a></li>
+<li><a href="https://assemble.io" target="_blank" rel="noopener noreffer ">Assemble</a></li>
 </ul>
 <p>Example <code>link</code> input with a title:</p>
 <div class="highlight"><div class="chroma">
@@ -282,7 +283,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this (hover over the link, there should be a tooltip):</p>
-<a href="https://github.com/upstage/" title="Visit Upstage!" target="_blank" rel="noopener noreferrer">Upstage</a>
+<a href="https://github.com/upstage/" title="Visit Upstage!" target="_blank" rel="noopener noreffer ">Upstage</a>
 <h2 id="image">3 image</h2>
 <p><code>image</code> shortcode is an alternative to <a href="../theme-documentation-built-in-shortcodes#figure" rel=""><code>figure</code> shortcode</a>. <code>image</code> shortcode can take full advantage of the dependent libraries of <a href="https://github.com/aFarkas/lazysizes" target="_blank" rel="noopener noreferrer">lazysizes</a> and <a href="https://github.com/sachinchoolur/lightgallery.js" target="_blank" rel="noopener noreferrer">lightgallery.js</a>.</p>
 <p>The complete usage of <a href="../theme-documentation-content#contents-organization" rel="">local resource references</a> is supported.</p>
@@ -352,7 +353,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
             data-src="/images/lighthouse.jpg"
             data-srcset="/images/lighthouse-small.jpg, /images/lighthouse.jpg 1.5x, /images/lighthouse-large.jpg 2x"
             data-sizes="auto"
-            alt="/images/lighthouse.jpg" />
+            alt="/images/lighthouse.jpg" width="1972" height="1315" />
     </a><figcaption class="image-caption">Lighthouse (<code>image</code>)</figcaption>
     </figure>
 <h2 id="4-admonition">4 admonition</h2>
@@ -360,7 +361,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
 <p><em>Markdown or HTML format in the content is supported.</em></p>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-pencil-alt fa-fw"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>note</strong> banner</div>
@@ -368,7 +369,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition abstract open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-list-ul fa-fw"></i>Краткое описание<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-list-ul fa-fw" aria-hidden="true"></i>Краткое описание<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">An <strong>abstract</strong> banner</div>
@@ -376,7 +377,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition info open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-info-circle fa-fw"></i>Инфо<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-info-circle fa-fw" aria-hidden="true"></i>Инфо<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>info</strong> banner</div>
@@ -384,7 +385,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition tip open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-lightbulb fa-fw"></i>Совет<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-lightbulb fa-fw" aria-hidden="true"></i>Совет<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>tip</strong> banner</div>
@@ -392,7 +393,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition success open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-check-circle fa-fw"></i>Удачно<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-check-circle fa-fw" aria-hidden="true"></i>Удачто<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>success</strong> banner</div>
@@ -400,7 +401,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition question open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-question-circle fa-fw"></i>Вопрос<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-question-circle fa-fw" aria-hidden="true"></i>Вопрос<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>question</strong> banner</div>
@@ -408,7 +409,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-exclamation-triangle fa-fw"></i>Предупреждение<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-exclamation-triangle fa-fw" aria-hidden="true"></i>Предупреждение<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>warning</strong> banner</div>
@@ -416,7 +417,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition failure open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-times-circle fa-fw"></i>Отказ<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-times-circle fa-fw" aria-hidden="true"></i>Отказ<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>failure</strong> banner</div>
@@ -424,7 +425,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition danger open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-skull-crossbones fa-fw"></i>Опасность<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-skull-crossbones fa-fw" aria-hidden="true"></i>Опасность<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>danger</strong> banner</div>
@@ -432,7 +433,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition bug open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-bug fa-fw"></i>Ошибка<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-bug fa-fw" aria-hidden="true"></i>Ошибка<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>bug</strong> banner</div>
@@ -440,7 +441,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition example open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-list-ol fa-fw"></i>Пример<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-list-ol fa-fw" aria-hidden="true"></i>Пример<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">An <strong>example</strong> banner</div>
@@ -448,7 +449,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
     </div>
 <div class="details admonition quote open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-quote-right fa-fw"></i>Цитата<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-quote-right fa-fw" aria-hidden="true"></i>Цитата<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>quote</strong> banner</div>
@@ -493,7 +494,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
 </div><p>The rendered output looks like this:</p>
 <div class="details admonition tip">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-lightbulb fa-fw"></i>This is a tip<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-lightbulb fa-fw" aria-hidden="true"></i>This is a tip<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">A <strong>tip</strong> banner</div>
@@ -1642,7 +1643,7 @@ which supports <code>netease</code>, <code>tencent</code> and <code>xiami</code>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<div class="typeit"><div id="id-12" class=""></div></div>
+<div class="typeit"><div id="id-12"></div></div>
 
 <p>Alternatively, you can use custom <strong>HTML tags</strong>.</p>
 <p>Example <code>typeit</code> input with <code>h4</code> tag:</p>
@@ -1659,7 +1660,7 @@ which supports <code>netease</code>, <code>tencent</code> and <code>xiami</code>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<div class="typeit"><h4 id="id-13" class=""></h4></div>
+<div class="typeit"><h4 id="id-13"></h4></div>
 
 <h3 id="code-content">10.2 Code Content</h3>
 <p>Code content is allowed and will be highlighted by named parameter <code>code</code> for the type of code language.</p>
@@ -1685,7 +1686,7 @@ which supports <code>netease</code>, <code>tencent</code> and <code>xiami</code>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<div class="typeit"><div id="id-14" class=" highlight"></div></div>
+<div class="typeit"><div id="id-14" class="highlight"></div></div>
 
 <h3 id="group-content">10.3 Group Content</h3>
 <p>All typing animations start at the same time by default.
@@ -1713,15 +1714,15 @@ But sometimes you may want to start a set of <code>typeit</code> contents in ord
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<div class="typeit"><div id="id-15" class=""></div></div>
+<div class="typeit"><div id="id-15"></div></div>
 
-<div class="typeit"><div id="id-16" class=""></div></div>
+<div class="typeit"><div id="id-16"></div></div>
 
 <h2 id="11-script">11 script</h2>
-<p><code>script</code> is a shortcode to insert custom <strong><i class="fab fa-js fa-fw"></i>&nbsp;Javascript</strong> in your post.</p>
+<p><code>script</code> is a shortcode to insert custom <strong><i class="fab fa-js fa-fw" aria-hidden="true"></i>&nbsp;Javascript</strong> in your post.</p>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
-            <i class="icon fas fa-pencil-alt fa-fw"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw"></i>
+            <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
             <div class="admonition-content">The script content can be guaranteed to be executed in order after all third-party libraries are loaded. So you are free to use third-party libraries.</div>
@@ -1745,33 +1746,31 @@ But sometimes you may want to start a set of <code>typeit</code> contents in ord
         <div class="post-info-line">
             <div class="post-info-mod">
                 <span>Oбновлена 27-10-2022</span>
-            </div>
-            <div class="post-info-license"></div>
-        </div>
+            </div></div>
         <div class="post-info-line">
             <div class="post-info-md"></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Поделиться в Twitter" data-sharer="twitter" data-url="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" data-title="Theme Documentation - Extended Shortcodes" data-via="Prorab" data-hashtags="shortcodes"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Поделиться в Facebook" data-sharer="facebook" data-url="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" data-hashtag="shortcodes"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Поделиться в VK" data-sharer="vk" data-url="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" data-title="Theme Documentation - Extended Shortcodes" data-caption="CodeIT theme provides multiple shortcodes on top of built-in ones in Hugo."><i class="fab fa-vk fa-fw"></i></a><a href="javascript:void(0);" title="Поделиться в OK.RU" data-sharer="okru" data-url="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" data-title="Theme Documentation - Extended Shortcodes"><i class="fab fa-odnoklassniki fa-fw"></i></a></span>
+                <span><a href="javascript:void(0);" title="Поделиться в Twitter" data-sharer="twitter" data-url="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" data-title="Theme Documentation - Extended Shortcodes" data-via="Prorab" data-hashtags="shortcodes"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в Facebook" data-sharer="facebook" data-url="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" data-hashtag="shortcodes"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в VK" data-sharer="vk" data-url="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" data-title="Theme Documentation - Extended Shortcodes" data-caption="CodeIT theme provides multiple shortcodes on top of built-in ones in Hugo."><i class="fab fa-vk fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в OK.RU" data-sharer="okru" data-url="https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/" data-title="Theme Documentation - Extended Shortcodes"><i class="fab fa-odnoklassniki fa-fw" aria-hidden="true"></i></a></span>
             </div>
         </div>
     </div>
 
     <div class="post-info-more">
-        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/shortcodes/">shortcodes</a></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/shortcodes/">shortcodes</a></section>
         <section>
             <span><a href="javascript:void(0);" onclick="window.history.back();">Назад</a></span>&nbsp;|&nbsp;<span><a href="/">Домой</a></span>
         </section>
     </div>
 
-    <div class="post-nav"><a href="/2019/syntaxe-de-markdown-de-base/" class="prev" rel="prev" title="Syntaxe de Markdown de Base"><i class="fas fa-angle-left fa-fw"></i>Syntaxe de Markdown de Base</a>
-            <a href="/2020/theme-documentation-built-in-shortcodes/" class="next" rel="next" title="Thème Documentation - Built-in Shortcodes">Thème Documentation - Built-in Shortcodes<i class="fas fa-angle-right fa-fw"></i></a></div>
+    <div class="post-nav"><a href="/2019/syntaxe-de-markdown-de-base/" class="prev" rel="prev" title="Syntaxe de Markdown de Base"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>Syntaxe de Markdown de Base</a>
+            <a href="/2020/theme-documentation-built-in-shortcodes/" class="next" rel="next" title="Thème Documentation - Built-in Shortcodes">Thème Documentation - Built-in Shortcodes<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
 </div>
-<div id="comments"><div id="utterances"></div><noscript>
-                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.
+<div id="comments"><div id="utterances" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">utterances</a>.
             </noscript></div></article></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">Создано на <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" title="Hugo 0.105.0">Hugo</a> | Тема - <a href="https://github.com/sunt-programator/CodeIT" target="_blank" rel="noopener noreferrer" title="CodeIT 0.2.10"><i class="fas fa-laptop-code fa-fw"></i> CodeIT</a>
-                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2021 - 2022</span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        <div class="footer-container"><div class="footer-line">Сделано <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.105.0">Hugo</a> | Тема - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.11"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2021 - 2022</span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
         </div>
     </footer></div>
 
@@ -1780,5 +1779,5 @@ But sometimes you may want to start a set of <code>typeit</code> contents in ord
             </a><a href="#" id="view-comments" class="fixed-button" title="Посмотреть комментарии">
                 <i class="fas fa-comment fa-fw"></i>
             </a>
-        </div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.2.0/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/copy-tex.min.css"><link rel="stylesheet" href="/lib/mermaid/mermaid.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mapbox-gl@1.10.1/dist/mapbox-gl.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css"><link rel="stylesheet" href="/lib/aplayer/dark.min.css"><link rel="stylesheet" href="/css/2f1ef0.min.css"><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/smooth-scroll@16.1.3/dist/smooth-scroll.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.37.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.stemmer.support.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.ru.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.2.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.2.0/dist/js/lightgallery.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.2.0/dist/lg-zoom.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.4.0/sharer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/copy-tex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/mhchem.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mermaid@8.5.1/dist/mermaid.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4.8.0/dist/echarts.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4.8.0/theme/macarons.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mapbox-gl@1.10.1/dist/mapbox-gl.min.js"></script><script type="text/javascript" src="/lib/mapbox-gl/mapbox-gl-language.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Копировать в буфер обмена","maxShownLines":25},"comment":{"utterances":{"darkTheme":"github-dark","issueTerm":"pathname","label":"💬 comments","lightTheme":"github-light","repo":"dvesti/diagonaal"}},"data":{"id-10":{"darkStyle":"mapbox://styles/mapbox/dark-v10?optimize=true","fullscreen":true,"geolocate":true,"lat":31.233,"lightStyle":"mapbox://styles/mapbox/light-v10?optimize=true","lng":121.485,"marked":true,"navigation":true,"optionsJson":null,"scale":true,"zoom":12},"id-11":{"darkStyle":"mapbox://styles/mapbox/navigation-preview-night-v4?optimize=true","fullscreen":true,"geolocate":true,"lat":37.453,"lightStyle":"mapbox://styles/mapbox/navigation-preview-day-v4?optimize=true","lng":-122.252,"marked":false,"navigation":true,"optionsJson":null,"scale":true,"zoom":10},"id-12":"This is a \u003cem\u003eparagraph\u003c/em\u003e with \u003cstrong\u003etyping animation\u003c/strong\u003e based on \u003ca href=\"https://typeitjs.com/\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eTypeIt\u003c/a\u003e\u0026hellip;","id-13":"This is a \u003cem\u003eparagraph\u003c/em\u003e with \u003cstrong\u003etyping animation\u003c/strong\u003e based on \u003ca href=\"https://typeitjs.com/\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eTypeIt\u003c/a\u003e\u0026hellip;","id-14":"\u003cdiv class=\"highlight\"\u003e\u003cpre tabindex=\"0\"\u0026nbsp;class=\"chroma\"\u003e\u003ccode class=\"language-java\"\u0026nbsp;data-lang=\"java\"\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"kd\"\u003epublic\u003c/span\u003e\u0026nbsp;\u003cspan class=\"kd\"\u003eclass\u003c/span\u003e\u0026nbsp;\u003cspan class=\"nc\"\u003eHelloWorld\u003c/span\u003e\u0026nbsp;\u003cspan class=\"o\"\u003e{\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"kd\"\u003epublic\u003c/span\u003e\u0026nbsp;\u003cspan class=\"kd\"\u003estatic\u003c/span\u003e\u0026nbsp;\u003cspan class=\"kt\"\u003evoid\u003c/span\u003e\u0026nbsp;\u003cspan class=\"nf\"\u003emain\u003c/span\u003e\u003cspan class=\"o\"\u003e(\u003c/span\u003e\u003cspan class=\"n\"\u003eString\u003c/span\u003e\u0026nbsp;\u003cspan class=\"o\"\u003e[]\u003c/span\u003e\u003cspan class=\"n\"\u003eargs\u003c/span\u003e\u003cspan class=\"o\"\u003e)\u003c/span\u003e\u0026nbsp;\u003cspan class=\"o\"\u003e{\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"n\"\u003eSystem\u003c/span\u003e\u003cspan class=\"o\"\u003e.\u003c/span\u003e\u003cspan class=\"na\"\u003eout\u003c/span\u003e\u003cspan class=\"o\"\u003e.\u003c/span\u003e\u003cspan class=\"na\"\u003eprintln\u003c/span\u003e\u003cspan class=\"o\"\u003e(\u003c/span\u003e\u003cspan class=\"s\"\u003e\u0026#34;Hello\u0026nbsp;World\u0026#34;\u003c/span\u003e\u003cspan class=\"o\"\u003e);\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"o\"\u003e}\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"o\"\u003e}\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e","id-15":"\u003cstrong\u003eFirst\u003c/strong\u003e this paragraph begins","id-16":"\u003cstrong\u003eThen\u003c/strong\u003e this paragraph begins","id-2":"graph LR;\nA[Hard edge] --\u003e|Link text| B(Round edge)\nB --\u003e C{Decision}\nC --\u003e|One| D[Result one]\nC --\u003e|Two| E[Result two]","id-3":"sequenceDiagram\nparticipant Alice\nparticipant Bob\nAlice-\u003e\u003eJohn: Hello John, how are you?\nloop Healthcheck\nJohn-\u003eJohn: Fight against hypochondria\nend\nNote right of John: Rational thoughts \u003cbr/\u003eprevail...\nJohn--\u003eAlice: Great!\nJohn-\u003eBob: How about you?\nBob--\u003eJohn: Jolly good!","id-4":"gantt\ndateFormat YYYY-MM-DD\ntitle Adding GANTT diagram functionality to mermaid\nsection A section\nCompleted task :done, des1, 2014-01-06,2014-01-08\nActive task :active, des2, 2014-01-09, 3d\nFuture task : des3, after des2, 5d\nFuture task2 : des4, after des3, 5d\nsection Critical tasks\nCompleted task in the critical line :crit, done, 2014-01-06,24h\nImplement parser and jison :crit, done, after des1, 2d\nCreate tests for parser :crit, active, 3d\nFuture task in critical line :crit, 5d\nCreate tests for renderer :2d\nAdd to mermaid :1d","id-5":"classDiagram\nClass01 \u003c|-- AveryLongClass : Cool\nClass03 _-- Class04\nClass05 o-- Class06\nClass07 .. Class08\nClass09 --\u003e C2 : Where am i?\nClass09 --_ C3\nClass09 --|\u003e Class07\nClass07 : equals()\nClass07 : Object[] elementData\nClass01 : size()\nClass01 : int chimp\nClass01 : int gorilla\nClass08 \u003c--\u003e C2: Cool label","id-6":"stateDiagram\n[*] --\u003e Still\nStill --\u003e [*]\nStill --\u003e Moving\nMoving --\u003e Still\nMoving --\u003e Crash\nCrash --\u003e [*]","id-7":"gitGraph:\noptions\n{\n\"nodeSpacing\": 100,\n\"nodeRadius\": 10\n}\nend\ncommit\nbranch newbranch\ncheckout newbranch\ncommit\ncommit\ncheckout master\ncommit\ncommit\nmerge newbranch","id-8":"pie\n\"Dogs\" : 386\n\"Cats\" : 85\n\"Rats\" : 15","id-9":"{\"grid\":{\"bottom\":\"5%\",\"containLabel\":true,\"left\":\"5%\",\"right\":\"5%\",\"top\":\"20%\"},\"legend\":{\"data\":[\"Email Marketing\",\"Affiliate Advertising\",\"Video Advertising\",\"Direct View\",\"Search Engine\"],\"top\":\"10%\"},\"series\":[{\"data\":[120,132,101,134,90,230,210],\"name\":\"Email Marketing\",\"stack\":\"Total\",\"type\":\"line\"},{\"data\":[220,182,191,234,290,330,310],\"name\":\"Affiliate Advertising\",\"stack\":\"Total\",\"type\":\"line\"},{\"data\":[150,232,201,154,190,330,410],\"name\":\"Video Advertising\",\"stack\":\"Total\",\"type\":\"line\"},{\"data\":[320,332,301,334,390,330,320],\"name\":\"Direct View\",\"stack\":\"Total\",\"type\":\"line\"},{\"data\":[820,932,901,934,1290,1330,1320],\"name\":\"Search Engine\",\"stack\":\"Total\",\"type\":\"line\"}],\"title\":{\"left\":\"center\",\"text\":\"Summary Line Chart\",\"top\":\"2%\"},\"toolbox\":{\"feature\":{\"saveAsImage\":{\"title\":\"Save as Image\"}}},\"tooltip\":{\"trigger\":\"axis\"},\"xAxis\":{\"boundaryGap\":false,\"data\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"type\":\"category\"},\"yAxis\":{\"type\":\"value\"}}"},"lightGallery":{"actualSize":false,"exThumbImage":"data-thumbnail","hideBarsDelay":2000,"selector":".lightgallery","speed":400,"thumbContHeight":80,"thumbWidth":80,"thumbnail":true},"mapbox":{"RTLTextPlugin":"https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.2.0/mapbox-gl-rtl-text.js","accessToken":"pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"ru","maxResultLength":10,"noResultsFound":"Ничего не найдено","snippetLength":30,"type":"lunr"},"typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"id-12":["id-12"],"id-13":["id-13"],"id-14":["id-14"],"paragraph":["id-15","id-16"]},"duration":-1,"speed":100}};</script><script type="text/javascript" src="/js/theme.min.js"></script><script type="text/javascript">console.log('Hello CodeIT!');</script></body>
+        </div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/css/lightgallery-bundle.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mapbox-gl@2.9.1/dist/mapbox-gl.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css"><link rel="stylesheet" href="/lib/aplayer/dark.min.css"><link rel="stylesheet" href="/css/2f1ef0.min.css"><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.stemmer.support.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.ru.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/lightgallery.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/plugins/thumbnail/lg-thumbnail.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/plugins/zoom/lg-zoom.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/typeit@8.6.0/dist/index.umd.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/copy-tex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/mhchem.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mermaid@9.1.3/dist/mermaid.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5.3.3/dist/echarts.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mapbox-gl@2.9.1/dist/mapbox-gl.min.js"></script><script type="text/javascript" src="/lib/mapbox-gl/mapbox-gl-language.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Копировать в буфер обмена","maxShownLines":25},"comment":{"utterances":{"darkTheme":"github-dark","issueTerm":"pathname","label":"💬 comments","lightTheme":"github-light","repo":"dvesti/diagonaal"}},"data":{"id-10":{"darkStyle":"mapbox://styles/mapbox/dark-v10?optimize=true","fullscreen":true,"geolocate":true,"lat":31.233,"lightStyle":"mapbox://styles/mapbox/light-v10?optimize=true","lng":121.485,"marked":true,"navigation":true,"scale":true,"zoom":12},"id-11":{"darkStyle":"mapbox://styles/mapbox/navigation-preview-night-v4?optimize=true","fullscreen":true,"geolocate":true,"lat":37.453,"lightStyle":"mapbox://styles/mapbox/navigation-preview-day-v4?optimize=true","lng":-122.252,"marked":false,"navigation":true,"scale":true,"zoom":10},"id-12":"This is a \u003cem\u003eparagraph\u003c/em\u003e with \u003cstrong\u003etyping animation\u003c/strong\u003e based on \u003ca href=\"https://typeitjs.com/\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eTypeIt\u003c/a\u003e\u0026hellip;","id-13":"This is a \u003cem\u003eparagraph\u003c/em\u003e with \u003cstrong\u003etyping animation\u003c/strong\u003e based on \u003ca href=\"https://typeitjs.com/\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eTypeIt\u003c/a\u003e\u0026hellip;","id-14":["\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"kd\"\u003epublic\u003c/span\u003e \u003cspan class=\"kd\"\u003eclass\u003c/span\u003e \u003cspan class=\"nc\"\u003eHelloWorld\u003c/span\u003e \u003cspan class=\"o\"\u003e{\u003c/span\u003e","\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"kd\"\u003epublic\u003c/span\u003e \u003cspan class=\"kd\"\u003estatic\u003c/span\u003e \u003cspan class=\"kt\"\u003evoid\u003c/span\u003e \u003cspan class=\"nf\"\u003emain\u003c/span\u003e\u003cspan class=\"o\"\u003e(\u003c/span\u003e\u003cspan class=\"n\"\u003eString\u003c/span\u003e \u003cspan class=\"o\"\u003e[]\u003c/span\u003e\u003cspan class=\"n\"\u003eargs\u003c/span\u003e\u003cspan class=\"o\"\u003e)\u003c/span\u003e \u003cspan class=\"o\"\u003e{\u003c/span\u003e","\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"n\"\u003eSystem\u003c/span\u003e\u003cspan class=\"o\"\u003e.\u003c/span\u003e\u003cspan class=\"na\"\u003eout\u003c/span\u003e\u003cspan class=\"o\"\u003e.\u003c/span\u003e\u003cspan class=\"na\"\u003eprintln\u003c/span\u003e\u003cspan class=\"o\"\u003e(\u003c/span\u003e\u003cspan class=\"s\"\u003e\u0026#34;Hello World\u0026#34;\u003c/span\u003e\u003cspan class=\"o\"\u003e);\u003c/span\u003e","\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"o\"\u003e}\u003c/span\u003e","\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"cl\"\u003e\u003cspan class=\"o\"\u003e}\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e"],"id-15":"\u003cstrong\u003eFirst\u003c/strong\u003e this paragraph begins","id-16":"\u003cstrong\u003eThen\u003c/strong\u003e this paragraph begins","id-2":"graph LR;\nA[Hard edge] --\u003e|Link text| B(Round edge)\nB --\u003e C{Decision}\nC --\u003e|One| D[Result one]\nC --\u003e|Two| E[Result two]","id-3":"sequenceDiagram\nparticipant Alice\nparticipant Bob\nAlice-\u003e\u003eJohn: Hello John, how are you?\nloop Healthcheck\nJohn-\u003eJohn: Fight against hypochondria\nend\nNote right of John: Rational thoughts \u003cbr/\u003eprevail...\nJohn--\u003eAlice: Great!\nJohn-\u003eBob: How about you?\nBob--\u003eJohn: Jolly good!","id-4":"gantt\ndateFormat YYYY-MM-DD\ntitle Adding GANTT diagram functionality to mermaid\nsection A section\nCompleted task :done, des1, 2014-01-06,2014-01-08\nActive task :active, des2, 2014-01-09, 3d\nFuture task : des3, after des2, 5d\nFuture task2 : des4, after des3, 5d\nsection Critical tasks\nCompleted task in the critical line :crit, done, 2014-01-06,24h\nImplement parser and jison :crit, done, after des1, 2d\nCreate tests for parser :crit, active, 3d\nFuture task in critical line :crit, 5d\nCreate tests for renderer :2d\nAdd to mermaid :1d","id-5":"classDiagram\nClass01 \u003c|-- AveryLongClass : Cool\nClass03 _-- Class04\nClass05 o-- Class06\nClass07 .. Class08\nClass09 --\u003e C2 : Where am i?\nClass09 --_ C3\nClass09 --|\u003e Class07\nClass07 : equals()\nClass07 : Object[] elementData\nClass01 : size()\nClass01 : int chimp\nClass01 : int gorilla\nClass08 \u003c--\u003e C2: Cool label","id-6":"stateDiagram\n[*] --\u003e Still\nStill --\u003e [*]\nStill --\u003e Moving\nMoving --\u003e Still\nMoving --\u003e Crash\nCrash --\u003e [*]","id-7":"gitGraph:\noptions\n{\n\"nodeSpacing\": 100,\n\"nodeRadius\": 10\n}\nend\ncommit\nbranch newbranch\ncheckout newbranch\ncommit\ncommit\ncheckout master\ncommit\ncommit\nmerge newbranch","id-8":"pie\n\"Dogs\" : 386\n\"Cats\" : 85\n\"Rats\" : 15","id-9":"{\"grid\":{\"bottom\":\"5%\",\"containLabel\":true,\"left\":\"5%\",\"right\":\"5%\",\"top\":\"20%\"},\"legend\":{\"data\":[\"Email Marketing\",\"Affiliate Advertising\",\"Video Advertising\",\"Direct View\",\"Search Engine\"],\"top\":\"10%\"},\"series\":[{\"data\":[120,132,101,134,90,230,210],\"name\":\"Email Marketing\",\"stack\":\"Total\",\"type\":\"line\"},{\"data\":[220,182,191,234,290,330,310],\"name\":\"Affiliate Advertising\",\"stack\":\"Total\",\"type\":\"line\"},{\"data\":[150,232,201,154,190,330,410],\"name\":\"Video Advertising\",\"stack\":\"Total\",\"type\":\"line\"},{\"data\":[320,332,301,334,390,330,320],\"name\":\"Direct View\",\"stack\":\"Total\",\"type\":\"line\"},{\"data\":[820,932,901,934,1290,1330,1320],\"name\":\"Search Engine\",\"stack\":\"Total\",\"type\":\"line\"}],\"title\":{\"left\":\"center\",\"text\":\"Summary Line Chart\",\"top\":\"2%\"},\"toolbox\":{\"feature\":{\"saveAsImage\":{\"title\":\"Save as Image\"}}},\"tooltip\":{\"trigger\":\"axis\"},\"xAxis\":{\"boundaryGap\":false,\"data\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"type\":\"category\"},\"yAxis\":{\"type\":\"value\"}}"},"echarts":{"darkTheme":{"backgroundColor":"rgba(41,52,65,1)","bar":{"itemStyle":{"barBorderColor":"#ccc","barBorderWidth":0}},"boxplot":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"candlestick":{"itemStyle":{"borderColor":"#fc97af","borderColor0":"#87f7cf","borderWidth":1,"color":"#fc97af","color0":"transparent"}},"categoryAxis":{"axisLabel":{"color":"#aaaaaa","show":true},"axisLine":{"lineStyle":{"color":"#666666"},"show":true},"axisTick":{"lineStyle":{"color":"#333"},"show":true},"splitArea":{"areaStyle":{"color":["rgba(250,250,250,0.05)","rgba(200,200,200,0.02)"]},"show":false},"splitLine":{"lineStyle":{"color":["#e6e6e6"]},"show":false}},"color":["#fc97af","#87f7cf","#f7f494","#72ccff","#f7c5a0","#d4a4eb","#d2f5a6","#76f2f2"],"dataZoom":{"backgroundColor":"rgba(255,255,255,0)","dataBackgroundColor":"rgba(114,204,255,1)","fillerColor":"rgba(114,204,255,0.2)","handleColor":"#72ccff","handleSize":"100%","textStyle":{"color":"#333333"}},"funnel":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"gauge":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"geo":{"emphasis":{"itemStyle":{"areaColor":"rgba(255,178,72,1)","borderColor":"#eb8146","borderWidth":1},"label":{"color":"rgb(137,52,72)"}},"itemStyle":{"areaColor":"#f3f3f3","borderColor":"#999999","borderWidth":0.5},"label":{"color":"#893448"}},"graph":{"color":["#fc97af","#87f7cf","#f7f494","#72ccff","#f7c5a0","#d4a4eb","#d2f5a6","#76f2f2"],"itemStyle":{"borderColor":"#ccc","borderWidth":0},"label":{"color":"#293441"},"lineStyle":{"color":"#ffffff","width":1},"smooth":true,"symbol":"emptyCircle","symbolSize":3},"legend":{"textStyle":{"color":"#999999"}},"line":{"itemStyle":{"borderWidth":1},"lineStyle":{"width":2},"smooth":true,"symbol":"circle","symbolSize":6},"logAxis":{"axisLabel":{"color":"#aaaaaa","show":true},"axisLine":{"lineStyle":{"color":"#666666"},"show":true},"axisTick":{"lineStyle":{"color":"#333"},"show":true},"splitArea":{"areaStyle":{"color":["rgba(250,250,250,0.05)","rgba(200,200,200,0.02)"]},"show":true},"splitLine":{"lineStyle":{"color":["#e6e6e6"]},"show":true}},"map":{"emphasis":{"itemStyle":{"areaColor":"rgba(255,178,72,1)","borderColor":"#eb8146","borderWidth":1},"label":{"color":"rgb(137,52,72)"}},"itemStyle":{"areaColor":"#f3f3f3","borderColor":"#999999","borderWidth":0.5},"label":{"color":"#893448"}},"markPoint":{"emphasis":{"label":{"color":"#293441"}},"label":{"color":"#293441"}},"parallel":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"pie":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"radar":{"itemStyle":{"borderWidth":1},"lineStyle":{"width":2},"smooth":true,"symbol":"circle","symbolSize":3},"sankey":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"scatter":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"textStyle":{},"timeAxis":{"axisLabel":{"color":"#aaaaaa","show":true},"axisLine":{"lineStyle":{"color":"#666666"},"show":true},"axisTick":{"lineStyle":{"color":"#333"},"show":true},"splitArea":{"areaStyle":{"color":["rgba(250,250,250,0.05)","rgba(200,200,200,0.02)"]},"show":false},"splitLine":{"lineStyle":{"color":["#e6e6e6"]},"show":true}},"timeline":{"checkpointStyle":{"borderColor":"#fc97af","color":"#fc97af"},"controlStyle":{"borderColor":"#87f7cf","borderWidth":0.5,"color":"#87f7cf"},"emphasis":{"controlStyle":{"borderColor":"#87f7cf","borderWidth":0.5,"color":"#87f7cf"},"itemStyle":{"color":"#f7f494"},"label":{"color":"#87f7cf"}},"itemStyle":{"borderWidth":1,"color":"#87f7cf"},"label":{"color":"#87f7cf"},"lineStyle":{"color":"#87f7cf","width":1}},"title":{"subtextStyle":{"color":"#dddddd"},"textStyle":{"color":"#ffffff"}},"toolbox":{"emphasis":{"iconStyle":{"borderColor":"#666666"}},"iconStyle":{"borderColor":"#999999"}},"tooltip":{"axisPointer":{"crossStyle":{"color":"#cccccc","width":1},"lineStyle":{"color":"#cccccc","width":1}}},"valueAxis":{"axisLabel":{"color":"#aaaaaa","show":true},"axisLine":{"lineStyle":{"color":"#666666"},"show":true},"axisTick":{"lineStyle":{"color":"#333"},"show":true},"splitArea":{"areaStyle":{"color":["rgba(250,250,250,0.05)","rgba(200,200,200,0.02)"]},"show":false},"splitLine":{"lineStyle":{"color":["#e6e6e6"]},"show":true}},"visualMap":{"color":["#fc97af","#87f7cf"]}},"lightTheme":{"backgroundColor":"rgba(0,0,0,0)","bar":{"itemStyle":{"barBorderColor":"#ccc","barBorderWidth":0}},"boxplot":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"candlestick":{"itemStyle":{"borderColor":"#d87a80","borderColor0":"#2ec7c9","borderWidth":1,"color":"#d87a80","color0":"#2ec7c9"}},"categoryAxis":{"axisLabel":{"color":"#333","show":true},"axisLine":{"lineStyle":{"color":"#008acd"},"show":true},"axisTick":{"lineStyle":{"color":"#333"},"show":true},"splitArea":{"areaStyle":{"color":["rgba(250,250,250,0.3)","rgba(200,200,200,0.3)"]},"show":false},"splitLine":{"lineStyle":{"color":["#eee"]},"show":false}},"color":["#2ec7c9","#b6a2de","#5ab1ef","#ffb980","#d87a80","#8d98b3","#e5cf0d","#97b552","#95706d","#dc69aa","#07a2a4","#9a7fd1","#588dd5","#f5994e","#c05050","#59678c","#c9ab00","#7eb00a","#6f5553","#c14089"],"dataZoom":{"backgroundColor":"rgba(47,69,84,0)","dataBackgroundColor":"#efefff","fillerColor":"rgba(182,162,222,0.2)","handleColor":"#008acd","handleSize":"100%","textStyle":{"color":"#333333"}},"funnel":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"gauge":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"geo":{"emphasis":{"itemStyle":{"areaColor":"rgba(254,153,78,1)","borderColor":"#444","borderWidth":1},"label":{"color":"rgb(100,0,0)"}},"itemStyle":{"areaColor":"#dddddd","borderColor":"#eeeeee","borderWidth":0.5},"label":{"color":"#d87a80"}},"graph":{"color":["#2ec7c9","#b6a2de","#5ab1ef","#ffb980","#d87a80","#8d98b3","#e5cf0d","#97b552","#95706d","#dc69aa","#07a2a4","#9a7fd1","#588dd5","#f5994e","#c05050","#59678c","#c9ab00","#7eb00a","#6f5553","#c14089"],"itemStyle":{"borderColor":"#ccc","borderWidth":0},"label":{"color":"#eeeeee"},"lineStyle":{"color":"#aaaaaa","width":1},"smooth":true,"symbol":"emptyCircle","symbolSize":3},"legend":{"textStyle":{"color":"#333333"}},"line":{"itemStyle":{"borderWidth":1},"lineStyle":{"width":2},"smooth":true,"symbol":"emptyCircle","symbolSize":5},"logAxis":{"axisLabel":{"color":"#333","show":true},"axisLine":{"lineStyle":{"color":"#008acd"},"show":true},"axisTick":{"lineStyle":{"color":"#333"},"show":true},"splitArea":{"areaStyle":{"color":["rgba(250,250,250,0.3)","rgba(200,200,200,0.3)"]},"show":true},"splitLine":{"lineStyle":{"color":["#eee"]},"show":true}},"map":{"emphasis":{"itemStyle":{"areaColor":"rgba(254,153,78,1)","borderColor":"#444","borderWidth":1},"label":{"color":"rgb(100,0,0)"}},"itemStyle":{"areaColor":"#dddddd","borderColor":"#eeeeee","borderWidth":0.5},"label":{"color":"#d87a80"}},"markPoint":{"emphasis":{"label":{"color":"#eeeeee"}},"label":{"color":"#eeeeee"}},"parallel":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"pie":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"radar":{"itemStyle":{"borderWidth":1},"lineStyle":{"width":2},"smooth":true,"symbol":"emptyCircle","symbolSize":3},"sankey":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"scatter":{"itemStyle":{"borderColor":"#ccc","borderWidth":0}},"textStyle":{},"timeAxis":{"axisLabel":{"color":"#333","show":true},"axisLine":{"lineStyle":{"color":"#008acd"},"show":true},"axisTick":{"lineStyle":{"color":"#333"},"show":true},"splitArea":{"areaStyle":{"color":["rgba(250,250,250,0.3)","rgba(200,200,200,0.3)"]},"show":false},"splitLine":{"lineStyle":{"color":["#eee"]},"show":true}},"timeline":{"checkpointStyle":{"borderColor":"#2ec7c9","color":"#2ec7c9"},"controlStyle":{"borderColor":"#008acd","borderWidth":0.5,"color":"#008acd"},"emphasis":{"controlStyle":{"borderColor":"#008acd","borderWidth":0.5,"color":"#008acd"},"itemStyle":{"color":"#a9334c"},"label":{"color":"#008acd"}},"itemStyle":{"borderWidth":1,"color":"#008acd"},"label":{"color":"#008acd"},"lineStyle":{"color":"#008acd","width":1}},"title":{"subtextStyle":{"color":"#aaaaaa"},"textStyle":{"color":"#008acd"}},"toolbox":{"emphasis":{"iconStyle":{"borderColor":"#18a4a6"}},"iconStyle":{"borderColor":"#2ec7c9"}},"tooltip":{"axisPointer":{"crossStyle":{"color":"#008acd","width":1},"lineStyle":{"color":"#008acd","width":1}}},"valueAxis":{"axisLabel":{"color":"#333","show":true},"axisLine":{"lineStyle":{"color":"#008acd"},"show":true},"axisTick":{"lineStyle":{"color":"#333"},"show":true},"splitArea":{"areaStyle":{"color":["rgba(250,250,250,0.3)","rgba(200,200,200,0.3)"]},"show":true},"splitLine":{"lineStyle":{"color":["#eee"]},"show":true}},"visualMap":{"color":["#5ab1ef","#e0ffff"]}}},"lightgallery":true,"mapbox":{"RTLTextPlugin":"https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.2.0/mapbox-gl-rtl-text.js","accessToken":"pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"ru","maxResultLength":10,"noResultsFound":"Результатов не найдено","snippetLength":30,"type":"lunr"},"typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"id-12":["id-12"],"id-13":["id-13"],"id-14":["id-14"],"paragraph":["id-15","id-16"]},"duration":-1,"speed":100}};</script><script type="text/javascript" src="/js/theme.min.js"></script><script type="text/javascript">console.log('Hello CodeIT!');</script></body>
 </html>
