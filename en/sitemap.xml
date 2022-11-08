@@ -101,7 +101,15 @@
                     href="https://diagonaal.ru/en/about/"
                     /></url><url>
             <loc>https://diagonaal.ru/en/tags/academic/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="https://diagonaal.ru/1/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/"
+                    /></url><url>
             <loc>https://diagonaal.ru/en/tags/themes/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://diagonaal.ru/en/2014/creating-a-new-theme/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://diagonaal.ru/en/tags/development/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>

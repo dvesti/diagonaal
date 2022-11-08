@@ -115,4 +115,13 @@
                     rel="alternate"
                     hreflang="ru"
                     href="https://diagonaal.ru/about/"
+                    /></url><url>
+            <loc>https://diagonaal.ru/1/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="ru"
+                    href="https://diagonaal.ru/1/"
                     /></url></urlset>
