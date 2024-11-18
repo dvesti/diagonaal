@@ -44,10 +44,7 @@
 </div><p>renders as</p>
 <div class="mermaid" id="id-1"></div>
 <h3 id="диаграмма">Диаграмма</h3>
-<a href="#some-interesting-title-">
-  <h2 id="some-interesting-title-">Some Interesting Title - диаграмма</h2>
-</a>  
-
+<p>{{/<em>&lt; link-heading &ldquo;Some Interesting Title - диаграмма&rdquo; &gt;</em>/}}</p>
 <p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the <code>diagram</code> option in your <code>config/_default/params.toml</code> file or by adding <code>diagram: true</code> to your page front matter.</p>
 <h2 id="an-example-flowchart----в-столбец-td">An example <strong>flowchart</strong> &ndash; в столбец TD:</h2>
 <div class="highlight"><div class="chroma">

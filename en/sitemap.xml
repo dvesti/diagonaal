@@ -112,7 +112,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/2021/bookmarks/"
                     /></url><url>
-            <loc>http://localhost:4321/en/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/"
@@ -121,7 +121,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/"
                     /></url><url>
-            <loc>http://localhost:4321/en/posts/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/posts/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/posts/"
@@ -130,7 +130,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/posts/"
                     /></url><url>
-            <loc>http://localhost:4321/en/tags/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/tags/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/tags/"
@@ -139,7 +139,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/tags/"
                     /></url><url>
-            <loc>http://localhost:4321/en/categories/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/categories/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/categories/"
@@ -148,7 +148,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/categories/"
                     /></url><url>
-            <loc>http://localhost:4321/en/tags/code/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/tags/code/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/tags/code/"
@@ -157,7 +157,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/tags/code/"
                     /></url><url>
-            <loc>http://localhost:4321/en/tags/hugo/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/tags/hugo/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/tags/hugo/"
@@ -166,7 +166,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/tags/hugo/"
                     /></url><url>
-            <loc>http://localhost:4321/en/2020/map-mermaid/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/2020/map-mermaid/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/2020/map-mermaid/"
@@ -175,7 +175,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/2020/map-mermaid/"
                     /></url><url>
-            <loc>http://localhost:4321/en/categories/markdown/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/categories/markdown/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/categories/markdown/"
@@ -184,7 +184,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/categories/markdown/"
                     /></url><url>
-            <loc>http://localhost:4321/en/tags/blog/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/tags/blog/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/tags/blog/"
@@ -193,7 +193,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/tags/blog/"
                     /></url><url>
-            <loc>http://localhost:4321/en/categories/demo/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/categories/demo/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/categories/demo/"
@@ -202,7 +202,7 @@
                     hreflang="en"
                     href="http://localhost:4321/en/categories/demo/"
                     /></url><url>
-            <loc>http://localhost:4321/en/2020/my-article-name/</loc><lastmod>2022-11-06T02:18:51&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/en/2020/my-article-name/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ru"
                         href="http://localhost:4321/2020/my-article-name-ru/"
