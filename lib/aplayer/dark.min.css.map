@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "dark.min.css",
-	"sourceRoot": "C:/Hugo/Sites/site-dia",
+	"sourceRoot": "E:/Sites/Hugo/diagonaal",
 	"sources": [
 		"themes/LoveIt/assets/lib/aplayer/dark.scss"
 	],

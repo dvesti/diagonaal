@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Comments - Тэг - Diagonaal</title>
-        <link>https://diagonaal.ru/tags/comments/</link>
+        <link>http://localhost:4321/tags/comments/</link>
         <description>Comments - Тэг - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><managingEditor>one2one@hot.ee (Antuan)</managingEditor>
-            <webMaster>one2one@hot.ee (Antuan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 05 Jul 2020 17:30:13 &#43;0300</lastBuildDate><atom:link href="https://diagonaal.ru/tags/comments/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 05 Jul 2020 17:30:13 &#43;0300</lastBuildDate><atom:link href="http://localhost:4321/tags/comments/" rel="self" type="application/rss+xml" /><item>
     <title>Статьи можно комментировать</title>
-    <link>https://diagonaal.ru/2020/kommentirujem-statji/</link>
+    <link>http://localhost:4321/2020/kommentirujem-statji/</link>
     <pubDate>Sun, 05 Jul 2020 17:30:13 &#43;0300</pubDate>
     <author>Antuan</author>
-    <guid>https://diagonaal.ru/2020/kommentirujem-statji/</guid>
+    <guid>http://localhost:4321/2020/kommentirujem-statji/</guid>
     <description><![CDATA[<p>Добавил возможность под каждой статьёй оставлять свой комментарий</p>
 <p>Для этого использовал <a href="https://sourcethemes.com/academic/docs/customization/#comments" target="_blank" rel="noopener noreffer "><strong>это</strong></a> руководство.<br>
 В частности, в файле <code>config/_default/params.toml</code> установил <code>engine = 1</code> и в графе <code>shortname = &quot;&quot;</code> поставил <em>короткое имя</em>, созданное на <strong>Disqus</strong>-e для этого сайта.<br>

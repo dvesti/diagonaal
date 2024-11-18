@@ -1,28 +1,36 @@
 <!DOCTYPE html>
 <html lang="ru">
-    <head>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-        <title>Creating a New Theme - Diagonaal</title><meta name="Description" content="Diagonaal"><meta property="og:title" content="Creating a New Theme" />
-<meta property="og:description" content="Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
-We&rsquo;ll start with creating a new site with a very basic template." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://diagonaal.ru/2014/creating-a-new-theme/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2014-09-28T00:00:00+00:00" />
-<meta property="article:modified_time" content="2022-10-24T18:25:30+03:00" /><meta property="og:site_name" content="My cool site" />
+        <title>Creating a New Theme - Diagonaal</title><meta name="Description" content="Diagonaal"><meta property="og:url" content="http://localhost:4321/2014/creating-a-new-theme/">
+  <meta property="og:site_name" content="Diagonaal">
+  <meta property="og:title" content="Creating a New Theme">
+  <meta property="og:description" content="Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I’ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won’t cover using CSS to style your theme.
+We’ll start with creating a new site with a very basic template. Then we’ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.">
+  <meta property="og:locale" content="ru">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2014-09-28T00:00:00+00:00">
+    <meta property="article:modified_time" content="2014-09-28T00:00:00+00:00">
+    <meta property="article:tag" content="Go">
+    <meta property="article:tag" content="Golang">
+    <meta property="article:tag" content="Templates">
+    <meta property="article:tag" content="Themes">
+    <meta property="article:tag" content="Development">
 
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Creating a New Theme"/>
-<meta name="twitter:description" content="Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
-We&rsquo;ll start with creating a new site with a very basic template."/>
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Creating a New Theme">
+  <meta name="twitter:description" content="Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I’ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won’t cover using CSS to style your theme.
+We’ll start with creating a new site with a very basic template. Then we’ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.">
+      <meta name="twitter:site" content="@Prorab">
 <meta name="application-name" content="Diagonaal.ru">
 <meta name="apple-mobile-web-app-title" content="Diagonaal.ru"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://diagonaal.ru/2014/creating-a-new-theme/" /><link rel="next" href="https://diagonaal.ru/2016/academic-the-website-builder-for-hugo/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://localhost:4321/2014/creating-a-new-theme/" /><link rel="prev" href="http://localhost:4321/1/" /><link rel="next" href="http://localhost:4321/2020/my-article-name-ru/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="/lib/fontawesome-free/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"></noscript><link rel="preload" href="/lib/animate/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -30,9 +38,9 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
         "inLanguage": "ru",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https:\/\/diagonaal.ru\/2014\/creating-a-new-theme\/"
+            "@id": "http:\/\/localhost:4321\/2014\/creating-a-new-theme\/"
         },"genre": "posts","keywords": "go, golang, templates, themes, development","wordcount":  7829 ,
-        "url": "https:\/\/diagonaal.ru\/2014\/creating-a-new-theme\/","datePublished": "2014-09-28T00:00:00+00:00","dateModified": "2022-10-24T18:25:30+03:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+        "url": "http:\/\/localhost:4321\/2014\/creating-a-new-theme\/","datePublished": "2014-09-28T00:00:00+00:00","dateModified": "2014-09-28T00:00:00+00:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
                 "@type": "Person",
@@ -40,7 +48,7 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
             },"description": ""
     }
     </script></head>
-    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
 
         <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
     <div class="header-wrapper">
@@ -48,8 +56,8 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
             <a href="/" title="Diagonaal"><span class="header-title-pre"><i class='fas fa-laptop-code fa-fw'></i></span>Diagonaal</a>
         </div>
         <div class="menu">
-            <div class="menu-inner"><a class="menu-item" href="/posts/"> Архив </a><a class="menu-item" href="/categories/"> Категории </a><a class="menu-item" href="/tags/"> Тэги </a><a class="menu-item" href="/about/"> O нас </a><a class="menu-item" href="/2021/covid-chart/"> Корона </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
-                        <input type="text" placeholder="Поиск заголовков или содержимого ..." id="search-input-desktop">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> Архив </a><a class="menu-item" href="/categories/"> Категории </a><a class="menu-item" href="/tags/"> Тэги </a><a class="menu-item" href="/about/"> O нас </a><a class="menu-item" href="/categories/documentation/"> Доки </a><a class="menu-item" href="/2021/covid-chart/"> Корона </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="Поиск ..." id="search-input-desktop">
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Поиск">
                             <i class="fas fa-search fa-fw" aria-hidden="true"></i>
                         </a>
@@ -63,7 +71,7 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
                     <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
                 </a><a href="javascript:void(0);" class="menu-item language" title="Выбор Языка">
                     <i class="fa fa-globe" aria-hidden="true"></i>                      
-                    <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/2014/creating-a-new-theme/" selected>Русский</option></select>
+                    <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/2014/creating-a-new-theme/" selected>Русский</option><option value="/en/2014/creating-a-new-theme/">English</option></select>
                 </a></div>
         </div>
     </div>
@@ -79,7 +87,7 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
         </div>
         <div class="menu" id="menu-mobile"><div class="search-wrapper">
                     <div class="search mobile" id="search-mobile">
-                        <input type="text" placeholder="Поиск заголовков или содержимого ..." id="search-input-mobile">
+                        <input type="text" placeholder="Поиск ..." id="search-input-mobile">
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Поиск">
                             <i class="fas fa-search fa-fw" aria-hidden="true"></i>
                         </a>
@@ -93,11 +101,11 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
                     <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
                         Отменить
                     </a>
-                </div><a class="menu-item" href="/posts/" title="">Архив</a><a class="menu-item" href="/categories/" title="">Категории</a><a class="menu-item" href="/tags/" title="">Тэги</a><a class="menu-item" href="/about/" title="">O нас</a><a class="menu-item" href="/2021/covid-chart/" title="">Корона</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Сменить Тему">
+                </div><a class="menu-item" href="/posts/" title="">Архив</a><a class="menu-item" href="/categories/" title="">Категории</a><a class="menu-item" href="/tags/" title="">Тэги</a><a class="menu-item" href="/about/" title="">O нас</a><a class="menu-item" href="/categories/documentation/" title="">Доки</a><a class="menu-item" href="/2021/covid-chart/" title="">Корона</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Сменить Тему">
                 <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
             </a><a href="javascript:void(0);" class="menu-item" title="Выбор Языка">
                     <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
-                    <select class="language-select" onchange="location = this.value;"><option value="/2014/creating-a-new-theme/" selected>Русский</option></select>
+                    <select class="language-select" onchange="location = this.value;"><option value="/2014/creating-a-new-theme/" selected>Русский</option><option value="/en/2014/creating-a-new-theme/">English</option></select>
                 </a></div>
     </div>
 </header><div class="search-dropdown desktop">
@@ -110,7 +118,7 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
             <h2 class="toc-title">Содержание</h2>
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Creating a New Theme</h1><div class="post-meta">
-            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Michael Henderson</a></span>&nbsp;<span class="post-category">включен в <a href="/categories/development/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>Development</a>&nbsp;<a href="/categories/golang/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>golang</a>&nbsp;<a href="/categories/index/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>index</a></span></div>
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Michael Henderson</a></span>&nbsp;<span class="post-category">Категории: <a href="/categories/development/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>Development</a>&nbsp;<a href="/categories/golang/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>Golang</a>&nbsp;<a href="/categories/index/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>Index</a></span></div>
             <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="28-09-2014">28-09-2014</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;7829 слов&nbsp;
                 <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;37 минут&nbsp;</div>
         </div><div class="details toc" id="toc-static"  data-kept="">
@@ -923,16 +931,16 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
 </span><span class="lnt">10
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$ cat public/index.html
-</span></span><span class="line"><span class="cl">&lt;!DOCTYPE html&gt;
-</span></span><span class="line"><span class="cl">&lt;html&gt;
-</span></span><span class="line"><span class="cl">&lt;body&gt;
-</span></span><span class="line"><span class="cl">  &lt;p&gt;hugo says hello!&lt;/p&gt;
-</span></span><span class="line"><span class="cl">&lt;script&gt;document.write(&#39;&lt;script src=&#34;http://&#39;
-</span></span><span class="line"><span class="cl">        + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0]
-</span></span><span class="line"><span class="cl">    + &#39;:1313/livereload.js?mindelay=10&#34;&gt;&lt;/&#39;
-</span></span><span class="line"><span class="cl">        + &#39;script&gt;&#39;)&lt;/script&gt;&lt;/body&gt;
-</span></span><span class="line"><span class="cl">&lt;/html&gt;
+<pre tabindex="0" class="chroma"><code class="language-gdscript3" data-lang="gdscript3"><span class="line"><span class="cl"><span class="o">$</span> <span class="n">cat</span> <span class="n">public</span><span class="o">/</span><span class="n">index</span><span class="o">.</span><span class="n">html</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;!</span><span class="n">DOCTYPE</span> <span class="n">html</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">html</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">body</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="n">hugo</span> <span class="n">says</span> <span class="n">hello</span><span class="o">!&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">script</span><span class="o">&gt;</span><span class="n">document</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s1">&#39;&lt;script src=&#34;http://&#39;</span>
+</span></span><span class="line"><span class="cl">        <span class="o">+</span> <span class="p">(</span><span class="n">location</span><span class="o">.</span><span class="n">host</span> <span class="o">||</span> <span class="s1">&#39;localhost&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;:&#39;</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="o">+</span> <span class="s1">&#39;:1313/livereload.js?mindelay=10&#34;&gt;&lt;/&#39;</span>
+</span></span><span class="line"><span class="cl">        <span class="o">+</span> <span class="s1">&#39;script&gt;&#39;</span><span class="p">)</span><span class="o">&lt;/</span><span class="n">script</span><span class="o">&gt;&lt;/</span><span class="n">body</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;/</span><span class="n">html</span><span class="o">&gt;</span>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>When you use <code>--watch</code>, the Live Reload script is added by Hugo. Look for live reload in the documentation to see what it does and how to disable it.</p>
@@ -1583,19 +1591,19 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
 </span><span class="lnt">13
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$ cat public/index.html
-</span></span><span class="line"><span class="cl">&lt;!DOCTYPE html&gt;
-</span></span><span class="line"><span class="cl">&lt;html&gt;
-</span></span><span class="line"><span class="cl">&lt;body&gt;
-</span></span><span class="line"><span class="cl">    &lt;h1&gt;&lt;a href=&#34;http://localhost:1313/post/theme/&#34;&gt;creating a new theme&lt;/a&gt;&lt;/h1&gt;
-</span></span><span class="line"><span class="cl">    &lt;h1&gt;&lt;a href=&#34;http://localhost:1313/about-time/&#34;&gt;about&lt;/a&gt;&lt;/h1&gt;
-</span></span><span class="line"><span class="cl">    &lt;h1&gt;&lt;a href=&#34;http://localhost:1313/post/second-post/&#34;&gt;second&lt;/a&gt;&lt;/h1&gt;
-</span></span><span class="line"><span class="cl">    &lt;h1&gt;&lt;a href=&#34;http://localhost:1313/post/first-post/&#34;&gt;first&lt;/a&gt;&lt;/h1&gt;
-</span></span><span class="line"><span class="cl">&lt;script&gt;document.write(&#39;&lt;script src=&#34;http://&#39;
-</span></span><span class="line"><span class="cl">        + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0]
-</span></span><span class="line"><span class="cl">		+ &#39;:1313/livereload.js?mindelay=10&#34;&gt;&lt;/&#39;
-</span></span><span class="line"><span class="cl">        + &#39;script&gt;&#39;)&lt;/script&gt;&lt;/body&gt;
-</span></span><span class="line"><span class="cl">&lt;/html&gt;
+<pre tabindex="0" class="chroma"><code class="language-gdscript3" data-lang="gdscript3"><span class="line"><span class="cl"><span class="o">$</span> <span class="n">cat</span> <span class="n">public</span><span class="o">/</span><span class="n">index</span><span class="o">.</span><span class="n">html</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;!</span><span class="n">DOCTYPE</span> <span class="n">html</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">html</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">body</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;&lt;</span><span class="n">a</span> <span class="n">href</span><span class="o">=</span><span class="s2">&#34;http://localhost:1313/post/theme/&#34;</span><span class="o">&gt;</span><span class="n">creating</span> <span class="n">a</span> <span class="n">new</span> <span class="n">theme</span><span class="o">&lt;/</span><span class="n">a</span><span class="o">&gt;&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;&lt;</span><span class="n">a</span> <span class="n">href</span><span class="o">=</span><span class="s2">&#34;http://localhost:1313/about-time/&#34;</span><span class="o">&gt;</span><span class="n">about</span><span class="o">&lt;/</span><span class="n">a</span><span class="o">&gt;&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;&lt;</span><span class="n">a</span> <span class="n">href</span><span class="o">=</span><span class="s2">&#34;http://localhost:1313/post/second-post/&#34;</span><span class="o">&gt;</span><span class="n">second</span><span class="o">&lt;/</span><span class="n">a</span><span class="o">&gt;&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;&lt;</span><span class="n">a</span> <span class="n">href</span><span class="o">=</span><span class="s2">&#34;http://localhost:1313/post/first-post/&#34;</span><span class="o">&gt;</span><span class="n">first</span><span class="o">&lt;/</span><span class="n">a</span><span class="o">&gt;&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">script</span><span class="o">&gt;</span><span class="n">document</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s1">&#39;&lt;script src=&#34;http://&#39;</span>
+</span></span><span class="line"><span class="cl">        <span class="o">+</span> <span class="p">(</span><span class="n">location</span><span class="o">.</span><span class="n">host</span> <span class="o">||</span> <span class="s1">&#39;localhost&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;:&#39;</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">		<span class="o">+</span> <span class="s1">&#39;:1313/livereload.js?mindelay=10&#34;&gt;&lt;/&#39;</span>
+</span></span><span class="line"><span class="cl">        <span class="o">+</span> <span class="s1">&#39;script&gt;&#39;</span><span class="p">)</span><span class="o">&lt;/</span><span class="n">script</span><span class="o">&gt;&lt;/</span><span class="n">body</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;/</span><span class="n">html</span><span class="o">&gt;</span>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>Notice that the &ldquo;about&rdquo; link is listed with the posts? That&rsquo;s not desirable, so let&rsquo;s change that first.</p>
@@ -1906,39 +1914,37 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>Oбновлена 24-10-2022</span>
+                <span>Oбновлено: 28-09-2014</span>
             </div></div>
         <div class="post-info-line">
             <div class="post-info-md"></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Поделиться в Twitter" data-sharer="twitter" data-url="https://diagonaal.ru/2014/creating-a-new-theme/" data-title="Creating a New Theme" data-via="Prorab" data-hashtags="go,golang,templates,themes,development"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в Facebook" data-sharer="facebook" data-url="https://diagonaal.ru/2014/creating-a-new-theme/" data-hashtag="go"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в VK" data-sharer="vk" data-url="https://diagonaal.ru/2014/creating-a-new-theme/" data-title="Creating a New Theme"><i class="fab fa-vk fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в OK.RU" data-sharer="okru" data-url="https://diagonaal.ru/2014/creating-a-new-theme/" data-title="Creating a New Theme"><i class="fab fa-odnoklassniki fa-fw" aria-hidden="true"></i></a></span>
+                <span><a href="javascript:void(0);" title="Поделиться в  Twitter" data-sharer="twitter" data-url="http://localhost:4321/2014/creating-a-new-theme/" data-title="Creating a New Theme" data-via="Prorab" data-hashtags="go,golang,templates,themes,development"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в  Facebook" data-sharer="facebook" data-url="http://localhost:4321/2014/creating-a-new-theme/" data-hashtag="go"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в  VK" data-sharer="vk" data-url="http://localhost:4321/2014/creating-a-new-theme/" data-title="Creating a New Theme"><i class="fab fa-vk fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Поделиться в  OK.RU" data-sharer="okru" data-url="http://localhost:4321/2014/creating-a-new-theme/" data-title="Creating a New Theme"><i class="fab fa-odnoklassniki fa-fw" aria-hidden="true"></i></a></span>
             </div>
         </div>
     </div>
 
     <div class="post-info-more">
-        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/go/">go</a>,&nbsp;<a href="/tags/golang/">golang</a>,&nbsp;<a href="/tags/templates/">templates</a>,&nbsp;<a href="/tags/themes/">themes</a>,&nbsp;<a href="/tags/development/">development</a></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/go/">Go</a>,&nbsp;<a href="/tags/golang/">Golang</a>,&nbsp;<a href="/tags/templates/">Templates</a>,&nbsp;<a href="/tags/themes/">Themes</a>,&nbsp;<a href="/tags/development/">Development</a></section>
         <section>
             <span><a href="javascript:void(0);" onclick="window.history.back();">Назад</a></span>&nbsp;|&nbsp;<span><a href="/">Домой</a></span>
         </section>
     </div>
 
-    <div class="post-nav">
-            <a href="/2016/academic-the-website-builder-for-hugo/" class="next" rel="next" title="Academic: the website builder for Hugo">Academic: the website builder for Hugo<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+    <div class="post-nav"><a href="/1/" class="prev" rel="prev" title=""><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i></a>
+            <a href="/2020/my-article-name-ru/" class="next" rel="next" title="My Article Name – Тест">My Article Name – Тест<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
 </div>
-<div id="comments"><div id="utterances" class="comment"></div><noscript>
-                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">utterances</a>.
-            </noscript></div></article></div>
+</article></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">Сделано <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.105.0">Hugo</a> | Тема - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.11"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
-                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2021 - 2022</span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        <div class="footer-container"><div class="footer-line">Созданj на <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.138.0">Hugo</a> | Тема: <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.11"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2021 - 2024</span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
         </div>
     </footer></div>
 
-        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Наверх">
-                <i class="fas fa-arrow-up fa-fw"></i>
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Вверх">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
             </a><a href="#" id="view-comments" class="fixed-button" title="Посмотреть комментарии">
-                <i class="fas fa-comment fa-fw"></i>
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
             </a>
-        </div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/css/lightgallery-bundle.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.stemmer.support.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.ru.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/lightgallery.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/plugins/thumbnail/lg-thumbnail.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/plugins/zoom/lg-zoom.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/copy-tex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Копировать в буфер обмена","maxShownLines":25},"comment":{"utterances":{"darkTheme":"github-dark","issueTerm":"pathname","label":"💬 comments","lightTheme":"github-light","repo":"dvesti/diagonaal"}},"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"ru","maxResultLength":10,"noResultsFound":"Результатов не найдено","snippetLength":30,"type":"lunr"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+        </div><link rel="stylesheet" href="/lib/lightgallery/css/lightgallery-bundle.min.css"><link rel="stylesheet" href="/lib/katex/katex.min.css"><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.stemmer.support.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.ru.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lightgallery.min.js"></script><script type="text/javascript" src="/lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script><script type="text/javascript" src="/lib/lightgallery/plugins/zoom/lg-zoom.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/contrib/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/contrib/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/contrib/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Копировать в буфер обмена","maxShownLines":25},"comment":{},"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"ru","maxResultLength":10,"noResultsFound":"Ничего не найдено","snippetLength":30,"type":"lunr"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
 </html>
