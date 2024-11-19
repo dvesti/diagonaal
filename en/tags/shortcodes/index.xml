@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Shortcodes - Tag - Diagonaal</title>
-        <link>https://diagonaal.ru/en/tags/shortcodes/</link>
+        <link>http://localhost:4321/en/tags/shortcodes/</link>
         <description>Shortcodes - Tag - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</lastBuildDate><atom:link href="https://diagonaal.ru/en/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</lastBuildDate><atom:link href="http://localhost:4321/en/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>https://diagonaal.ru/en/2020/theme-documentation-built-in-shortcodes/</link>
+    <link>http://localhost:4321/en/2020/theme-documentation-built-in-shortcodes/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>https://diagonaal.ru/en/2020/theme-documentation-built-in-shortcodes/</guid>
+    <guid>http://localhost:4321/en/2020/theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>
 <p>Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.</p>
 <p>But this happens to be a bad idea. Everyone uses Markdown because it’s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.</p>
@@ -215,10 +215,10 @@ Hugo provides multiple built-in shortcodes for author convenience and to keep yo
 </item>
 <item>
     <title>Theme Documentation - Extended Shortcodes</title>
-    <link>https://diagonaal.ru/en/2020/theme-documentation-extended-shortcodes/</link>
+    <link>http://localhost:4321/en/2020/theme-documentation-extended-shortcodes/</link>
     <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>https://diagonaal.ru/en/2020/theme-documentation-extended-shortcodes/</guid>
+    <guid>http://localhost:4321/en/2020/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>
 <h2 id="1-style">1 style</h2>
 <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
@@ -623,10 +623,10 @@ This is useful when you want to include some Markdown content to <strong>avoid b
 </item>
 <item>
     <title>Theme Documentation - mermaid Shortcode</title>
-    <link>https://diagonaal.ru/en/2020/theme-documentation-mermaid-shortcode/</link>
+    <link>http://localhost:4321/en/2020/theme-documentation-mermaid-shortcode/</link>
     <pubDate>Tue, 03 Mar 2020 15:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>https://diagonaal.ru/en/2020/theme-documentation-mermaid-shortcode/</guid>
+    <guid>http://localhost:4321/en/2020/theme-documentation-mermaid-shortcode/</guid>
     <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
 <p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">Mermaid</a> library.</p>
 <p><strong>Mermaid</strong> is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.</p>
@@ -966,10 +966,10 @@ This is useful when you want to include some Markdown content to <strong>avoid b
 </item>
 <item>
     <title>Theme Documentation - echarts Shortcode</title>
-    <link>https://diagonaal.ru/en/2020/theme-documentation-echarts-shortcode/</link>
+    <link>http://localhost:4321/en/2020/theme-documentation-echarts-shortcode/</link>
     <pubDate>Tue, 03 Mar 2020 14:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>https://diagonaal.ru/en/2020/theme-documentation-echarts-shortcode/</guid>
+    <guid>http://localhost:4321/en/2020/theme-documentation-echarts-shortcode/</guid>
     <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> library.</p>
 <p><strong>ECharts</strong> is a library helping you to generate interactive data visualization.</p>
 <p>The basic chart types ECharts supports include <a href="https://echarts.apache.org/en/option.html#series-line" target="_blank" rel="noopener noreffer ">line series</a>, <a href="https://echarts.apache.org/en/option.html#series-line" target="_blank" rel="noopener noreffer ">bar series</a>, <a href="https://echarts.apache.org/en/option.html#series-scatter" target="_blank" rel="noopener noreffer ">scatter series</a>, <a href="https://echarts.apache.org/en/option.html#series-pie" target="_blank" rel="noopener noreffer ">pie charts</a>, <a href="https://echarts.apache.org/en/option.html#series-candlestick" target="_blank" rel="noopener noreffer ">candle-stick series</a>, <a href="https://echarts.apache.org/en/option.html#series-boxplot" target="_blank" rel="noopener noreffer ">boxplot series</a> for statistics, <a href="https://echarts.apache.org/en/option.html#series-map" target="_blank" rel="noopener noreffer ">map series</a>, <a href="https://echarts.apache.org/en/option.html#series-heatmap" target="_blank" rel="noopener noreffer ">heatmap series</a>, <a href="https://echarts.apache.org/en/option.html#series-lines" target="_blank" rel="noopener noreffer ">lines series</a> for directional information, <a href="https://echarts.apache.org/en/option.html#series-graph" target="_blank" rel="noopener noreffer ">graph series</a> for relationships, <a href="https://echarts.apache.org/en/option.html#series-treemap" target="_blank" rel="noopener noreffer ">treemap series</a>, <a href="https://echarts.apache.org/en/option.html#series-sunburst" target="_blank" rel="noopener noreffer ">sunburst series</a>, <a href="https://echarts.apache.org/en/option.html#series-parallel" target="_blank" rel="noopener noreffer ">parallel series</a> for multi-dimensional data, <a href="https://echarts.apache.org/en/option.html#series-funnel" target="_blank" rel="noopener noreffer ">funnel series</a>, <a href="https://echarts.apache.org/en/option.html#series-gauge" target="_blank" rel="noopener noreffer ">gauge series</a>. And it&rsquo;s extremely easy to create a combinition of them with ECharts.</p>
@@ -1575,10 +1575,10 @@ This is useful when you want to include some Markdown content to <strong>avoid b
 </item>
 <item>
     <title>Theme Documentation - mapbox Shortcode</title>
-    <link>https://diagonaal.ru/en/2020/theme-documentation-mapbox-shortcode/</link>
+    <link>http://localhost:4321/en/2020/theme-documentation-mapbox-shortcode/</link>
     <pubDate>Tue, 03 Mar 2020 13:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>https://diagonaal.ru/en/2020/theme-documentation-mapbox-shortcode/</guid>
+    <guid>http://localhost:4321/en/2020/theme-documentation-mapbox-shortcode/</guid>
     <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> library.</p>
 <p><strong>Mapbox GL JS</strong> is a JavaScript library that uses WebGL to render interactive maps from <a href="https://docs.mapbox.com/help/glossary/vector-tiles/" target="_blank" rel="noopener noreffer ">vector tiles</a> and <a href="https://docs.mapbox.com/mapbox-gl-js/style-spec/" target="_blank" rel="noopener noreffer ">Mapbox styles</a>.</p>
@@ -1666,10 +1666,10 @@ This is useful when you want to include some Markdown content to <strong>avoid b
 </item>
 <item>
     <title>Theme Documentation - music Shortcode</title>
-    <link>https://diagonaal.ru/en/2020/theme-documentation-music-shortcode/</link>
+    <link>http://localhost:4321/en/2020/theme-documentation-music-shortcode/</link>
     <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>https://diagonaal.ru/en/2020/theme-documentation-music-shortcode/</guid>
+    <guid>http://localhost:4321/en/2020/theme-documentation-music-shortcode/</guid>
     <description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a>.</p>
 <p>There are three ways to use it the <code>music</code> shortcode.</p>
 <h2 id="custom-music-url">1 Custom Music URL</h2>
@@ -1813,10 +1813,10 @@ which supports <code>netease</code>, <code>tencent</code> and <code>xiami</code>
 </item>
 <item>
     <title>Theme Documentation - bilibili Shortcode</title>
-    <link>https://diagonaal.ru/en/2020/theme-documentation-bilibili-shortcode/</link>
+    <link>http://localhost:4321/en/2020/theme-documentation-bilibili-shortcode/</link>
     <pubDate>Tue, 03 Mar 2020 11:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>https://diagonaal.ru/en/2020/theme-documentation-bilibili-shortcode/</guid>
+    <guid>http://localhost:4321/en/2020/theme-documentation-bilibili-shortcode/</guid>
     <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <p>The <code>bilibili</code> shortcode embeds a responsive video player for bilibili videos.</p>
 <p>When the video only has one part, only the BV <code>id</code> of the video is required, e.g.:</p>
@@ -1872,10 +1872,10 @@ which supports <code>netease</code>, <code>tencent</code> and <code>xiami</code>
 </item>
 <item>
     <title>Theme Documentation - typeit Shortcode</title>
-    <link>https://diagonaal.ru/en/2020/theme-documentation-typeit-shortcode/</link>
+    <link>http://localhost:4321/en/2020/theme-documentation-typeit-shortcode/</link>
     <pubDate>Tue, 03 Mar 2020 10:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>https://diagonaal.ru/en/2020/theme-documentation-typeit-shortcode/</guid>
+    <guid>http://localhost:4321/en/2020/theme-documentation-typeit-shortcode/</guid>
     <description><![CDATA[<p>The <code>typeit</code> shortcode provides typing animation based on <a href="https://typeitjs.com/" target="_blank" rel="noopener noreffer ">TypeIt</a> library.</p>
 <p>Just insert your content in the <code>typeit</code> shortcode and that’s it.</p>
 <h2 id="simple-content">1 Simple Content</h2>

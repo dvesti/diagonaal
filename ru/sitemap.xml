@@ -2,423 +2,426 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://diagonaal.ru/2020/theme-documentation-basics/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/theme-documentation-basics/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/theme-documentation-basics/"
+                        href="http://localhost:4321/en/2020/theme-documentation-basics/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/theme-documentation-basics/"
+                    href="http://localhost:4321/2020/theme-documentation-basics/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/theme-documentation-content/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/theme-documentation-content/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/theme-documentation-content/"
+                        href="http://localhost:4321/en/2020/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/theme-documentation-content/"
+                    href="http://localhost:4321/2020/theme-documentation-content/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2019/basic-markdown-syntax/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2019/basic-markdown-syntax/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2019/basic-markdown-syntax/"
+                        href="http://localhost:4321/en/2019/basic-markdown-syntax/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2019/basic-markdown-syntax/"
+                    href="http://localhost:4321/2019/basic-markdown-syntax/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/theme-documentation-mermaid-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/theme-documentation-mermaid-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/theme-documentation-mermaid-shortcode/"
+                        href="http://localhost:4321/en/2020/theme-documentation-mermaid-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/theme-documentation-mermaid-shortcode/"
+                    href="http://localhost:4321/2020/theme-documentation-mermaid-shortcode/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2019/emoji-support/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2019/emoji-support/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2019/emoji-support/"
+                        href="http://localhost:4321/en/2019/emoji-support/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2019/emoji-support/"
+                    href="http://localhost:4321/2019/emoji-support/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/theme-documentation-echarts-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/theme-documentation-echarts-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/theme-documentation-echarts-shortcode/"
+                        href="http://localhost:4321/en/2020/theme-documentation-echarts-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/theme-documentation-echarts-shortcode/"
+                    href="http://localhost:4321/2020/theme-documentation-echarts-shortcode/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/theme-documentation-mapbox-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/theme-documentation-mapbox-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/theme-documentation-mapbox-shortcode/"
+                        href="http://localhost:4321/en/2020/theme-documentation-mapbox-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/theme-documentation-mapbox-shortcode/"
+                    href="http://localhost:4321/2020/theme-documentation-mapbox-shortcode/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/theme-documentation-music-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/theme-documentation-music-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/theme-documentation-music-shortcode/"
+                        href="http://localhost:4321/en/2020/theme-documentation-music-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/theme-documentation-music-shortcode/"
+                    href="http://localhost:4321/2020/theme-documentation-music-shortcode/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/theme-documentation-bilibili-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/theme-documentation-bilibili-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/theme-documentation-bilibili-shortcode/"
+                        href="http://localhost:4321/en/2020/theme-documentation-bilibili-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/theme-documentation-bilibili-shortcode/"
+                    href="http://localhost:4321/2020/theme-documentation-bilibili-shortcode/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/theme-documentation-typeit-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/theme-documentation-typeit-shortcode/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/theme-documentation-typeit-shortcode/"
+                        href="http://localhost:4321/en/2020/theme-documentation-typeit-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/theme-documentation-typeit-shortcode/"
+                    href="http://localhost:4321/2020/theme-documentation-typeit-shortcode/"
                     /></url><url>
-            <loc>https://diagonaal.ru/categories/</loc><lastmod>2024-11-19T17:36:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/categories/</loc><lastmod>2024-11-19T17:58:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/categories/"
+                        href="http://localhost:4321/en/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/categories/"
+                    href="http://localhost:4321/categories/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/charts/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diagonaal.ru/categories/covid-19/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diagonaal.ru/</loc><lastmod>2024-11-19T17:36:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/charts/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:4321/categories/covid-19/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:4321/</loc><lastmod>2024-11-19T17:58:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/"
+                        href="http://localhost:4321/en/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/"
+                    href="http://localhost:4321/"
                     /></url><url>
-            <loc>https://diagonaal.ru/posts/</loc><lastmod>2024-11-19T17:36:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/posts/</loc><lastmod>2024-11-19T17:58:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/posts/"
+                        href="http://localhost:4321/en/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/posts/"
+                    href="http://localhost:4321/posts/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/</loc><lastmod>2024-11-19T17:36:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/</loc><lastmod>2024-11-19T17:58:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/"
+                        href="http://localhost:4321/en/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/"
+                    href="http://localhost:4321/tags/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2021/covid-chart/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diagonaal.ru/categories/poetry/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2021/veselo/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/bookmark/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2021/covid-chart/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:4321/categories/poetry/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2021/veselo/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2021/my-first-post2/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/categories/blog/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2021/first-post/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/test/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2021/privestvie/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/bookmark/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/bookmark/"
+                        href="http://localhost:4321/en/tags/bookmark/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/bookmark/"
+                    href="http://localhost:4321/tags/bookmark/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2021/bookmarks/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2021/bookmarks/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2021/bookmarks/"
+                        href="http://localhost:4321/en/2021/bookmarks/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2021/bookmarks/"
+                    href="http://localhost:4321/2021/bookmarks/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/code/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/code/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/code/"
+                        href="http://localhost:4321/en/tags/code/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/code/"
+                    href="http://localhost:4321/tags/code/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/hugo/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/hugo/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/hugo/"
+                        href="http://localhost:4321/en/tags/hugo/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/hugo/"
+                    href="http://localhost:4321/tags/hugo/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/map-mermaid/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/map-mermaid/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/map-mermaid/"
+                        href="http://localhost:4321/en/2020/map-mermaid/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/map-mermaid/"
+                    href="http://localhost:4321/2020/map-mermaid/"
                     /></url><url>
-            <loc>https://diagonaal.ru/categories/markdown/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/categories/markdown/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/categories/markdown/"
+                        href="http://localhost:4321/en/categories/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/categories/markdown/"
+                    href="http://localhost:4321/categories/markdown/"
                     /></url><url>
-            <loc>https://diagonaal.ru/categories/blog/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/font/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/quote/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/style/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/style-23-08-2020/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/cat/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/image/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/pogladj-menja/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/test/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/test-1/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/synchron/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/razoblachenie/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/usa/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diagonaal.ru/2020/tramp-pod-maskoi/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diagonaal.ru/tags/football/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/categories/sport/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/cccp-60-football/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/date/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/categories/life/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/music/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/ringo-80/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/books/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/categories/writer/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/orwell-1984/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/categories/academic/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/blog/</loc><lastmod>2024-11-19T17:36:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/font/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/quote/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/style/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/style-23-08-2020/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/cat/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/image/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/pogladj-menja/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/test-1/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/synchron/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/razoblachenie/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/usa/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:4321/2020/tramp-pod-maskoi/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:4321/tags/football/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/categories/sport/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/cccp-60-football/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/date/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/categories/life/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/music/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/ringo-80/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/books/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/categories/writer/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/orwell-1984/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/categories/academic/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/blog/</loc><lastmod>2024-11-19T17:58:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/blog/"
+                        href="http://localhost:4321/en/tags/blog/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/blog/"
+                    href="http://localhost:4321/tags/blog/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/comments/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/kommentirujem-statji/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/food/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/potatos/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/usa-covid-19/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/estonia/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/categories/politics/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/tallinn/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/fire/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/tags/house/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/2020/priehala-pojarka/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diagonaal.ru/categories/demo/</loc><lastmod>2024-11-19T17:36:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/comments/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/kommentirujem-statji/</loc><lastmod>2022-11-05T05:44:52&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/food/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/potatos/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/usa-covid-19/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/estonia/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/categories/politics/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/tallinn/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/fire/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/tags/house/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/2020/priehala-pojarka/</loc><lastmod>2022-11-06T01:56:15&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:4321/categories/demo/</loc><lastmod>2024-11-19T17:58:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/categories/demo/"
+                        href="http://localhost:4321/en/categories/demo/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/categories/demo/"
+                    href="http://localhost:4321/categories/demo/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2020/my-article-name-ru/</loc><lastmod>2024-11-19T17:36:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2020/my-article-name-ru/</loc><lastmod>2024-11-19T17:58:25&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2020/my-article-name/"
+                        href="http://localhost:4321/en/2020/my-article-name/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2020/my-article-name-ru/"
+                    href="http://localhost:4321/2020/my-article-name-ru/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/configuration/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/configuration/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/configuration/"
+                        href="http://localhost:4321/en/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/configuration/"
+                    href="http://localhost:4321/tags/configuration/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/installation/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/installation/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/installation/"
+                        href="http://localhost:4321/en/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/installation/"
+                    href="http://localhost:4321/tags/installation/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/content/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/content/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/content/"
+                        href="http://localhost:4321/en/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/content/"
+                    href="http://localhost:4321/tags/content/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/markdown/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/markdown/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/markdown/"
+                        href="http://localhost:4321/en/tags/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/markdown/"
+                    href="http://localhost:4321/tags/markdown/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/shortcodes/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/shortcodes/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/shortcodes/"
+                        href="http://localhost:4321/en/tags/shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/shortcodes/"
+                    href="http://localhost:4321/tags/shortcodes/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/html/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/html/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/html/"
+                        href="http://localhost:4321/en/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/html/"
+                    href="http://localhost:4321/tags/html/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/emoji/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/emoji/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/emoji/"
+                        href="http://localhost:4321/en/tags/emoji/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/emoji/"
+                    href="http://localhost:4321/tags/emoji/"
                     /></url><url>
-            <loc>https://diagonaal.ru/about/</loc><lastmod>2021-03-24T15:31:28&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:4321/about/</loc><lastmod>2021-03-24T15:31:28&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/about/"
+                        href="http://localhost:4321/en/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/about/"
+                    href="http://localhost:4321/about/"
                     /></url><url>
-            <loc>https://diagonaal.ru/2014/creating-a-new-theme/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/2014/creating-a-new-theme/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2014/creating-a-new-theme/"
+                        href="http://localhost:4321/en/2014/creating-a-new-theme/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/2014/creating-a-new-theme/"
+                    href="http://localhost:4321/2014/creating-a-new-theme/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/development/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/development/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/development/"
+                        href="http://localhost:4321/en/tags/development/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/development/"
+                    href="http://localhost:4321/tags/development/"
                     /></url><url>
-            <loc>https://diagonaal.ru/categories/development/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/categories/development/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/categories/development/"
+                        href="http://localhost:4321/en/categories/development/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/categories/development/"
+                    href="http://localhost:4321/categories/development/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/go/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/go/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/go/"
+                        href="http://localhost:4321/en/tags/go/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/go/"
+                    href="http://localhost:4321/tags/go/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/golang/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/golang/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/golang/"
+                        href="http://localhost:4321/en/tags/golang/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/golang/"
+                    href="http://localhost:4321/tags/golang/"
                     /></url><url>
-            <loc>https://diagonaal.ru/categories/golang/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/categories/golang/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/categories/golang/"
+                        href="http://localhost:4321/en/categories/golang/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/categories/golang/"
+                    href="http://localhost:4321/categories/golang/"
                     /></url><url>
-            <loc>https://diagonaal.ru/categories/index/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/categories/index/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/categories/index/"
+                        href="http://localhost:4321/en/categories/index/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/categories/index/"
+                    href="http://localhost:4321/categories/index/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/templates/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/templates/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/templates/"
+                        href="http://localhost:4321/en/tags/templates/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/templates/"
+                    href="http://localhost:4321/tags/templates/"
                     /></url><url>
-            <loc>https://diagonaal.ru/tags/themes/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/tags/themes/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/tags/themes/"
+                        href="http://localhost:4321/en/tags/themes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/tags/themes/"
+                    href="http://localhost:4321/tags/themes/"
                     /></url><url>
-            <loc>https://diagonaal.ru/1/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/1/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/"
+                        href="http://localhost:4321/en/2016/academic-the-website-builder-for-hugo/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/1/"
+                    href="http://localhost:4321/1/"
                     /></url><url>
-            <loc>https://diagonaal.ru/categories/documentation/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:4321/categories/documentation/</loc><lastmod>2024-11-18T22:46:31&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://diagonaal.ru/en/categories/documentation/"
+                        href="http://localhost:4321/en/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="ru"
-                    href="https://diagonaal.ru/categories/documentation/"
+                    href="http://localhost:4321/categories/documentation/"
                     /></url></urlset>

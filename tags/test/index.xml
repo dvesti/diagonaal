@@ -1,14 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Test - Тэг - Diagonaal</title>
-        <link>https://diagonaal.ru/tags/test/</link>
+        <link>http://localhost:4321/tags/test/</link>
         <description>Test - Тэг - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 14 Aug 2020 17:04:31 &#43;0300</lastBuildDate><atom:link href="https://diagonaal.ru/tags/test/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 13 Feb 2021 20:58:54 &#43;0200</lastBuildDate><atom:link href="http://localhost:4321/tags/test/" rel="self" type="application/rss+xml" /><item>
+    <title>Приветствие!</title>
+    <link>http://localhost:4321/2021/privestvie/</link>
+    <pubDate>Sat, 13 Feb 2021 20:58:54 &#43;0200</pubDate>
+    <author>Автор</author>
+    <guid>http://localhost:4321/2021/privestvie/</guid>
+    <description><![CDATA[<p><strong>Привет</strong> <em>всем</em>, кто зашёл на этот сайт!<br>
+тест 22-30 &ndash; 23-10-2022</p>]]></description>
+</item>
+<item>
     <title>Тест-1</title>
-    <link>https://diagonaal.ru/2020/test-1/</link>
+    <link>http://localhost:4321/2020/test-1/</link>
     <pubDate>Fri, 14 Aug 2020 17:04:31 &#43;0300</pubDate>
     <author>Автор</author>
-    <guid>https://diagonaal.ru/2020/test-1/</guid>
+    <guid>http://localhost:4321/2020/test-1/</guid>
     <description><![CDATA[<p>Это <del>тест</del>овое сообщение <em>с этой</em> <strong>картинкой</strong>:</p>
 <!--![](featured.jpg) -->
 <p>которая отображается при пересылке ссылки, например, в Скайп</p>
