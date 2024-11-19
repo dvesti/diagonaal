@@ -1,4 +1,17 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Diagonaal</title><link>http://localhost:1313/</link><description>Diagonaal</description><generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Theme Documentation - Basics</title><link>http://localhost:1313/2020/theme-documentation-basics/</link><pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2020/theme-documentation-basics/</guid><description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Diagonaal</title>
+        <link>http://localhost:4321/</link>
+        <description>Diagonaal</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</lastBuildDate>
+            <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Theme Documentation - Basics</title>
+    <link>http://localhost:4321/2020/theme-documentation-basics/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2020/theme-documentation-basics/</guid>
+    <description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>
 <h2 id="1-requirements">1 Requirements</h2>
 <p>Thanks to the simplicity of Hugo, <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer ">Hugo</a> is the only dependency of this theme.</p>
 <p>Just install latest version of <a href="https://gohugo.io/getting-started/installing/" target="_blank" rel="noopener noreffer "><i class="far fa-file-archive fa-fw" aria-hidden="true"></i>&nbsp;Hugo (&gt; 0.62.0)</a> for your OS (<strong>Windows</strong>, <strong>Linux</strong>, <strong>macOS</strong>).</p>
@@ -1875,7 +1888,15 @@ The official <a href="https://github.com/algolia/algolia-cli" target="_blank" re
 To be compatible with Hugo multilingual mode,
 you need to upload different <code>index.json</code> for each language to the different index of algolia, such as <code>zh-cn/index.json</code> or <code>fr/index.json</code>&hellip;</div>
         </div>
-    </div>]]></description></item><item><title>Theme Documentation - Content</title><link>http://localhost:1313/2020/theme-documentation-content/</link><pubDate>Thu, 05 Mar 2020 15:58:26 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2020/theme-documentation-content/</guid><description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>
+    </div>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - Content</title>
+    <link>http://localhost:4321/2020/theme-documentation-content/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2020/theme-documentation-content/</guid>
+    <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>
 <h2 id="contents-organization">1 Contents Organization</h2>
 <p>A few suggestions to help you get a good looking site quickly:</p>
 <ul>
@@ -2522,7 +2543,15 @@ your content will conflict with basic or extended Markdown syntax, and it is ine
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<p><strong>[link](#escape-character)</strong> instead of <strong><a href="#escape-character" rel="">link</a></strong>.</p>]]></description></item><item><title>Basic Markdown Syntax</title><link>http://localhost:1313/2019/basic-markdown-syntax/</link><pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2019/basic-markdown-syntax/</guid><description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>
+<p><strong>[link](#escape-character)</strong> instead of <strong><a href="#escape-character" rel="">link</a></strong>.</p>]]></description>
+</item>
+<item>
+    <title>Basic Markdown Syntax</title>
+    <link>http://localhost:4321/2019/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2019/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -3613,7 +3642,15 @@ line 3 of code
 <p>This is a footnote with &ldquo;label&rdquo;&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></description></item><item><title>Theme Documentation - mermaid Shortcode</title><link>http://localhost:1313/2020/theme-documentation-mermaid-shortcode/</link><pubDate>Tue, 03 Mar 2020 15:29:41 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2020/theme-documentation-mermaid-shortcode/</guid><description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
+</div>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - mermaid Shortcode</title>
+    <link>http://localhost:4321/2020/theme-documentation-mermaid-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 15:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2020/theme-documentation-mermaid-shortcode/</guid>
+    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
 <p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">Mermaid</a> library.</p>
 <p><strong>Mermaid</strong> is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.</p>
 <p>Just insert your mermaid code in the <code>mermaid</code> shortcode and that’s it.</p>
@@ -3948,7 +3985,15 @@ line 3 of code
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-10"></div>]]></description></item><item><title>Emoji Support</title><link>http://localhost:1313/2019/emoji-support/</link><pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2019/emoji-support/</guid><description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<div class="mermaid" id="id-10"></div>]]></description>
+</item>
+<item>
+    <title>Emoji Support</title>
+    <link>http://localhost:4321/2019/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2019/emoji-support/</guid>
+    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/" target="_blank" rel="noopener noreffer "><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates#inline-shortcodes" target="_blank" rel="noopener noreffer ">Inline Shortcodes</a>.</p>
 <p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your <a href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener noreffer ">site configuration</a> and then you can type emoji shorthand codes directly in content files.</p>
 <p>These begin and end with a <strong>colon</strong> and include the <strong>code</strong> of an emoji:</p>
@@ -9682,7 +9727,15 @@ line 3 of code
           <td></td>
       </tr>
   </tbody>
-</table>]]></description></item><item><title>Theme Documentation - echarts Shortcode</title><link>http://localhost:1313/2020/theme-documentation-echarts-shortcode/</link><pubDate>Tue, 03 Mar 2020 14:29:41 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2020/theme-documentation-echarts-shortcode/</guid><description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> library.</p>
+</table>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - echarts Shortcode</title>
+    <link>http://localhost:4321/2020/theme-documentation-echarts-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 14:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2020/theme-documentation-echarts-shortcode/</guid>
+    <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> library.</p>
 <p><strong>ECharts</strong> is a library helping you to generate interactive data visualization.</p>
 <p>The basic chart types ECharts supports include <a href="https://echarts.apache.org/en/option.html#series-line" target="_blank" rel="noopener noreffer ">line series</a>, <a href="https://echarts.apache.org/en/option.html#series-line" target="_blank" rel="noopener noreffer ">bar series</a>, <a href="https://echarts.apache.org/en/option.html#series-scatter" target="_blank" rel="noopener noreffer ">scatter series</a>, <a href="https://echarts.apache.org/en/option.html#series-pie" target="_blank" rel="noopener noreffer ">pie charts</a>, <a href="https://echarts.apache.org/en/option.html#series-candlestick" target="_blank" rel="noopener noreffer ">candle-stick series</a>, <a href="https://echarts.apache.org/en/option.html#series-boxplot" target="_blank" rel="noopener noreffer ">boxplot series</a> for statistics, <a href="https://echarts.apache.org/en/option.html#series-map" target="_blank" rel="noopener noreffer ">map series</a>, <a href="https://echarts.apache.org/en/option.html#series-heatmap" target="_blank" rel="noopener noreffer ">heatmap series</a>, <a href="https://echarts.apache.org/en/option.html#series-lines" target="_blank" rel="noopener noreffer ">lines series</a> for directional information, <a href="https://echarts.apache.org/en/option.html#series-graph" target="_blank" rel="noopener noreffer ">graph series</a> for relationships, <a href="https://echarts.apache.org/en/option.html#series-treemap" target="_blank" rel="noopener noreffer ">treemap series</a>, <a href="https://echarts.apache.org/en/option.html#series-sunburst" target="_blank" rel="noopener noreffer ">sunburst series</a>, <a href="https://echarts.apache.org/en/option.html#series-parallel" target="_blank" rel="noopener noreffer ">parallel series</a> for multi-dimensional data, <a href="https://echarts.apache.org/en/option.html#series-funnel" target="_blank" rel="noopener noreffer ">funnel series</a>, <a href="https://echarts.apache.org/en/option.html#series-gauge" target="_blank" rel="noopener noreffer ">gauge series</a>. And it&rsquo;s extremely easy to create a combinition of them with ECharts.</p>
 <p>Just insert your ECharts option in <code>JSON</code>/<code>YAML</code>/<code>TOML</code> format in the <code>echarts</code> shortcode and that’s it.</p>
@@ -10283,7 +10336,15 @@ line 3 of code
 <p><strong>height</strong> <em>[optional]</em> (<strong>second</strong> positional parameter)</p>
 <p><a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> Height of the data visualization, default value is <code>30rem</code>.</p>
 </li>
-</ul>]]></description></item><item><title>Theme Documentation - mapbox Shortcode</title><link>http://localhost:1313/2020/theme-documentation-mapbox-shortcode/</link><pubDate>Tue, 03 Mar 2020 13:29:41 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2020/theme-documentation-mapbox-shortcode/</guid><description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
+</ul>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - mapbox Shortcode</title>
+    <link>http://localhost:4321/2020/theme-documentation-mapbox-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 13:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2020/theme-documentation-mapbox-shortcode/</guid>
+    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> library.</p>
 <p><strong>Mapbox GL JS</strong> is a JavaScript library that uses WebGL to render interactive maps from <a href="https://docs.mapbox.com/help/glossary/vector-tiles/" target="_blank" rel="noopener noreffer ">vector tiles</a> and <a href="https://docs.mapbox.com/mapbox-gl-js/style-spec/" target="_blank" rel="noopener noreffer ">Mapbox styles</a>.</p>
 <p>The <code>mapbox</code> shortcode has the following named parameters to use Mapbox GL JS:</p>
@@ -10366,7 +10427,15 @@ line 3 of code
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<div class="mapbox" id="id-2" style="width: 100%; height: 20rem;"></div>]]></description></item><item><title>Theme Documentation - music Shortcode</title><link>http://localhost:1313/2020/theme-documentation-music-shortcode/</link><pubDate>Tue, 03 Mar 2020 12:29:41 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2020/theme-documentation-music-shortcode/</guid><description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a>.</p>
+<div class="mapbox" id="id-2" style="width: 100%; height: 20rem;"></div>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - music Shortcode</title>
+    <link>http://localhost:4321/2020/theme-documentation-music-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2020/theme-documentation-music-shortcode/</guid>
+    <description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a>.</p>
 <p>There are three ways to use it the <code>music</code> shortcode.</p>
 <h2 id="custom-music-url">1 Custom Music URL</h2>
 <p><a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.10" rel="noopener noreffer" target="_blank"></a> The complete usage of <a href="../theme-documentation-content#contents-organization" rel="">local resource references</a> is supported.</p>
@@ -10505,7 +10574,15 @@ which supports <code>netease</code>, <code>tencent</code> and <code>xiami</code>
 <p><strong>list-max-height</strong> <em>[optional]</em></p>
 <p>Max height of the music list, default value is <code>340px</code>.</p>
 </li>
-</ul>]]></description></item><item><title>Theme Documentation - bilibili Shortcode</title><link>http://localhost:1313/2020/theme-documentation-bilibili-shortcode/</link><pubDate>Tue, 03 Mar 2020 11:29:41 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2020/theme-documentation-bilibili-shortcode/</guid><description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
+</ul>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - bilibili Shortcode</title>
+    <link>http://localhost:4321/2020/theme-documentation-bilibili-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 11:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2020/theme-documentation-bilibili-shortcode/</guid>
+    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <p>The <code>bilibili</code> shortcode embeds a responsive video player for bilibili videos.</p>
 <p>When the video only has one part, only the BV <code>id</code> of the video is required, e.g.:</p>
 <div class="highlight"><div class="chroma">
@@ -10556,7 +10633,15 @@ which supports <code>netease</code>, <code>tencent</code> and <code>xiami</code>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1TJ411C7An&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></description></item><item><title>Theme Documentation - typeit Shortcode</title><link>http://localhost:1313/2020/theme-documentation-typeit-shortcode/</link><pubDate>Tue, 03 Mar 2020 10:29:41 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/2020/theme-documentation-typeit-shortcode/</guid><description><![CDATA[<p>The <code>typeit</code> shortcode provides typing animation based on <a href="https://typeitjs.com/" target="_blank" rel="noopener noreffer ">TypeIt</a> library.</p>
+<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1TJ411C7An&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - typeit Shortcode</title>
+    <link>http://localhost:4321/2020/theme-documentation-typeit-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 10:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/2020/theme-documentation-typeit-shortcode/</guid>
+    <description><![CDATA[<p>The <code>typeit</code> shortcode provides typing animation based on <a href="https://typeitjs.com/" target="_blank" rel="noopener noreffer ">TypeIt</a> library.</p>
 <p>Just insert your content in the <code>typeit</code> shortcode and that’s it.</p>
 <h2 id="simple-content">1 Simple Content</h2>
 <p>Simple content is allowed in <code>Markdown</code> format and <strong>without</strong> rich block content such as images and more&hellip;</p>
@@ -10647,4 +10732,7 @@ But sometimes you may want to start a set of <code>typeit</code> contents in ord
 </div><p>The rendered output looks like this:</p>
 <div class="typeit"><div id="id-4"></div></div>
 
-<div class="typeit"><div id="id-5"></div></div>]]></description></item></channel></rss>
+<div class="typeit"><div id="id-5"></div></div>]]></description>
+</item>
+</channel>
+</rss>

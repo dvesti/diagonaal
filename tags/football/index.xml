@@ -1,4 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Football - Тэг - Diagonaal</title><link>http://localhost:1313/tags/football/</link><description>Football - Тэг - Diagonaal</description><generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Jul 2020 16:25:13 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/football/" rel="self" type="application/rss+xml"/><item><title>Сборная CCCР – чемпион Европы-1960</title><link>http://localhost:1313/2020/cccp-60-football/</link><pubDate>Fri, 10 Jul 2020 16:25:13 +0300</pubDate><author>Автор</author><guid>http://localhost:1313/2020/cccp-60-football/</guid><description><![CDATA[<p><strong>Ровно 60 лет назад, 10 июля 1960 года</strong>, сборная СССР выиграла первый в истории чемпионат Европы по футболу.<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Football - Тэг - Diagonaal</title>
+        <link>http://localhost:4321/tags/football/</link>
+        <description>Football - Тэг - Diagonaal</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Jul 2020 16:25:13 &#43;0300</lastBuildDate><atom:link href="http://localhost:4321/tags/football/" rel="self" type="application/rss+xml" /><item>
+    <title>Сборная CCCР – чемпион Европы-1960</title>
+    <link>http://localhost:4321/2020/cccp-60-football/</link>
+    <pubDate>Fri, 10 Jul 2020 16:25:13 &#43;0300</pubDate>
+    <author>Автор</author>
+    <guid>http://localhost:4321/2020/cccp-60-football/</guid>
+    <description><![CDATA[<p><strong>Ровно 60 лет назад, 10 июля 1960 года</strong>, сборная СССР выиграла первый в истории чемпионат Европы по футболу.<br>
 В финальном матче подопечные Гавриила Качалина одолели в Париже Югославию - 2:1.</p>
 <p>Основное время поединка завершилось вничью - 1:1.<br>
 Судьбу встречи в дополнительные полчаса решил точный удар <strong>Виктора Понедельника</strong> на 113-й минуте.</p>
@@ -16,4 +27,7 @@
 <p>Золото чемпионата Европы 1960 года – главная победа в истории советского футбола.<br>
 Сборная СССР еще дважды выигрывала Олимпийские игры (1956, 1988), но на этих турнирах действовали ряд ограничений.</p>
 <p>В первом финальном турнире чемпионата Европы принимали участие четыре команды. В полуфинале СССР победил Чехословакию - 3:0</p>
-<p><a href="https://rus.delfi.ee/sport/jalgpall/video-60-let-nazad-sbornaya-sssr-vyigrala-pervyj-chempionat-evropy-po-futbolu?id=90415071" target="_blank" rel="noopener noreffer ">Источник</a></p>]]></description></item></channel></rss>
+<p><a href="https://rus.delfi.ee/sport/jalgpall/video-60-let-nazad-sbornaya-sssr-vyigrala-pervyj-chempionat-evropy-po-futbolu?id=90415071" target="_blank" rel="noopener noreffer ">Источник</a></p>]]></description>
+</item>
+</channel>
+</rss>

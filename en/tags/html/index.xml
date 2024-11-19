@@ -1,4 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>HTML - Tag - Diagonaal</title><link>http://localhost:1313/en/tags/html/</link><description>HTML - Tag - Diagonaal</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/tags/html/" rel="self" type="application/rss+xml"/><item><title>Basic Markdown Syntax</title><link>http://localhost:1313/en/2019/basic-markdown-syntax/</link><pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate><author>Dillon</author><guid>http://localhost:1313/en/2019/basic-markdown-syntax/</guid><description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HTML - Tag - Diagonaal</title>
+        <link>http://localhost:4321/en/tags/html/</link>
+        <description>HTML - Tag - Diagonaal</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:4321/en/tags/html/" rel="self" type="application/rss+xml" /><item>
+    <title>Basic Markdown Syntax</title>
+    <link>http://localhost:4321/en/2019/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:4321/en/2019/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>Note<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -1089,4 +1100,7 @@ line 3 of code
 <p>This is a footnote with &ldquo;label&rdquo;&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></description></item></channel></rss>
+</div>]]></description>
+</item>
+</channel>
+</rss>
