@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Diagonaal</title>
-        <link>http://localhost:4321/en/posts/</link>
+        <link>https://diagonaal.ru/en/posts/</link>
         <description>All Posts | Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</lastBuildDate><atom:link href="http://localhost:4321/en/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</lastBuildDate><atom:link href="https://diagonaal.ru/en/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Basics</title>
-    <link>http://localhost:4321/en/2020/theme-documentation-basics/</link>
+    <link>https://diagonaal.ru/en/2020/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>http://localhost:4321/en/2020/theme-documentation-basics/</guid>
+    <guid>https://diagonaal.ru/en/2020/theme-documentation-basics/</guid>
     <description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>
 <h2 id="1-requirements">1 Requirements</h2>
 <p>Thanks to the simplicity of Hugo, <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer ">Hugo</a> is the only dependency of this theme.</p>
@@ -1890,10 +1890,10 @@ you need to upload different <code>index.json</code> for each language to the di
 </item>
 <item>
     <title>Theme Documentation - Content</title>
-    <link>http://localhost:4321/en/2020/theme-documentation-content/</link>
+    <link>https://diagonaal.ru/en/2020/theme-documentation-content/</link>
     <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>http://localhost:4321/en/2020/theme-documentation-content/</guid>
+    <guid>https://diagonaal.ru/en/2020/theme-documentation-content/</guid>
     <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>
 <h2 id="contents-organization">1 Contents Organization</h2>
 <p>A few suggestions to help you get a good looking site quickly:</p>
@@ -2545,10 +2545,10 @@ your content will conflict with basic or extended Markdown syntax, and it is ine
 </item>
 <item>
     <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>http://localhost:4321/en/2020/theme-documentation-built-in-shortcodes/</link>
+    <link>https://diagonaal.ru/en/2020/theme-documentation-built-in-shortcodes/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>http://localhost:4321/en/2020/theme-documentation-built-in-shortcodes/</guid>
+    <guid>https://diagonaal.ru/en/2020/theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>
 <p>Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.</p>
 <p>But this happens to be a bad idea. Everyone uses Markdown because it’s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.</p>
@@ -2755,10 +2755,10 @@ Hugo provides multiple built-in shortcodes for author convenience and to keep yo
 </item>
 <item>
     <title>Theme Documentation - Extended Shortcodes</title>
-    <link>http://localhost:4321/en/2020/theme-documentation-extended-shortcodes/</link>
+    <link>https://diagonaal.ru/en/2020/theme-documentation-extended-shortcodes/</link>
     <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>http://localhost:4321/en/2020/theme-documentation-extended-shortcodes/</guid>
+    <guid>https://diagonaal.ru/en/2020/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>
 <h2 id="1-style">1 style</h2>
 <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
@@ -3163,10 +3163,10 @@ This is useful when you want to include some Markdown content to <strong>avoid b
 </item>
 <item>
     <title>Basic Markdown Syntax</title>
-    <link>http://localhost:4321/en/2019/basic-markdown-syntax/</link>
+    <link>https://diagonaal.ru/en/2019/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>http://localhost:4321/en/2019/basic-markdown-syntax/</guid>
+    <guid>https://diagonaal.ru/en/2019/basic-markdown-syntax/</guid>
     <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
@@ -4261,354 +4261,11 @@ line 3 of code
 </div>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - mermaid Shortcode</title>
-    <link>http://localhost:4321/en/2020/theme-documentation-mermaid-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 15:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:4321/en/2020/theme-documentation-mermaid-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">Mermaid</a> library.</p>
-<p><strong>Mermaid</strong> is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.</p>
-<p>Just insert your mermaid code in the <code>mermaid</code> shortcode and that’s it.</p>
-<h2 id="flowchart">Flowchart</h2>
-<p>Example <strong>flowchart</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">graph LR;
-</span></span><span class="line"><span class="cl">    A[Hard edge] --&gt;|Link text| B(Round edge)
-</span></span><span class="line"><span class="cl">    B --&gt; C{Decision}
-</span></span><span class="line"><span class="cl">    C --&gt;|One| D[Result one]
-</span></span><span class="line"><span class="cl">    C --&gt;|Two| E[Result two]
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-1"></div>
-<h2 id="sequence-diagram">Sequence Diagram</h2>
-<p>Example <strong>sequence diagram</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">sequenceDiagram
-</span></span><span class="line"><span class="cl">    participant Alice
-</span></span><span class="line"><span class="cl">    participant Bob
-</span></span><span class="line"><span class="cl">    Alice-&gt;&gt;John: Hello John, how are you?
-</span></span><span class="line"><span class="cl">    loop Healthcheck
-</span></span><span class="line"><span class="cl">        John-&gt;John: Fight against hypochondria
-</span></span><span class="line"><span class="cl">    end
-</span></span><span class="line"><span class="cl">    Note right of John: Rational thoughts <span class="p">&lt;</span><span class="nt">br</span><span class="p">/&gt;</span>prevail...
-</span></span><span class="line"><span class="cl">    John--&gt;Alice: Great!
-</span></span><span class="line"><span class="cl">    John-&gt;Bob: How about you?
-</span></span><span class="line"><span class="cl">    Bob--&gt;John: Jolly good!
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-2"></div>
-<h2 id="gantt">Gantt</h2>
-<p>Example <strong>Gantt</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">gantt
-</span></span><span class="line"><span class="cl">dateFormat  YYYY-MM-DD
-</span></span><span class="line"><span class="cl">title Adding GANTT diagram to mermaid
-</span></span><span class="line"><span class="cl">excludes weekdays 2014-01-10
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">section A section
-</span></span><span class="line"><span class="cl">Completed task            :done,    des1, 2014-01-06,2014-01-08
-</span></span><span class="line"><span class="cl">Active task               :active,  des2, 2014-01-09, 3d
-</span></span><span class="line"><span class="cl">Future task               :         des3, after des2, 5d
-</span></span><span class="line"><span class="cl">Future task2              :         des4, after des3, 5d
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-3"></div>
-<h2 id="class-diagram">Class Diagram</h2>
-<p>Example <strong>class diagram</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
-</span><span class="lnt">20
-</span><span class="lnt">21
-</span><span class="lnt">22
-</span><span class="lnt">23
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">classDiagram
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Duck
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Fish
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Zebra
-</span></span><span class="line"><span class="cl">    Animal : +int age
-</span></span><span class="line"><span class="cl">    Animal : +String gender
-</span></span><span class="line"><span class="cl">    Animal: +isMammal()
-</span></span><span class="line"><span class="cl">    Animal: +mate()
-</span></span><span class="line"><span class="cl">    class Duck{
-</span></span><span class="line"><span class="cl">        +String beakColor
-</span></span><span class="line"><span class="cl">        +swim()
-</span></span><span class="line"><span class="cl">        +quack()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">    class Fish{
-</span></span><span class="line"><span class="cl">        -int sizeInFeet
-</span></span><span class="line"><span class="cl">        -canEat()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">    class Zebra{
-</span></span><span class="line"><span class="cl">        +bool is_wild
-</span></span><span class="line"><span class="cl">        +run()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-4"></div>
-<h2 id="state-diagram">State Diagram</h2>
-<p>Example <strong>state diagram</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span><span class="lnt">9
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">stateDiagram-v2
-</span></span><span class="line"><span class="cl">    [*] --&gt; Still
-</span></span><span class="line"><span class="cl">    Still --&gt; [*]
-</span></span><span class="line"><span class="cl">    Still --&gt; Moving
-</span></span><span class="line"><span class="cl">    Moving --&gt; Still
-</span></span><span class="line"><span class="cl">    Moving --&gt; Crash
-</span></span><span class="line"><span class="cl">    Crash --&gt; [*]
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-5"></div>
-<h2 id="git-graph">Git Graph</h2>
-<p>Example <strong>git graph</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">gitGraph
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    branch develop
-</span></span><span class="line"><span class="cl">    checkout develop
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    checkout main
-</span></span><span class="line"><span class="cl">    merge develop
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-6"></div>
-<h2 id="entity-relationship-diagram">Entity Relationship Diagram</h2>
-<p>Example <strong>entity-relationship diagram</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">erDiagram
-</span></span><span class="line"><span class="cl">    CUSTOMER ||--o{ ORDER : places
-</span></span><span class="line"><span class="cl">    ORDER ||--|{ LINE-ITEM : contains
-</span></span><span class="line"><span class="cl">    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-7"></div>
-<h2 id="user-journey">User Journey</h2>
-<p>Example <strong>user journey</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">journey
-</span></span><span class="line"><span class="cl">    title My working day
-</span></span><span class="line"><span class="cl">    section Go to work
-</span></span><span class="line"><span class="cl">      Make tea: 5: Me
-</span></span><span class="line"><span class="cl">      Go upstairs: 3: Me
-</span></span><span class="line"><span class="cl">      Do work: 1: Me, Cat
-</span></span><span class="line"><span class="cl">    section Go home
-</span></span><span class="line"><span class="cl">      Go downstairs: 5: Me
-</span></span><span class="line"><span class="cl">      Sit down: 5: Me
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-8"></div>
-<h2 id="pie-chart">Pie Chart</h2>
-<p>Example <strong>pie chart</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">pie
-</span></span><span class="line"><span class="cl">    &#34;Dogs&#34; : 386
-</span></span><span class="line"><span class="cl">    &#34;Cats&#34; : 85
-</span></span><span class="line"><span class="cl">    &#34;Rats&#34; : 15
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-9"></div>
-<h2 id="requirement-diagram">Requirement Diagram</h2>
-<p>Example <strong>requirement diagram</strong> <code>mermaid</code> input:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">requirementDiagram
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">requirement test_req {
-</span></span><span class="line"><span class="cl">id: 1
-</span></span><span class="line"><span class="cl">text: the test text.
-</span></span><span class="line"><span class="cl">risk: high
-</span></span><span class="line"><span class="cl">verifymethod: test
-</span></span><span class="line"><span class="cl">}
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">element test_entity {
-</span></span><span class="line"><span class="cl">type: simulation
-</span></span><span class="line"><span class="cl">}
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">test_entity - satisfies -&gt; test_req
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="mermaid" id="id-10"></div>]]></description>
-</item>
-<item>
     <title>Emoji Support</title>
-    <link>http://localhost:4321/en/2019/emoji-support/</link>
+    <link>https://diagonaal.ru/en/2019/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>http://localhost:4321/en/2019/emoji-support/</guid>
+    <guid>https://diagonaal.ru/en/2019/emoji-support/</guid>
     <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/" target="_blank" rel="noopener noreffer "><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates#inline-shortcodes" target="_blank" rel="noopener noreffer ">Inline Shortcodes</a>.</p>
 <p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your <a href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener noreffer ">site configuration</a> and then you can type emoji shorthand codes directly in content files.</p>
@@ -10346,16 +10003,410 @@ line 3 of code
 </table>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - echarts Shortcode</title>
-    <link>http://localhost:4321/en/2020/theme-documentation-echarts-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 14:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:4321/en/2020/theme-documentation-echarts-shortcode/</guid>
-    <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> library.</p>
-<p><strong>ECharts</strong> is a library helping you to generate interactive data visualization.</p>
-<p>The basic chart types ECharts supports include <a href="https://echarts.apache.org/en/option.html#series-line" target="_blank" rel="noopener noreffer ">line series</a>, <a href="https://echarts.apache.org/en/option.html#series-line" target="_blank" rel="noopener noreffer ">bar series</a>, <a href="https://echarts.apache.org/en/option.html#series-scatter" target="_blank" rel="noopener noreffer ">scatter series</a>, <a href="https://echarts.apache.org/en/option.html#series-pie" target="_blank" rel="noopener noreffer ">pie charts</a>, <a href="https://echarts.apache.org/en/option.html#series-candlestick" target="_blank" rel="noopener noreffer ">candle-stick series</a>, <a href="https://echarts.apache.org/en/option.html#series-boxplot" target="_blank" rel="noopener noreffer ">boxplot series</a> for statistics, <a href="https://echarts.apache.org/en/option.html#series-map" target="_blank" rel="noopener noreffer ">map series</a>, <a href="https://echarts.apache.org/en/option.html#series-heatmap" target="_blank" rel="noopener noreffer ">heatmap series</a>, <a href="https://echarts.apache.org/en/option.html#series-lines" target="_blank" rel="noopener noreffer ">lines series</a> for directional information, <a href="https://echarts.apache.org/en/option.html#series-graph" target="_blank" rel="noopener noreffer ">graph series</a> for relationships, <a href="https://echarts.apache.org/en/option.html#series-treemap" target="_blank" rel="noopener noreffer ">treemap series</a>, <a href="https://echarts.apache.org/en/option.html#series-sunburst" target="_blank" rel="noopener noreffer ">sunburst series</a>, <a href="https://echarts.apache.org/en/option.html#series-parallel" target="_blank" rel="noopener noreffer ">parallel series</a> for multi-dimensional data, <a href="https://echarts.apache.org/en/option.html#series-funnel" target="_blank" rel="noopener noreffer ">funnel series</a>, <a href="https://echarts.apache.org/en/option.html#series-gauge" target="_blank" rel="noopener noreffer ">gauge series</a>. And it&rsquo;s extremely easy to create a combinition of them with ECharts.</p>
-<p>Just insert your ECharts option in <code>JSON</code>/<code>YAML</code>/<code>TOML</code> format in the <code>echarts</code> shortcode and that’s it.</p>
-<p>Example <code>echarts</code> input in <code>JSON</code> format:</p>
+    <title>Bookmarks</title>
+    <link>https://diagonaal.ru/en/2021/bookmarks/</link>
+    <pubDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://diagonaal.ru/en/2021/bookmarks/</guid>
+    <description><![CDATA[<p>All my <a href="tags/bookmark" rel="">bookmarks</a>. Also see <a href="https://awesome.re/" target="_blank" rel="noopener noreffer ">awesome list</a> for all kinds of stuff.</p>
+<h2 id="general-free-stuff">General Free stuff</h2>
+<ul>
+<li><a href="https://free-for.dev/" target="_blank" rel="noopener noreffer ">Free for dev</a> to find free web / development services</li>
+<li><a href="https://free.com.tw/" target="_blank" rel="noopener noreffer ">免費資源網路社群 (Traditional Chinese)</a></li>
+<li><a href="https://tools.miku.ac/" target="_blank" rel="noopener noreffer ">☁️ MikuTools</a> a collection of small useful online tools</li>
+</ul>
+<h2 id="online-math-tools">Online math tools</h2>
+<ul>
+<li><a href="https://www.desmos.com/calculator" target="_blank" rel="noopener noreffer ">☁️ Desmos graphing calculator</a></li>
+<li><a href="https://www.geogebra.org/?lang=en" target="_blank" rel="noopener noreffer ">☁️ Geogebra</a></li>
+<li><a href="http://www.endmemo.com/index.php" target="_blank" rel="noopener noreffer ">☁️ endmemo</a></li>
+</ul>
+<h2 id="documents--slides--diagrams">Documents | slides | diagrams</h2>
+<ul>
+<li><a href="https://tools.pdf24.org/en/" target="_blank" rel="noopener noreffer ">☁️ PDF24</a>: 24 free PDF tools</li>
+<li><a href="https://www.draw.io/" target="_blank" rel="noopener noreffer ">☁️ draw.io</a>: Flow chart and diagram maker</li>
+<li><a href="https://www.mygraphpaper.com/" target="_blank" rel="noopener noreffer ">My Graph Paper</a></li>
+<li><a href="https://www.vertex42.com/WordTemplates/" target="_blank" rel="noopener noreffer ">Word templates</a>: Microsoft Word templates</li>
+<li><a href="https://slidesgo.com/" target="_blank" rel="noopener noreffer ">SlidesGo</a>: Free Google Slides and PowerPoint templates</li>
+</ul>
+<h2 id="fonts">Fonts</h2>
+<ul>
+<li><a href="https://www.nerdfonts.com/" target="_blank" rel="noopener noreffer ">Nerd fonts</a>: patched fonts with glyphs.</li>
+<li><a href="https://github.com/microsoft/cascadia-code" target="_blank" rel="noopener noreffer ">Cascadia code</a>: a fun, new monospaced font developed for Windows Terminal (and friends).</li>
+<li><a href="https://fonts.google.com/" target="_blank" rel="noopener noreffer ">Google fonts</a></li>
+<li><a href="https://github.com/IBM/plex" target="_blank" rel="noopener noreffer ">IBM plex</a></li>
+<li><a href="https://github.com/ButTaiwan/gensen-font" target="_blank" rel="noopener noreffer ">Gensen font</a>: Rounded corner CJK fonts.</li>
+<li><a href="https://github.com/uswds/public-sans" target="_blank" rel="noopener noreffer ">Public Sans</a>: A strong, neutral, principles-driven, open source typeface for text or display.</li>
+<li><a href="https://www.fontsquirrel.com/" target="_blank" rel="noopener noreffer ">Font squirrel</a>: hand-picked free fonts</li>
+</ul>
+<h2 id="photos">Photos</h2>
+<p>Most items are taken and curated from this post: <a href="https://free.com.tw/free-image-sources-list/" target="_blank" rel="noopener noreffer ">46 個免費圖庫網站總彙整</a>.</p>
+<ul>
+<li><a href="https://unsplash.com/" target="_blank" rel="noopener noreffer ">Unsplash</a></li>
+<li><a href="https://picjumbo.com/" target="_blank" rel="noopener noreffer ">Free Stock Photos</a></li>
+<li><a href="https://www.dreamstime.com/" target="_blank" rel="noopener noreffer ">DreamsTime</a></li>
+<li><a href="http://www.freedigitalphotos.net/" target="_blank" rel="noopener noreffer ">Free digital photos</a></li>
+<li><a href="http://www.freeimages.com/" target="_blank" rel="noopener noreffer ">Free images</a></li>
+<li><a href="https://freerangestock.com/" target="_blank" rel="noopener noreffer ">Free Range Stock</a></li>
+<li><a href="http://imcreator.com/free" target="_blank" rel="noopener noreffer ">IM free</a>: A curated collection of free web design resources. Includes some icons.</li>
+<li><a href="https://morguefile.com/" target="_blank" rel="noopener noreffer ">Morgue file</a></li>
+<li><a href="https://pixabay.com/" target="_blank" rel="noopener noreffer ">Pixabay</a></li>
+<li><a href="https://www.publicdomainpictures.net/en/" target="_blank" rel="noopener noreffer ">Public Domain Pictures</a></li>
+<li><a href="https://www.stockvault.net/" target="_blank" rel="noopener noreffer ">Stock Vault</a></li>
+<li><a href="https://bigfoto.com/" target="_blank" rel="noopener noreffer ">Big Foto</a></li>
+<li><a href="https://gratisography.com/" target="_blank" rel="noopener noreffer ">Gratisography</a>: Also drawings</li>
+<li><a href="https://www.freemediagoo.com/" target="_blank" rel="noopener noreffer ">Free media goo</a>: includes texture photos (e.g. rust, concrete)</li>
+<li><a href="https://littlevisuals.co/" target="_blank" rel="noopener noreffer ">Little visuals</a></li>
+<li><a href="https://nos.twnsnd.co/" target="_blank" rel="noopener noreffer ">New old stock</a>: old photos</li>
+<li><a href="https://picjumbo.com/" target="_blank" rel="noopener noreffer ">Pic jumbo</a></li>
+<li><a href="https://pickupimage.com/" target="_blank" rel="noopener noreffer ">Pickup image</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank" rel="noopener noreffer ">Wikipedia commons</a> and <a href="https://canweimage.com/" target="_blank" rel="noopener noreffer ">Can we image</a> search engine.</li>
+<li><a href="https://www.lifeofpix.com/" target="_blank" rel="noopener noreffer ">Life of pix</a></li>
+<li><a href="http://foodiesfeed.com/" target="_blank" rel="noopener noreffer ">Foodiesfeed</a>: Food pictures</li>
+<li><a href="https://www.pexels.com/" target="_blank" rel="noopener noreffer ">Pexels</a></li>
+<li><a href="https://libreshot.com/" target="_blank" rel="noopener noreffer ">LibreShot</a></li>
+<li><a href="https://search.creativecommons.org/" target="_blank" rel="noopener noreffer ">CC search</a>: Search for content to reuse</li>
+<li><a href="https://freebiesupply.com/" target="_blank" rel="noopener noreffer ">Freebie supply</a></li>
+</ul>
+<h2 id="drawings--illustrations">Drawings | illustrations</h2>
+<p>Some items are taken from the post <a href="https://themeisle.com/blog/free-illustrations/" target="_blank" rel="noopener noreffer ">10 Best Spots to Find Free Illustrations</a></p>
+<ul>
+<li><a href="https://mixkit.co/art/" target="_blank" rel="noopener noreffer ">mixkit</a>: Beautiful Art &amp; Illustration</li>
+<li><a href="https://gratisography.com/" target="_blank" rel="noopener noreffer ">Gratisography</a>: Also includes photos</li>
+<li><a href="https://undraw.co/" target="_blank" rel="noopener noreffer ">Undraw</a></li>
+<li><a href="https://iradesign.io/" target="_blank" rel="noopener noreffer ">IRA designs</a></li>
+<li><a href="https://www.drawkit.io/" target="_blank" rel="noopener noreffer ">DrawKit</a></li>
+<li><a href="https://absurd.design/" target="_blank" rel="noopener noreffer ">absurd illustrations</a></li>
+<li><a href="https://www.manypixels.co/gallery/" target="_blank" rel="noopener noreffer ">Manypixels</a></li>
+<li><a href="https://freebiesupply.com/" target="_blank" rel="noopener noreffer ">Freebie supply</a></li>
+<li><a href="https://icons8.com/illustrations" target="_blank" rel="noopener noreffer ">Ouch</a> from <a href="https://icons8.com/" target="_blank" rel="noopener noreffer ">icons8</a></li>
+<li><a href="https://www.humaaans.com/" target="_blank" rel="noopener noreffer ">humaaans</a> SVG human figures with customization options</li>
+</ul>
+<h2 id="icons">Icons</h2>
+<ul>
+<li><a href="https://iconscout.com/unicons" target="_blank" rel="noopener noreffer ">Vector Icons</a></li>
+<li><a href="https://icons8.com/" target="_blank" rel="noopener noreffer ">Icons8</a></li>
+<li><a href="https://www.zwicon.com/" target="_blank" rel="noopener noreffer ">Handcrafted icons</a></li>
+<li><a href="https://forkaweso.me/Fork-Awesome/" target="_blank" rel="noopener noreffer ">Fork awesome</a></li>
+<li><a href="https://www.pngrepo.com/" target="_blank" rel="noopener noreffer ">PNG repo</a> and the sister project <a href="https://www.svgrepo.com/" target="_blank" rel="noopener noreffer ">SVG repo</a></li>
+<li><a href="https://simpleicons.org/" target="_blank" rel="noopener noreffer ">Simple icons</a></li>
+<li><a href="https://iconify.design/" target="_blank" rel="noopener noreffer ">Iconify</a></li>
+<li><a href="https://materialdesignicons.com/" target="_blank" rel="noopener noreffer ">Material Design Icons</a></li>
+<li><a href="https://icofont.com/" target="_blank" rel="noopener noreffer ">Icofont</a></li>
+<li><a href="https://freebiesupply.com/" target="_blank" rel="noopener noreffer ">Freebie supply</a></li>
+<li><a href="https://webkul.github.io/vivid/" target="_blank" rel="noopener noreffer ">Vivid.js</a></li>
+<li><a href="https://primer.style/octicons/" target="_blank" rel="noopener noreffer ">Octicons</a> by GitHub</li>
+<li><a href="https://iconpark.bytedance.com/official" target="_blank" rel="noopener noreffer ">IconPark</a> by ByteDance</li>
+<li><a href="https://github.com/tabler/tabler-icons" target="_blank" rel="noopener noreffer ">Tabler Icons</a></li>
+<li><a href="https://friconix.com/" target="_blank" rel="noopener noreffer ">Friconix</a> icon with extensive parameters. Also see its <a href="https://lucidar.me/en/web-dev/css-color-list/" target="_blank" rel="noopener noreffer ">CSS color table</a></li>
+</ul>
+<h2 id="latex">Latex</h2>
+<p><a href="https://github.com/egeerardyn/awesome-LaTeX" target="_blank" rel="noopener noreffer ">😎 Awesome LaTeX</a> is a curated list about shiny LaTeX stuff.</p>
+<h3 id="learn-and-use-latex">Learn and use LaTeX</h3>
+<ul>
+<li><a href="https://www.latex-tutorial.com/" target="_blank" rel="noopener noreffer ">LaTeX tutorials</a></li>
+<li><a href="http://www.latextemplates.com/" target="_blank" rel="noopener noreffer ">LaTeX templates</a></li>
+</ul>
+<h3 id="editors-for-latex">Editors for LaTeX</h3>
+<ul>
+<li><a href="https://v2.overleaf.com" target="_blank" rel="noopener noreffer ">☁️ Overleaf v2</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop" target="_blank" rel="noopener noreffer ">LaTeX workshop for VS code</a></li>
+</ul>
+<h3 id="online-tools">Online Tools</h3>
+<ul>
+<li><a href="http://www.sciweavers.org/free-online-latex-equation-editor" target="_blank" rel="noopener noreffer ">☁️ iTex2Img</a> LaTeX formulae to images</li>
+<li><a href="http://detexify.kirelabs.org/classify.html" target="_blank" rel="noopener noreffer ">☁️ Detexify</a> for recognition of handwriting to Latex symbols</li>
+<li><a href="https://www.tablesgenerator.com/" target="_blank" rel="noopener noreffer ">☁️ Tables Generator</a> for LATEX and MD Tables</li>
+<li><a href="https://www.latexlive.com/" target="_blank" rel="noopener noreffer ">☁️ LaTeX live</a> convert LaTeX equations to SVG using MathJax</li>
+</ul>
+<h3 id="cicd-for-latex">CI/CD for LaTeX</h3>
+<ul>
+<li><a href="https://gitlab.com/jasonrwang/dissertation-tudelft-latex" target="_blank" rel="noopener noreffer ">Gitlab example</a> compiles and push result pdf files back to the repository.</li>
+<li><a href="https://github.com/marketplace/actions/compile-latex" target="_blank" rel="noopener noreffer ">GitHub: Compile LateX</a> or <a href="https://github.com/xu-cheng/latex-action" target="_blank" rel="noopener noreffer ">Latex action</a></li>
+</ul>
+<h2 id="markdown">Markdown</h2>
+<p>Markdown is a lightweight markup language with plain-text-formatting syntax, with a variety of extensions.</p>
+<p>See <a href="https://github.com/mundimark/awesome-markdown" target="_blank" rel="noopener noreffer ">😎 awesome Markdown</a> for a curated list.</p>
+<h3 id="flavors">Flavors</h3>
+<p>⚠️ There are many dialects of Markdown. One may not fully compatible to one another.</p>
+<ul>
+<li><a href="https://commonmark.org/help/" target="_blank" rel="noopener noreffer ">Commonmark</a></li>
+<li><a href="https://markdown-it.github.io/" target="_blank" rel="noopener noreffer ">Markdown-it</a></li>
+<li><a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="noopener noreffer ">GitHub markdown</a></li>
+<li><a href="https://docs.gitlab.com/ee/user/markdown.html" target="_blank" rel="noopener noreffer ">GitLab markdown</a></li>
+<li><a href="https://pandoc.org/MANUAL.html#pandocs-markdown" target="_blank" rel="noopener noreffer ">Pandoc markdown</a></li>
+<li><a href="https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book" target="_blank" rel="noopener noreffer ">HackMD markdown</a></li>
+<li><a href="https://jupyterbook.org/content/myst.html" target="_blank" rel="noopener noreffer ">MyST (Markedly Structured Text)</a> for <a href="https://jupyterbook.org/" target="_blank" rel="noopener noreffer ">jupyter book</a></li>
+</ul>
+<h3 id="editors">Editors</h3>
+<ul>
+<li><a href="https://shd101wyy.github.io/markdown-preview-enhanced/" target="_blank" rel="noopener noreffer ">Markdown preview enhanced</a> with VS Code</li>
+<li><a href="https://typora.io/" target="_blank" rel="noopener noreffer ">Typora</a></li>
+<li><a href="https://marktext.app/" target="_blank" rel="noopener noreffer ">MarkText</a></li>
+<li><a href="https://commonmark.org/help/" target="_blank" rel="noopener noreffer ">☁️ HackMD</a></li>
+<li><a href="https://upmath.me/" target="_blank" rel="noopener noreffer ">☁️ Upmath</a></li>
+<li><a href="https://stackedit.io/" target="_blank" rel="noopener noreffer ">☁️ StackEdit</a></li>
+<li><a href="https://www.tablesgenerator.com/" target="_blank" rel="noopener noreffer ">☁️ Tables Generator</a> for LaTeX and MD Tables.</li>
+</ul>
+<h2 id="reference-managers">Reference managers</h2>
+<ul>
+<li><a href="https://sciwheel.com/work/" target="_blank" rel="noopener noreffer ">SciWheel</a>, <a href="https://sciwheel.com/work/#/faq/all-topics" target="_blank" rel="noopener noreffer ">docs</a>, browser extension with Google Doc and MS Word plugin</li>
+<li><a href="https://www.mendeley.com/" target="_blank" rel="noopener noreffer ">Mendeley</a>, <a href="https://static.mendeley.com/weblet-awareness/documents/Mendeley-Quick-Start.pdf" target="_blank" rel="noopener noreffer ">quick start guide</a>(pdf)</li>
+</ul>
+<h2 id="publications">Publications</h2>
+<p>Also checkout this curated list of <a href="https://github.com/emptymalei/awesome-research" target="_blank" rel="noopener noreffer ">😎 awesome research</a>.</p>
+<ul>
+<li><a href="https://scholar.google.com.tw/" target="_blank" rel="noopener noreffer ">Google scholar</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/" target="_blank" rel="noopener noreffer ">PubMed central (PMC)</a></li>
+</ul>
+<details>
+<summary>Copyright alert (Click to expand)</summary>
+<ul>
+<li><a href="https://sci-hub.se/" target="_blank" rel="noopener noreffer ">Sci-Hub</a></li>
+<li><a href="http://gen.lib.rus.ec/" target="_blank" rel="noopener noreffer ">Library Genesis</a></li>
+<li><a href="https://1lib.net/" target="_blank" rel="noopener noreffer ">Z-Library</a></li>
+<li><a href="http://en.bookfi.net/" target="_blank" rel="noopener noreffer ">BookFI</a></li>
+</ul>
+</details>
+<h2 id="biology">Biology</h2>
+<ul>
+<li><a href="https://github.com/danielecook/Awesome-Bioinformatics#readme" target="_blank" rel="noopener noreffer ">Awesome Bioinformatics</a></li>
+<li><a href="http://www.phylogeny.fr/" target="_blank" rel="noopener noreffer ">Phylogeny.fr</a>: Online phylogenic tree analysis</li>
+<li><a href="https://wangcc.me/LSHTMlearningnote/" target="_blank" rel="noopener noreffer ">Biomedical statistics</a></li>
+<li><a href="https://www.ibiology.org/techniques/introduction-to-bioimage-analysis/" target="_blank" rel="noopener noreffer ">Introduction to Bioimage Analysis</a></li>
+<li><a href="https://automeris.io/WebPlotDigitizer/" target="_blank" rel="noopener noreffer ">WebPlotDigitizer</a>: Convert plots from papers to datasets if raw data is not available.</li>
+</ul>
+<h3 id="systems-biology-models">Systems biology models</h3>
+<ul>
+<li><a href="https://www.ebi.ac.uk/biomodels/" target="_blank" rel="noopener noreffer ">BioModels</a>, SMBL format and generated code avaiable</li>
+<li><a href="https://vmh.uni.lu/" target="_blank" rel="noopener noreffer ">Virtual Metabolic Human</a></li>
+<li><a href="https://www.virtualrat.org" target="_blank" rel="noopener noreffer ">Virtual Rat</a></li>
+<li><a href="https://vcell.org" target="_blank" rel="noopener noreffer ">Virtual Cell</a></li>
+<li><a href="https://www.metanetx.org/" target="_blank" rel="noopener noreffer ">MetaNetX</a></li>
+<li><a href="http://bigg.ucsd.edu/" target="_blank" rel="noopener noreffer ">BiGG Models</a></li>
+<li><a href="https://bionumbers.hms.harvard.edu/search.aspx" target="_blank" rel="noopener noreffer ">Bionumbers</a>, biological numbers from various sources</li>
+<li><a href="https://www.brenda-enzymes.org/" target="_blank" rel="noopener noreffer ">BRENDA</a></li>
+<li><a href="http://physicallensonthecell.org/" target="_blank" rel="noopener noreffer ">Physical lens of the cell</a></li>
+<li><a href="https://data.humancellatlas.org/" target="_blank" rel="noopener noreffer ">Human cell atlas</a></li>
+</ul>
+<h2 id="pharmacology-database">Pharmacology database</h2>
+<ul>
+<li><a href="https://www.drugbank.ca/releases/latest" target="_blank" rel="noopener noreffer ">Drugbank</a></li>
+<li><a href="https://www.ebi.ac.uk/chembl/" target="_blank" rel="noopener noreffer ">ChEMBL</a></li>
+<li><a href="https://www.pharmgkb.org/" target="_blank" rel="noopener noreffer ">PharmGKB</a></li>
+<li><a href="https://pubchem.ncbi.nlm.nih.gov/" target="_blank" rel="noopener noreffer ">PubChem</a> by NCBI</li>
+</ul>
+<h2 id="coding-platforms">Coding platforms</h2>
+<h3 id="offline-editors-and-ides">Offline Editors and IDEs</h3>
+<ul>
+<li><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreffer ">VS Code</a> with <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python" target="_blank" rel="noopener noreffer ">Python</a>, <a href="https://www.julia-vscode.org/" target="_blank" rel="noopener noreffer ">Julia</a> extensions.</li>
+<li><a href="https://jupyterlab.readthedocs.io/en/stable/" target="_blank" rel="noopener noreffer ">JupyterLab</a>, IDE for jupyter notebooks. It&rsquo;s included in the Anaconda Python distribution.</li>
+<li><a href="https://www.spyder-ide.org/" target="_blank" rel="noopener noreffer ">Spyder</a>, a powerful scientific environment written in Python, for Python. It&rsquo;s included in the Anaconda Python distribution.</li>
+<li><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreffer ">PyCharm</a>, a full-fledged IDE.</li>
+</ul>
+<h3 id="develop-online">Develop online</h3>
+<ul>
+<li><a href="https://colab.research.google.com/" target="_blank" rel="noopener noreffer ">Google Colab</a>, an online jupyter notebook platform for machine learning.</li>
+<li><a href="https://nextjournal.com/" target="_blank" rel="noopener noreffer ">NextJournal</a>, an online jupyter notebook-like platform for reproducible research.</li>
+<li><a href="https://github.com/features/codespaces" target="_blank" rel="noopener noreffer ">GitHub code space</a>: Online VS Code-like development platform.</li>
+<li><a href="https://mybinder.org/" target="_blank" rel="noopener noreffer ">Binder</a>: Turn a Git repo into a collection of interactive notebooks.</li>
+<li><a href="https://godbolt.org/" target="_blank" rel="noopener noreffer ">Compiler explorer</a></li>
+</ul>
+<h2 id="python">Python</h2>
+<p>See also <a href="https://github.com/vinta/awesome-python" target="_blank" rel="noopener noreffer ">Awesome Python</a>, a curated list of awesome Python frameworks, libraries, software and resources.</p>
+<h3 id="package-managers">Package managers</h3>
+<ul>
+<li><a href="https://www.anaconda.com/products/individual" target="_blank" rel="noopener noreffer ">Anaconda Python</a> a full set of scientific Python packages with the <code>conda</code> package manager.</li>
+<li><a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank" rel="noopener noreffer ">Miniconda</a> for minimal installation with the <code>conda</code> package manager.</li>
+<li><a href="https://pipenv.pypa.io/en/latest/" target="_blank" rel="noopener noreffer ">pipenv</a>, the official dependency management tool for Python packages.</li>
+<li><a href="https://python-poetry.org/" target="_blank" rel="noopener noreffer ">Poetry</a>, Python packaging and dependency management.</li>
+</ul>
+<h3 id="general-tutorials">General Tutorials</h3>
+<p>I&rsquo;m not duplicating their work :)</p>
+<ul>
+<li><a href="https://learnxinyminutes.com/docs/python3/" target="_blank" rel="noopener noreffer ">Learn Python in Y minutes</a></li>
+<li><a href="https://github.com/gto76/python-cheatsheet" target="_blank" rel="noopener noreffer ">Python cheatsheet</a></li>
+<li><a href="https://automatetheboringstuff.com/2e/" target="_blank" rel="noopener noreffer ">Automate the Boring Stuff with Python</a></li>
+<li><a href="https://www.python-course.eu/" target="_blank" rel="noopener noreffer ">Python Course Europe</a></li>
+<li><a href="https://python.swaroopch.com/" target="_blank" rel="noopener noreffer ">A Byte of Python</a></li>
+<li><a href="http://interactivepython.org/runestone/static/thinkcspy/index.html" target="_blank" rel="noopener noreffer ">Think Python Like a Computer Scientist</a></li>
+<li><a href="http://projectpython.net/chapter00/" target="_blank" rel="noopener noreffer ">Project Python</a></li>
+<li><a href="https://ipython-books.github.io/" target="_blank" rel="noopener noreffer ">IPython cookbook</a></li>
+<li><a href="https://docs.python-guide.org/" target="_blank" rel="noopener noreffer ">The Hitchhiker’s Guide to Python</a></li>
+<li><a href="https://github.com/purcellconsult/Cracking-Python-Bootcamp" target="_blank" rel="noopener noreffer ">Cracking Python bootcamp</a></li>
+<li><a href="https://github.com/ninjaaron/replacing-bash-scripting-with-python" target="_blank" rel="noopener noreffer ">Replacing bash scripts with Python</a></li>
+</ul>
+<h3 id="visualization-tutorials">Visualization Tutorials</h3>
+<ul>
+<li><a href="https://python-graph-gallery.com/" target="_blank" rel="noopener noreffer ">Python Graph Gallery</a></li>
+<li><a href="https://matplotlib.org/examples/index.html" target="_blank" rel="noopener noreffer ">Matplotlib official examples</a></li>
+<li><a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreffer ">Seaborn</a> with examples.</li>
+<li><a href="https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/" target="_blank" rel="noopener noreffer ">Top 50 matplotlib plots</a></li>
+<li><a href="https://medium.com/jameslearningnote/%e8%b3%87%e6%96%99%e5%88%86%e6%9e%90-%e6%a9%9f%e5%99%a8%e5%ad%b8%e7%bf%92-%e7%ac%ac2-5%e8%ac%9b-%e8%b3%87%e6%96%99%e8%a6%96%e8%a6%ba%e5%8c%96-matplotlib-seaborn-plotly-75cd353d6d3f" target="_blank" rel="noopener noreffer ">Matplotlib, Seaborn, and Plotly tutorial</a></li>
+</ul>
+<h3 id="scietific-python-tutorials">Scietific Python Tutorials</h3>
+<ul>
+<li><a href="https://www.python-course.eu/numerical_programming_with_python.php" target="_blank" rel="noopener noreffer ">Python Course | Numerical programming</a></li>
+<li><a href="https://quantecon.org/quantecon-py" target="_blank" rel="noopener noreffer ">QuantEcon Python</a></li>
+<li><a href="http://www.scipy-lectures.org/" target="_blank" rel="noopener noreffer ">Scipy Lecture Notes</a></li>
+<li><a href="https://scipy-cookbook.readthedocs.io/index.html" target="_blank" rel="noopener noreffer ">SciPy Cookbook</a>. <a href="http://nbviewer.jupyter.org/github/scipy/scipy-cookbook/tree/master/ipython/" target="_blank" rel="noopener noreffer ">NB viewer</a></li>
+<li><a href="https://github.com/elegant-scipy/elegant-scipy" target="_blank" rel="noopener noreffer ">Elegant scipy</a></li>
+<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank" rel="noopener noreffer ">Python Data Science Handbook</a></li>
+<li><a href="https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/" target="_blank" rel="noopener noreffer ">Numpy Tutorial part1</a>. <a href="https://www.machinelearningplus.com/python/numpy-tutorial-python-part2/" target="_blank" rel="noopener noreffer ">Part2</a></li>
+</ul>
+<h3 id="data-processing-and-machine-learning-things">Data Processing and Machine learning things</h3>
+<ul>
+<li><a href="https://towardsdatascience.com/python-pandas-data-frame-basics-b5cfbcd8c039" target="_blank" rel="noopener noreffer ">Python Pandas Data Frame Basics</a></li>
+<li><a href="https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html" target="_blank" rel="noopener noreffer ">30 Essential Data Science, Machine Learning &amp; Deep Learning Cheat Sheets</a></li>
+<li><a href="https://www.machinelearningplus.com/" target="_blank" rel="noopener noreffer ">Machine Learning Plus</a></li>
+<li><a href="https://github.com/lexfridman/mit-deep-learning" target="_blank" rel="noopener noreffer ">MIT deep learning</a></li>
+</ul>
+<h4 id="gradient-boosters">Gradient boosters</h4>
+<p><a href="https://en.wikipedia.org/wiki/Gradient_boosting" target="_blank" rel="noopener noreffer ">Gradient boosting @ Wikipedia</a></p>
+<ul>
+<li><a href="https://xgboost.readthedocs.io/en/latest/" target="_blank" rel="noopener noreffer ">XGBoost</a></li>
+<li><a href="https://lightgbm.readthedocs.io/en/latest/" target="_blank" rel="noopener noreffer ">LightGBM</a></li>
+<li><a href="https://catboost.ai/" target="_blank" rel="noopener noreffer ">Catboost</a></li>
+</ul>
+<h4 id="hyperparameter-optimization">Hyperparameter optimization</h4>
+<p><a href="https://en.wikipedia.org/wiki/Hyperparameter_optimization" target="_blank" rel="noopener noreffer ">Hyperparameter optimization @ Wikipedia</a></p>
+<ul>
+<li><a href="https://github.com/hyperopt/hyperopt" target="_blank" rel="noopener noreffer ">hyperopt</a></li>
+<li><a href="https://docs.ray.io/en/latest/tune/index.html" target="_blank" rel="noopener noreffer ">ray-tune</a></li>
+<li><a href="https://optuna.org/" target="_blank" rel="noopener noreffer ">optuna</a></li>
+</ul>
+<h2 id="julia">Julia</h2>
+<p>Also checkout <a href="https://github.com/svaksha/Julia.jl" target="_blank" rel="noopener noreffer ">😎 Julia.jl</a>, a curated list of Julia stuff.</p>
+<ul>
+<li>Ask questions @ <a href="https://discourse.julialang.org/" target="_blank" rel="noopener noreffer ">Julia Discourse Forum</a></li>
+<li><a href="https://docs.julialang.org/en/v1/index.html" target="_blank" rel="noopener noreffer ">Julia Official Manual</a></li>
+<li><a href="https://github.com/Dsantra92/Julia-on-Colab" target="_blank" rel="noopener noreffer ">Running Julia on Google Colab</a></li>
+</ul>
+<h3 id="julia-tutorials">Julia tutorials</h3>
+<ul>
+<li><a href="https://julialang.org/learning/" target="_blank" rel="noopener noreffer ">Learning Julia</a>: a lot of links to Julia tutorials.</li>
+<li><a href="https://techytok.com/from-zero-to-julia/" target="_blank" rel="noopener noreffer ">From zero to Julia</a></li>
+<li><a href="https://benlauwens.github.io/ThinkJulia.jl/latest/book.html" target="_blank" rel="noopener noreffer ">Think Julia</a></li>
+<li><a href="https://lectures.quantecon.org/jl/" target="_blank" rel="noopener noreffer ">QuantEcon</a> and the <a href="https://github.com/QuantEcon/quantecon-notebooks-julia" target="_blank" rel="noopener noreffer ">code notebooks</a>.</li>
+<li><a href="https://syl1.gitbook.io/julia-language-a-concise-tutorial/" target="_blank" rel="noopener noreffer ">Julia concise tutorial</a></li>
+<li><a href="https://ucidatascienceinitiative.github.io/IntroToJulia/" target="_blank" rel="noopener noreffer ">Intro to Julia by by Chris Rackauckas</a></li>
+</ul>
+<p>If you are already familiar with other programming languages:</p>
+<ul>
+<li><a href="https://scls.gitbooks.io/ljthw/content/" target="_blank" rel="noopener noreffer ">Learn Julia the hard way</a> (unfortunately discontinued)</li>
+<li><a href="https://juliadocs.github.io/Julia-Cheat-Sheet/" target="_blank" rel="noopener noreffer ">Julia Cheatsheet</a></li>
+<li><a href="https://learnxinyminutes.com/docs/julia/" target="_blank" rel="noopener noreffer ">Learn Julia in Y minutes</a></li>
+</ul>
+<h3 id="julia-examples">Julia Examples</h3>
+<ul>
+<li><a href="https://juliabyexample.helpmanual.io/" target="_blank" rel="noopener noreffer ">Julia by example</a></li>
+<li><a href="https://tutorials.sciml.ai/" target="_blank" rel="noopener noreffer ">Differential Equations tutorials</a></li>
+<li><a href="https://github.com/dpsanders/LearnJulia2020" target="_blank" rel="noopener noreffer ">Learn Julia via epidemic modelling</a></li>
+<li><a href="https://github.com/JuliaAcademy/JuliaTutorials" target="_blank" rel="noopener noreffer ">Julia Tutorials by Julia Academy</a></li>
+<li><a href="https://github.com/ablaom/MachineLearningInJulia2020" target="_blank" rel="noopener noreffer ">Machine Learning in Julia</a></li>
+<li><a href="https://github.com/deepaksuresh/Grokking-Deep-Learning-with-Julia" target="_blank" rel="noopener noreffer ">Grokking Deep Learning with Julia</a></li>
+<li><a href="https://github.com/JuliaAcademy/DataScience" target="_blank" rel="noopener noreffer ">Julia for data science by Julia Academy</a></li>
+<li><a href="https://github.com/JuliaAcademy/DataFrames" target="_blank" rel="noopener noreffer ">Data Frames by Julia Academy</a> and <a href="https://github.com/bkamins/Julia-DataFrames-Tutorial" target="_blank" rel="noopener noreffer ">Bogumił Kamiński</a></li>
+<li><a href="https://github.com/epirecipes/sir-julia" target="_blank" rel="noopener noreffer ">SIR pandemic modeling with Julia</a></li>
+<li><a href="https://web.stanford.edu/~boyd/vmls/" target="_blank" rel="noopener noreffer ">Introduction to Applied Linear Algebra in Julia</a></li>
+</ul>
+<h3 id="data-visualization-in-julia">Data visualization in Julia</h3>
+<ul>
+<li><a href="https://github.com/JuliaPlots/Plots.jl" target="_blank" rel="noopener noreffer ">Plots.jl</a> the de-facto plotting library with multiple backends. <a href="https://github.com/JuliaPlots/ExamplePlots.jl" target="_blank" rel="noopener noreffer ">Examples Plots</a></li>
+<li><a href="https://github.com/GiovineItalia/Gadfly.jl" target="_blank" rel="noopener noreffer ">Gadfly.jl</a></li>
+<li><a href="https://github.com/gizmaa/Julia_Examples" target="_blank" rel="noopener noreffer ">PyPlot examples by Gizmaa</a></li>
+</ul>
+<h3 id="making-websites-by-julia">Making websites by Julia</h3>
+<ul>
+<li><a href="https://github.com/Azzaare/StaticWebPages.jl" target="_blank" rel="noopener noreffer ">StaticWebPages.jl</a> for academics and personal CV web-pages.</li>
+<li><a href="https://github.com/tlienart/Franklin.jl" target="_blank" rel="noopener noreffer ">Franklin.jl</a> for static site generation with live Julia code evaulation. With <a href="https://github.com/tlienart/Franklin.jl#docs" target="_blank" rel="noopener noreffer ">examples</a>.</li>
+<li><a href="https://tlienart.github.io/PkgPage.jl/" target="_blank" rel="noopener noreffer ">PkgPage.jl</a> for (package) front-pages, powered by <code>Franklin.jl</code>.</li>
+</ul>
+<h2 id="continuous-integration-and-delivery">Continuous integration and delivery</h2>
+<p><a href="https://github.com/awesome-soft/awesome-devops" target="_blank" rel="noopener noreffer ">Awesome devops</a></p>
+<ul>
+<li><a href="https://docs.github.com/en/free-pro-team@latest/actions" target="_blank" rel="noopener noreffer ">GitHub actions</a> with guides and example code.</li>
+<li><a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noopener noreffer ">GitLab CI</a></li>
+<li><a href="https://youtu.be/R8_veQiYBjI" target="_blank" rel="noopener noreffer ">Youtube video about GitHub CI/CD</a> from <a href="https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA" target="_blank" rel="noopener noreffer ">TechWorld with Nana</a>.</li>
+</ul>
+<h3 id="periodic-tag-and-release-example">Periodic tag and release example</h3>
+<p><a href="https://gitlab.com/sosiris-eg/periodic-release" target="_blank" rel="noopener noreffer ">My GitLab example</a> is adapted from <a href="https://www.philipp-doblhofer.at/en/blog/gitlab-automatic-releases-with-ci-cd-pipelines/" target="_blank" rel="noopener noreffer ">philipp-doblhofer&rsquo;s post</a>.</p>
+<h3 id="building-a-static-website">Building a static website</h3>
+<ul>
+<li><a href="https://github.com/peaceiris/actions-gh-pages" target="_blank" rel="noopener noreffer ">GitHub actions for pages</a></li>
+<li><a href="https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html" target="_blank" rel="noopener noreffer ">GitLab CI for pages</a></li>
+</ul>
+<h2 id="linux">Linux</h2>
+<p>Also check out the curated list of <a href="https://github.com/aleksandar-todorovic/awesome-linux" target="_blank" rel="noopener noreffer ">😎 Awesome linux</a>.</p>
+<h3 id="installation-medium">Installation medium</h3>
+<ul>
+<li><a href="https://system76.com/pop" target="_blank" rel="noopener noreffer ">PoP OS</a></li>
+<li><a href="https://ubuntu.com/download" target="_blank" rel="noopener noreffer ">Ubuntu</a></li>
+<li><a href="https://endeavouros.com/latest-release/" target="_blank" rel="noopener noreffer ">endeavour OS</a></li>
+<li><a href="https://garudalinux.org/downloads.html" target="_blank" rel="noopener noreffer ">Garuda Linux</a></li>
+</ul>
+<h3 id="wikis-and-forums">Wikis and forums</h3>
+<ul>
+<li><a href="https://unix.stackexchange.com/" target="_blank" rel="noopener noreffer ">Unix stack exchange</a></li>
+<li><a href="https://superuser.com" target="_blank" rel="noopener noreffer ">Superuser stack exchange</a></li>
+<li><a href="https://wiki.archlinux.org/" target="_blank" rel="noopener noreffer ">Arch Wiki</a></li>
+<li><a href="https://forum.endeavouros.com/" target="_blank" rel="noopener noreffer ">endeavour OS forums</a></li>
+<li><a href="https://forum.garudalinux.org/" target="_blank" rel="noopener noreffer ">Garuda Linux forum</a></li>
+<li><a href="https://wiki.ubuntu.com/" target="_blank" rel="noopener noreffer ">Ubuntu wiki</a></li>
+<li><a href="https://askubuntu.com/" target="_blank" rel="noopener noreffer ">Ask ubuntu</a></li>
+<li><a href="https://pop.system76.com/docs/" target="_blank" rel="noopener noreffer ">PoP OS docs</a></li>
+<li><a href="https://pop-planet.info/" target="_blank" rel="noopener noreffer ">PoP planet</a></li>
+<li><a href="https://www.reddit.com/r/pop_os/" target="_blank" rel="noopener noreffer ">PopOS reddit</a></li>
+</ul>
+<h3 id="shell-scripting">Shell scripting</h3>
+<ul>
+<li><a href="https://www.edx.org/course/introduction-to-linux" target="_blank" rel="noopener noreffer ">edX: introduction to Linux</a></li>
+<li><a href="https://learnxinyminutes.com/docs/bash/" target="_blank" rel="noopener noreffer ">Learn Bash in Y minutes</a></li>
+<li><a href="https://ryanstutorials.net/" target="_blank" rel="noopener noreffer ">Ryans Tutorial</a></li>
+<li><a href="https://linuxconfig.org/learn-the-basics-of-the-zsh-shell" target="_blank" rel="noopener noreffer ">Learn Zsh</a></li>
+<li><a href="https://github.com/alebcay/awesome-shell" target="_blank" rel="noopener noreffer ">Awesome shell</a></li>
+<li><a href="https://www.shellcheck.net/" target="_blank" rel="noopener noreffer ">Shell check</a></li>
+<li><a href="https://explainshell.com/" target="_blank" rel="noopener noreffer ">Explain shell</a></li>
+</ul>
+<h2 id="games">Games</h2>
+<ul>
+<li><a href="https://steamworkshopdownloader.io/" target="_blank" rel="noopener noreffer ">Steam workshop downloader</a> and another similar project: <a href="http://steamworkshop.download/" target="_blank" rel="noopener noreffer ">Steam workshop download</a></li>
+</ul>]]></description>
+</item>
+<item>
+    <title>Map mermaid</title>
+    <link>https://diagonaal.ru/en/2020/map-mermaid/</link>
+    <pubDate>Wed, 18 Nov 2020 22:38:00 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://diagonaal.ru/en/2020/map-mermaid/</guid>
+    <description><![CDATA[<h2 id="documentation">documentation</h2>
+<p><a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">mermaid</a> 是一个可以帮助你在文章中生成图表和流程图的库, 类似 Markdown 的语法.</p>
+<blockquote>
+<p>tips: must open <code>math: true</code></p>
+</blockquote>
+<h2 id="base">base</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{&lt; mermaid &gt;}}
+</span></span><span class="line"><span class="cl">graph LR;
+</span></span><span class="line"><span class="cl">    A[Hard edge] --&gt;|Link text| B(Round edge)
+</span></span><span class="line"><span class="cl">    B --&gt; C{Decision}
+</span></span><span class="line"><span class="cl">    C --&gt;|One| D[Result one]
+</span></span><span class="line"><span class="cl">    C --&gt;|Two| E[Result two]
+</span></span><span class="line"><span class="cl">{{&lt; /mermaid &gt;}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="mermaid" id="id-1"></div>
+<h3 id="lines">lines</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -10371,826 +10422,240 @@ line 3 of code
 </span><span class="lnt">11
 </span><span class="lnt">12
 </span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
-</span><span class="lnt">20
-</span><span class="lnt">21
-</span><span class="lnt">22
-</span><span class="lnt">23
-</span><span class="lnt">24
-</span><span class="lnt">25
-</span><span class="lnt">26
-</span><span class="lnt">27
-</span><span class="lnt">28
-</span><span class="lnt">29
-</span><span class="lnt">30
-</span><span class="lnt">31
-</span><span class="lnt">32
-</span><span class="lnt">33
-</span><span class="lnt">34
-</span><span class="lnt">35
-</span><span class="lnt">36
-</span><span class="lnt">37
-</span><span class="lnt">38
-</span><span class="lnt">39
-</span><span class="lnt">40
-</span><span class="lnt">41
-</span><span class="lnt">42
-</span><span class="lnt">43
-</span><span class="lnt">44
-</span><span class="lnt">45
-</span><span class="lnt">46
-</span><span class="lnt">47
-</span><span class="lnt">48
-</span><span class="lnt">49
-</span><span class="lnt">50
-</span><span class="lnt">51
-</span><span class="lnt">52
-</span><span class="lnt">53
-</span><span class="lnt">54
-</span><span class="lnt">55
-</span><span class="lnt">56
-</span><span class="lnt">57
-</span><span class="lnt">58
-</span><span class="lnt">59
-</span><span class="lnt">60
-</span><span class="lnt">61
-</span><span class="lnt">62
-</span><span class="lnt">63
-</span><span class="lnt">64
-</span><span class="lnt">65
-</span><span class="lnt">66
-</span><span class="lnt">67
-</span><span class="lnt">68
-</span><span class="lnt">69
-</span><span class="lnt">70
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="line"><span class="cl"><span class="p">{</span><span class="err">{&lt;</span> <span class="err">echarts</span> <span class="err">&gt;</span><span class="p">}</span><span class="err">}</span>
-</span></span><span class="line"><span class="cl"><span class="p">{</span>
-</span></span><span class="line"><span class="cl">  <span class="nt">&#34;title&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;text&#34;</span><span class="p">:</span> <span class="s2">&#34;Summary Line Chart&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;top&#34;</span><span class="p">:</span> <span class="s2">&#34;2%&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;left&#34;</span><span class="p">:</span> <span class="s2">&#34;center&#34;</span>
-</span></span><span class="line"><span class="cl">  <span class="p">},</span>
-</span></span><span class="line"><span class="cl">  <span class="nt">&#34;tooltip&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;trigger&#34;</span><span class="p">:</span> <span class="s2">&#34;axis&#34;</span>
-</span></span><span class="line"><span class="cl">  <span class="p">},</span>
-</span></span><span class="line"><span class="cl">  <span class="nt">&#34;legend&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;data&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;Email Marketing&#34;</span><span class="p">,</span> <span class="s2">&#34;Affiliate Advertising&#34;</span><span class="p">,</span> <span class="s2">&#34;Video Advertising&#34;</span><span class="p">,</span> <span class="s2">&#34;Direct View&#34;</span><span class="p">,</span> <span class="s2">&#34;Search Engine&#34;</span><span class="p">],</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;top&#34;</span><span class="p">:</span> <span class="s2">&#34;10%&#34;</span>
-</span></span><span class="line"><span class="cl">  <span class="p">},</span>
-</span></span><span class="line"><span class="cl">  <span class="nt">&#34;grid&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;left&#34;</span><span class="p">:</span> <span class="s2">&#34;5%&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;right&#34;</span><span class="p">:</span> <span class="s2">&#34;5%&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;bottom&#34;</span><span class="p">:</span> <span class="s2">&#34;5%&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;top&#34;</span><span class="p">:</span> <span class="s2">&#34;20%&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;containLabel&#34;</span><span class="p">:</span> <span class="kc">true</span>
-</span></span><span class="line"><span class="cl">  <span class="p">},</span>
-</span></span><span class="line"><span class="cl">  <span class="nt">&#34;toolbox&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;feature&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;saveAsImage&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">        <span class="nt">&#34;title&#34;</span><span class="p">:</span> <span class="s2">&#34;Save as Image&#34;</span>
-</span></span><span class="line"><span class="cl">      <span class="p">}</span>
-</span></span><span class="line"><span class="cl">    <span class="p">}</span>
-</span></span><span class="line"><span class="cl">  <span class="p">},</span>
-</span></span><span class="line"><span class="cl">  <span class="nt">&#34;xAxis&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;category&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;boundaryGap&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;data&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;Monday&#34;</span><span class="p">,</span> <span class="s2">&#34;Tuesday&#34;</span><span class="p">,</span> <span class="s2">&#34;Wednesday&#34;</span><span class="p">,</span> <span class="s2">&#34;Thursday&#34;</span><span class="p">,</span> <span class="s2">&#34;Friday&#34;</span><span class="p">,</span> <span class="s2">&#34;Saturday&#34;</span><span class="p">,</span> <span class="s2">&#34;Sunday&#34;</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">  <span class="p">},</span>
-</span></span><span class="line"><span class="cl">  <span class="nt">&#34;yAxis&#34;</span><span class="p">:</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;value&#34;</span>
-</span></span><span class="line"><span class="cl">  <span class="p">},</span>
-</span></span><span class="line"><span class="cl">  <span class="nt">&#34;series&#34;</span><span class="p">:</span> <span class="p">[</span>
-</span></span><span class="line"><span class="cl">    <span class="p">{</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Email Marketing&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;stack&#34;</span><span class="p">:</span> <span class="s2">&#34;Total&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;data&#34;</span><span class="p">:</span> <span class="p">[</span><span class="mi">120</span><span class="p">,</span> <span class="mi">132</span><span class="p">,</span> <span class="mi">101</span><span class="p">,</span> <span class="mi">134</span><span class="p">,</span> <span class="mi">90</span><span class="p">,</span> <span class="mi">230</span><span class="p">,</span> <span class="mi">210</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">    <span class="p">},</span>
-</span></span><span class="line"><span class="cl">    <span class="p">{</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Affiliate Advertising&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;stack&#34;</span><span class="p">:</span> <span class="s2">&#34;Total&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;data&#34;</span><span class="p">:</span> <span class="p">[</span><span class="mi">220</span><span class="p">,</span> <span class="mi">182</span><span class="p">,</span> <span class="mi">191</span><span class="p">,</span> <span class="mi">234</span><span class="p">,</span> <span class="mi">290</span><span class="p">,</span> <span class="mi">330</span><span class="p">,</span> <span class="mi">310</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">    <span class="p">},</span>
-</span></span><span class="line"><span class="cl">    <span class="p">{</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Video Advertising&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;stack&#34;</span><span class="p">:</span> <span class="s2">&#34;Total&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;data&#34;</span><span class="p">:</span> <span class="p">[</span><span class="mi">150</span><span class="p">,</span> <span class="mi">232</span><span class="p">,</span> <span class="mi">201</span><span class="p">,</span> <span class="mi">154</span><span class="p">,</span> <span class="mi">190</span><span class="p">,</span> <span class="mi">330</span><span class="p">,</span> <span class="mi">410</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">    <span class="p">},</span>
-</span></span><span class="line"><span class="cl">    <span class="p">{</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Direct View&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;stack&#34;</span><span class="p">:</span> <span class="s2">&#34;Total&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;data&#34;</span><span class="p">:</span> <span class="p">[</span><span class="mi">320</span><span class="p">,</span> <span class="mi">332</span><span class="p">,</span> <span class="mi">301</span><span class="p">,</span> <span class="mi">334</span><span class="p">,</span> <span class="mi">390</span><span class="p">,</span> <span class="mi">330</span><span class="p">,</span> <span class="mi">320</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">    <span class="p">},</span>
-</span></span><span class="line"><span class="cl">    <span class="p">{</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Search Engine&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;line&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;stack&#34;</span><span class="p">:</span> <span class="s2">&#34;Total&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">      <span class="nt">&#34;data&#34;</span><span class="p">:</span> <span class="p">[</span><span class="mi">820</span><span class="p">,</span> <span class="mi">932</span><span class="p">,</span> <span class="mi">901</span><span class="p">,</span> <span class="mi">934</span><span class="p">,</span> <span class="mi">1290</span><span class="p">,</span> <span class="mi">1330</span><span class="p">,</span> <span class="mi">1320</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">    <span class="p">}</span>
-</span></span><span class="line"><span class="cl">  <span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span><span class="line"><span class="cl"><span class="p">{</span><span class="err">{&lt;</span> <span class="err">/echarts</span> <span class="err">&gt;</span><span class="p">}</span><span class="err">}</span>
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{&lt; mermaid &gt;}}
+</span></span><span class="line"><span class="cl">graph LR
+</span></span><span class="line"><span class="cl">   Arrow-Start--&gt;Arrow-End;
+</span></span><span class="line"><span class="cl">   Beta:Multi-Start &lt;--&gt; Beta:Multi-End;
+</span></span><span class="line"><span class="cl">   open-link---next-link;
+</span></span><span class="line"><span class="cl">   text-on---|line txt|link;
+</span></span><span class="line"><span class="cl">   other-text-on-- line txt !--- other-link;
+</span></span><span class="line"><span class="cl">   arrow-text-Start--&gt;|line txt|arrow-text-End;
+</span></span><span class="line"><span class="cl">   Dotted-link-Start-.-&gt;Dotted-link-End;
+</span></span><span class="line"><span class="cl">   Dotted-link-text-Start-.-&gt;|line txt|Dotted-link-text-End;
+</span></span><span class="line"><span class="cl">   Thick-link-Start==&gt;Thick-link-End;
+</span></span><span class="line"><span class="cl">   Thick-link-text-Start== line txt ==&gt;Thick-link-text-End;
+</span></span><span class="line"><span class="cl">{{&lt; /mermaid &gt;}}
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>The same in <code>YAML</code> format:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
-</span><span class="lnt">20
-</span><span class="lnt">21
-</span><span class="lnt">22
-</span><span class="lnt">23
-</span><span class="lnt">24
-</span><span class="lnt">25
-</span><span class="lnt">26
-</span><span class="lnt">27
-</span><span class="lnt">28
-</span><span class="lnt">29
-</span><span class="lnt">30
-</span><span class="lnt">31
-</span><span class="lnt">32
-</span><span class="lnt">33
-</span><span class="lnt">34
-</span><span class="lnt">35
-</span><span class="lnt">36
-</span><span class="lnt">37
-</span><span class="lnt">38
-</span><span class="lnt">39
-</span><span class="lnt">40
-</span><span class="lnt">41
-</span><span class="lnt">42
-</span><span class="lnt">43
-</span><span class="lnt">44
-</span><span class="lnt">45
-</span><span class="lnt">46
-</span><span class="lnt">47
-</span><span class="lnt">48
-</span><span class="lnt">49
-</span><span class="lnt">50
-</span><span class="lnt">51
-</span><span class="lnt">52
-</span><span class="lnt">53
-</span><span class="lnt">54
-</span><span class="lnt">55
-</span><span class="lnt">56
-</span><span class="lnt">57
-</span><span class="lnt">58
-</span><span class="lnt">59
-</span><span class="lnt">60
-</span><span class="lnt">61
-</span><span class="lnt">62
-</span><span class="lnt">63
-</span><span class="lnt">64
-</span><span class="lnt">65
-</span><span class="lnt">66
-</span><span class="lnt">67
-</span><span class="lnt">68
-</span><span class="lnt">69
-</span><span class="lnt">70
-</span><span class="lnt">71
-</span><span class="lnt">72
-</span><span class="lnt">73
-</span><span class="lnt">74
-</span><span class="lnt">75
-</span><span class="lnt">76
-</span><span class="lnt">77
-</span><span class="lnt">78
-</span><span class="lnt">79
-</span><span class="lnt">80
-</span><span class="lnt">81
-</span><span class="lnt">82
-</span><span class="lnt">83
-</span><span class="lnt">84
-</span><span class="lnt">85
-</span><span class="lnt">86
-</span><span class="lnt">87
-</span><span class="lnt">88
-</span><span class="lnt">89
-</span><span class="lnt">90
-</span><span class="lnt">91
-</span><span class="lnt">92
-</span><span class="lnt">93
-</span><span class="lnt">94
-</span><span class="lnt">95
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl">{{<span class="l">&lt; echarts &gt;}}</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">title</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">text</span><span class="p">:</span><span class="w"> </span><span class="l">Summary Line Chart</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">top</span><span class="p">:</span><span class="w"> </span><span class="m">2</span><span class="l">%</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">left</span><span class="p">:</span><span class="w"> </span><span class="l">center</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">tooltip</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">trigger</span><span class="p">:</span><span class="w"> </span><span class="l">axis</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">legend</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">data</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Email Marketing</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Affiliate Advertising</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Video Advertising</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Direct View</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Search Engine</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">top</span><span class="p">:</span><span class="w"> </span><span class="m">10</span><span class="l">%</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">grid</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">left</span><span class="p">:</span><span class="w"> </span><span class="m">5</span><span class="l">%</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">right</span><span class="p">:</span><span class="w"> </span><span class="m">5</span><span class="l">%</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">bottom</span><span class="p">:</span><span class="w"> </span><span class="m">5</span><span class="l">%</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">top</span><span class="p">:</span><span class="w"> </span><span class="m">20</span><span class="l">%</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">containLabel</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">toolbox</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">feature</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span><span class="nt">saveAsImage</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">            </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l">Save as Image</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">xAxis</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l">category</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">boundaryGap</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">data</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Monday</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Tuesday</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Wednesday</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Thursday</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Friday</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Saturday</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">        </span>- <span class="l">Sunday</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">yAxis</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l">value</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">series</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Email Marketing</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l">line</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">stack</span><span class="p">:</span><span class="w"> </span><span class="l">Total</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">data</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">120</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">132</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">101</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">134</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">90</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">230</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">210</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Affiliate Advertising</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l">line</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">stack</span><span class="p">:</span><span class="w"> </span><span class="l">Total</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">data</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">220</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">182</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">191</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">234</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">290</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">330</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">310</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Video Advertising</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l">line</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">stack</span><span class="p">:</span><span class="w"> </span><span class="l">Total</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">data</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">150</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">232</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">201</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">154</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">190</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">330</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">410</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Direct View</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l">line</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">stack</span><span class="p">:</span><span class="w"> </span><span class="l">Total</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">data</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">320</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">332</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">301</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">334</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">390</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">330</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">320</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">    </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Search Engine</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l">line</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">stack</span><span class="p">:</span><span class="w"> </span><span class="l">Total</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">data</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">820</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">932</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">901</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">934</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">1290</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">1330</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">          </span>- <span class="m">1320</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span>{{<span class="l">&lt; /echarts &gt;}}</span><span class="w">
-</span></span></span></code></pre></td></tr></table>
-</div>
-</div><p>The same in <code>TOML</code> format:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">  1
-</span><span class="lnt">  2
-</span><span class="lnt">  3
-</span><span class="lnt">  4
-</span><span class="lnt">  5
-</span><span class="lnt">  6
-</span><span class="lnt">  7
-</span><span class="lnt">  8
-</span><span class="lnt">  9
-</span><span class="lnt"> 10
-</span><span class="lnt"> 11
-</span><span class="lnt"> 12
-</span><span class="lnt"> 13
-</span><span class="lnt"> 14
-</span><span class="lnt"> 15
-</span><span class="lnt"> 16
-</span><span class="lnt"> 17
-</span><span class="lnt"> 18
-</span><span class="lnt"> 19
-</span><span class="lnt"> 20
-</span><span class="lnt"> 21
-</span><span class="lnt"> 22
-</span><span class="lnt"> 23
-</span><span class="lnt"> 24
-</span><span class="lnt"> 25
-</span><span class="lnt"> 26
-</span><span class="lnt"> 27
-</span><span class="lnt"> 28
-</span><span class="lnt"> 29
-</span><span class="lnt"> 30
-</span><span class="lnt"> 31
-</span><span class="lnt"> 32
-</span><span class="lnt"> 33
-</span><span class="lnt"> 34
-</span><span class="lnt"> 35
-</span><span class="lnt"> 36
-</span><span class="lnt"> 37
-</span><span class="lnt"> 38
-</span><span class="lnt"> 39
-</span><span class="lnt"> 40
-</span><span class="lnt"> 41
-</span><span class="lnt"> 42
-</span><span class="lnt"> 43
-</span><span class="lnt"> 44
-</span><span class="lnt"> 45
-</span><span class="lnt"> 46
-</span><span class="lnt"> 47
-</span><span class="lnt"> 48
-</span><span class="lnt"> 49
-</span><span class="lnt"> 50
-</span><span class="lnt"> 51
-</span><span class="lnt"> 52
-</span><span class="lnt"> 53
-</span><span class="lnt"> 54
-</span><span class="lnt"> 55
-</span><span class="lnt"> 56
-</span><span class="lnt"> 57
-</span><span class="lnt"> 58
-</span><span class="lnt"> 59
-</span><span class="lnt"> 60
-</span><span class="lnt"> 61
-</span><span class="lnt"> 62
-</span><span class="lnt"> 63
-</span><span class="lnt"> 64
-</span><span class="lnt"> 65
-</span><span class="lnt"> 66
-</span><span class="lnt"> 67
-</span><span class="lnt"> 68
-</span><span class="lnt"> 69
-</span><span class="lnt"> 70
-</span><span class="lnt"> 71
-</span><span class="lnt"> 72
-</span><span class="lnt"> 73
-</span><span class="lnt"> 74
-</span><span class="lnt"> 75
-</span><span class="lnt"> 76
-</span><span class="lnt"> 77
-</span><span class="lnt"> 78
-</span><span class="lnt"> 79
-</span><span class="lnt"> 80
-</span><span class="lnt"> 81
-</span><span class="lnt"> 82
-</span><span class="lnt"> 83
-</span><span class="lnt"> 84
-</span><span class="lnt"> 85
-</span><span class="lnt"> 86
-</span><span class="lnt"> 87
-</span><span class="lnt"> 88
-</span><span class="lnt"> 89
-</span><span class="lnt"> 90
-</span><span class="lnt"> 91
-</span><span class="lnt"> 92
-</span><span class="lnt"> 93
-</span><span class="lnt"> 94
-</span><span class="lnt"> 95
-</span><span class="lnt"> 96
-</span><span class="lnt"> 97
-</span><span class="lnt"> 98
-</span><span class="lnt"> 99
-</span><span class="lnt">100
-</span><span class="lnt">101
-</span><span class="lnt">102
-</span><span class="lnt">103
-</span><span class="lnt">104
-</span><span class="lnt">105
-</span><span class="lnt">106
-</span><span class="lnt">107
-</span><span class="lnt">108
-</span><span class="lnt">109
-</span><span class="lnt">110
-</span><span class="lnt">111
-</span><span class="lnt">112
-</span><span class="lnt">113
-</span><span class="lnt">114
-</span><span class="lnt">115
-</span><span class="lnt">116
-</span><span class="lnt">117
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">{{</span><span class="err">&lt;</span> <span class="nx">echarts</span> <span class="err">&gt;</span><span class="p">}}</span>
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">title</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">text</span> <span class="p">=</span> <span class="s2">&#34;Summary Line Chart&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">top</span> <span class="p">=</span> <span class="s2">&#34;2%&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">left</span> <span class="p">=</span> <span class="s2">&#34;center&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">tooltip</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">trigger</span> <span class="p">=</span> <span class="s2">&#34;axis&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">legend</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">data</span> <span class="p">=</span> <span class="p">[</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Email Marketing&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Affiliate Advertising&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Video Advertising&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Direct View&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Search Engine&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">top</span> <span class="p">=</span> <span class="s2">&#34;10%&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">grid</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">left</span> <span class="p">=</span> <span class="s2">&#34;5%&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">right</span> <span class="p">=</span> <span class="s2">&#34;5%&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">bottom</span> <span class="p">=</span> <span class="s2">&#34;5%&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">top</span> <span class="p">=</span> <span class="s2">&#34;20%&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">containLabel</span> <span class="p">=</span> <span class="kc">true</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">toolbox</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">toolbox</span><span class="p">.</span><span class="nx">feature</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">toolbox</span><span class="p">.</span><span class="nx">feature</span><span class="p">.</span><span class="nx">saveAsImage</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">title</span> <span class="p">=</span> <span class="s2">&#34;Save as Image&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">xAxis</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">type</span> <span class="p">=</span> <span class="s2">&#34;category&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">boundaryGap</span> <span class="p">=</span> <span class="kc">false</span>
-</span></span><span class="line"><span class="cl"><span class="nx">data</span> <span class="p">=</span> <span class="p">[</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Monday&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Tuesday&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Wednesday&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Thursday&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Friday&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Saturday&#34;</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="s2">&#34;Sunday&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="p">]</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[</span><span class="nx">yAxis</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">type</span> <span class="p">=</span> <span class="s2">&#34;value&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[[</span><span class="nx">series</span><span class="p">]]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Email Marketing&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">type</span> <span class="p">=</span> <span class="s2">&#34;line&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">stack</span> <span class="p">=</span> <span class="s2">&#34;Total&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">data</span> <span class="p">=</span> <span class="p">[</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">120.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">132.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">101.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">134.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">90.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">230.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">210.0</span>
-</span></span><span class="line"><span class="cl"><span class="p">]</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[[</span><span class="nx">series</span><span class="p">]]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Affiliate Advertising&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">type</span> <span class="p">=</span> <span class="s2">&#34;line&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">stack</span> <span class="p">=</span> <span class="s2">&#34;Total&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">data</span> <span class="p">=</span> <span class="p">[</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">220.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">182.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">191.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">234.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">290.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">330.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">310.0</span>
-</span></span><span class="line"><span class="cl"><span class="p">]</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[[</span><span class="nx">series</span><span class="p">]]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Video Advertising&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">type</span> <span class="p">=</span> <span class="s2">&#34;line&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">stack</span> <span class="p">=</span> <span class="s2">&#34;Total&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">data</span> <span class="p">=</span> <span class="p">[</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">150.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">232.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">201.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">154.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">190.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">330.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">410.0</span>
-</span></span><span class="line"><span class="cl"><span class="p">]</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[[</span><span class="nx">series</span><span class="p">]]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Direct View&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">type</span> <span class="p">=</span> <span class="s2">&#34;line&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">stack</span> <span class="p">=</span> <span class="s2">&#34;Total&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">data</span> <span class="p">=</span> <span class="p">[</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">320.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">332.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">301.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">334.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">390.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">330.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">320.0</span>
-</span></span><span class="line"><span class="cl"><span class="p">]</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">[[</span><span class="nx">series</span><span class="p">]]</span>
-</span></span><span class="line"><span class="cl"><span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Search Engine&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">type</span> <span class="p">=</span> <span class="s2">&#34;line&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">stack</span> <span class="p">=</span> <span class="s2">&#34;Total&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nx">data</span> <span class="p">=</span> <span class="p">[</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">820.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">932.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">901.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">934.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">1290.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">1330.0</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">  <span class="mf">1320.0</span>
-</span></span><span class="line"><span class="cl"><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="p">{{</span><span class="err">&lt;</span> <span class="err">/</span><span class="nx">echarts</span> <span class="err">&gt;</span><span class="p">}}</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<div class="echarts" id="id-1" style="width: 100%; height: 30rem;"></div>
-<p>The <code>echarts</code> shortcode has also the following named parameters:</p>
-<ul>
-<li>
-<p><strong>width</strong> <em>[optional]</em> (<strong>first</strong> positional parameter)</p>
-<p><a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> Width of the data visualization, default value is <code>100%</code>.</p>
-</li>
-<li>
-<p><strong>height</strong> <em>[optional]</em> (<strong>second</strong> positional parameter)</p>
-<p><a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> Height of the data visualization, default value is <code>30rem</code>.</p>
-</li>
-</ul>]]></description>
+</div><div class="mermaid" id="id-2"></div>
+]]></description>
 </item>
 <item>
-    <title>Theme Documentation - mapbox Shortcode</title>
-    <link>http://localhost:4321/en/2020/theme-documentation-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:4321/en/2020/theme-documentation-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> library.</p>
-<p><strong>Mapbox GL JS</strong> is a JavaScript library that uses WebGL to render interactive maps from <a href="https://docs.mapbox.com/help/glossary/vector-tiles/" target="_blank" rel="noopener noreffer ">vector tiles</a> and <a href="https://docs.mapbox.com/mapbox-gl-js/style-spec/" target="_blank" rel="noopener noreffer ">Mapbox styles</a>.</p>
-<p>The <code>mapbox</code> shortcode has the following named parameters to use Mapbox GL JS:</p>
-<ul>
-<li>
-<p><strong>lng</strong> <em>[required]</em> (<strong>first</strong> positional parameter)</p>
-<p>Longitude of the inital centerpoint of the map, measured in degrees.</p>
-</li>
-<li>
-<p><strong>lat</strong> <em>[required]</em> (<strong>second</strong> positional parameter)</p>
-<p>Latitude of the inital centerpoint of the map, measured in degrees.</p>
-</li>
-<li>
-<p><strong>zoom</strong> <em>[optional]</em> (<strong>third</strong> positional parameter)</p>
-<p>The initial zoom level of the map, default value is <code>10</code>.</p>
-</li>
-<li>
-<p><strong>marked</strong> <em>[optional]</em> (<strong>fourth</strong> positional parameter)</p>
-<p>Whether to add a marker at the inital centerpoint of the map, default value is <code>true</code>.</p>
-</li>
-<li>
-<p><strong>light-style</strong> <em>[optional]</em> (<strong>fifth</strong> positional parameter)</p>
-<p>Style for the light theme, default value is the value set in the <a href="../theme-documentation-content#front-matter" rel="">front matter</a> or the <a href="../theme-documentation-basics#site-configuration" rel="">site configuration</a>.</p>
-</li>
-<li>
-<p><strong>dark-style</strong> <em>[optional]</em> (<strong>sixth</strong> positional parameter)</p>
-<p>Style for the dark theme, default value is the value set in the <a href="../theme-documentation-content#front-matter" rel="">front matter</a> or the <a href="../theme-documentation-basics#site-configuration" rel="">site configuration</a>.</p>
-</li>
-<li>
-<p><strong>navigation</strong> <em>[optional]</em></p>
-<p>Whether to add <a href="https://docs.mapbox.com/mapbox-gl-js/api#navigationcontrol" target="_blank" rel="noopener noreffer ">NavigationControl</a>, default value is the value set in the <a href="../theme-documentation-content#front-matter" rel="">front matter</a> or the <a href="../theme-documentation-basics#site-configuration" rel="">site configuration</a>.</p>
-</li>
-<li>
-<p><strong>geolocate</strong> <em>[optional]</em></p>
-<p>Whether to add <a href="https://docs.mapbox.com/mapbox-gl-js/api#geolocatecontrol" target="_blank" rel="noopener noreffer ">GeolocateControl</a>, default value is the value set in the <a href="../theme-documentation-content#front-matter" rel="">front matter</a> or the <a href="../theme-documentation-basics#site-configuration" rel="">site configuration</a>.</p>
-</li>
-<li>
-<p><strong>scale</strong> <em>[optional]</em></p>
-<p>Whether to add <a href="https://docs.mapbox.com/mapbox-gl-js/api#scalecontrol" target="_blank" rel="noopener noreffer ">ScaleControl</a>, default value is the value set in the <a href="../theme-documentation-content#front-matter" rel="">front matter</a> or the <a href="../theme-documentation-basics#site-configuration" rel="">site configuration</a>.</p>
-</li>
-<li>
-<p><strong>fullscreen</strong> <em>[optional]</em></p>
-<p>Whether to add <a href="https://docs.mapbox.com/mapbox-gl-js/api#fullscreencontrol" target="_blank" rel="noopener noreffer ">FullscreenControl</a>, default value is the value set in the <a href="../theme-documentation-content#front-matter" rel="">front matter</a> or the <a href="../theme-documentation-basics#site-configuration" rel="">site configuration</a>.</p>
-</li>
-<li>
-<p><strong>width</strong> <em>[optional]</em></p>
-<p>Width of the map, default value is <code>100%</code>.</p>
-</li>
-<li>
-<p><strong>height</strong> <em>[optional]</em></p>
-<p>Height of the map, default value is <code>20rem</code>.</p>
-</li>
-</ul>
-<p>Example simple <code>mapbox</code> input:</p>
+    <title>My Article Name</title>
+    <link>https://diagonaal.ru/en/2020/my-article-name/</link>
+    <pubDate>Tue, 19 May 2020 16:31:46 &#43;0300</pubDate>
+    <author>Author</author>
+    <guid>https://diagonaal.ru/en/2020/my-article-name/</guid>
+    <description><![CDATA[<p>[TOC]</p>
+<p>Проверка Шахматных Диаграмм</p>
+<p>
+<strong>FEN</strong>: <code>r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1</code></p>
+<p>Картинка
+
+<strong>FEN:</strong> <code>r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1</code></p>
+<p>
+<strong>FEN</strong>: <code>r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1</code>
+</p>
+<center>Centered text</center>
+<h2 id="an-example-flowchart-линия-lr">An example <strong>flowchart</strong> линия LR:</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mapbox</span> <span class="na">121</span><span class="err">.</span><span class="na">485</span> <span class="na">31</span><span class="err">.</span><span class="na">233</span> <span class="na">12</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">Or
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mapbox</span> <span class="na">lng</span><span class="o">=</span><span class="s">121.485</span> <span class="na">lat</span><span class="o">=</span><span class="s">31.233</span> <span class="na">zoom</span><span class="o">=</span><span class="s">12</span> <span class="p">&gt;</span>}}
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{&lt; mermaid &gt;}}
+</span></span><span class="line"><span class="cl">    graph LR
+</span></span><span class="line"><span class="cl">    A[Толик] --&gt;|Плюс| B(Вовик)
+</span></span><span class="line"><span class="cl">    B --&gt; C{Родные Братья}
+</span></span><span class="line"><span class="cl">    C --&gt;|Один| D[Стрёмберг]
+</span></span><span class="line"><span class="cl">    C --&gt;|Другой| E[Дмитриев]
+</span></span><span class="line"><span class="cl">{{&lt; /mermaid &gt;}}
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>The rendered output looks like this:</p>
-<div class="mapbox" id="id-1" style="width: 100%; height: 20rem;"></div>
-<p>Example <code>mapbox</code> input with the custom style:</p>
+</div><p>renders as</p>
+<div class="mermaid" id="id-1"></div>
+<h3 id="диаграмма">Диаграмма</h3>
+<p>{{/<em>&lt; link-heading &ldquo;Some Interesting Title - диаграмма&rdquo; &gt;</em>/}}</p>
+<p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the <code>diagram</code> option in your <code>config/_default/params.toml</code> file or by adding <code>diagram: true</code> to your page front matter.</p>
+<h2 id="an-example-flowchart----в-столбец-td">An example <strong>flowchart</strong> &ndash; в столбец TD:</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mapbox</span> <span class="na">-122</span><span class="err">.</span><span class="na">252</span> <span class="na">37</span><span class="err">.</span><span class="na">453</span> <span class="na">10</span> <span class="na">false</span> <span class="err">&#34;</span><span class="na">mapbox:</span><span class="err">//</span><span class="na">styles</span><span class="err">/</span><span class="na">mapbox</span><span class="err">/</span><span class="na">navigation-preview-day-v4</span><span class="err">&#34;</span> <span class="err">&#34;</span><span class="na">mapbox:</span><span class="err">//</span><span class="na">styles</span><span class="err">/</span><span class="na">mapbox</span><span class="err">/</span><span class="na">navigation-preview-night-v4</span><span class="err">&#34;</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">Or
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mapbox</span> <span class="na">lng</span><span class="o">=</span><span class="s">-122.252</span> <span class="na">lat</span><span class="o">=</span><span class="s">37.453</span> <span class="na">zoom</span><span class="o">=</span><span class="s">10</span> <span class="na">marked</span><span class="o">=</span><span class="s">false</span> <span class="na">light-style</span><span class="o">=</span><span class="s">&#34;mapbox://styles/mapbox/navigation-preview-day-v4&#34;</span> <span class="na">dark-style</span><span class="o">=</span><span class="s">&#34;mapbox://styles/mapbox/navigation-preview-night-v4&#34;</span> <span class="p">&gt;</span>}}
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{&lt; mermaid &gt;}}
+</span></span><span class="line"><span class="cl">    graph TD
+</span></span><span class="line"><span class="cl">    A[Hard] --&gt;|Text| B(Round)
+</span></span><span class="line"><span class="cl">    B --&gt; C{Decision}
+</span></span><span class="line"><span class="cl">    C --&gt;|One| D[Result 1]
+</span></span><span class="line"><span class="cl">    C --&gt;|Two| E[Result 2]
+</span></span><span class="line"><span class="cl">{{&lt; /mermaid &gt;}}
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>The rendered output looks like this:</p>
-<div class="mapbox" id="id-2" style="width: 100%; height: 20rem;"></div>]]></description>
+</div><p>renders as</p>
+<div class="mermaid" id="id-2"></div>
+<h2 id="an-example-sequence-diagram">An example <strong>sequence diagram</strong>:</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sequenceDiagram
+</span></span><span class="line"><span class="cl">    Alice-&gt;&gt;John: Hello John, how are you?
+</span></span><span class="line"><span class="cl">    loop Healthcheck
+</span></span><span class="line"><span class="cl">    John-&gt;&gt;John: Fight against hypochondria
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">    Note right of John: Rational thoughts!
+</span></span><span class="line"><span class="cl">    John--&gt;&gt;Alice: Great!
+</span></span><span class="line"><span class="cl">    John-&gt;&gt;Bob: How about you?
+</span></span><span class="line"><span class="cl">    Bob--&gt;&gt;John: Jolly good!
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>renders as</p>
+<div class="mermaid" id="id-3"></div>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{&lt; mermaid &gt;}}
+</span></span><span class="line"><span class="cl">    pie title NETFLIX
+</span></span><span class="line"><span class="cl">    &#34;Time spent looking for movie&#34; : 90
+</span></span><span class="line"><span class="cl">    &#34;Time spent watching it&#34; : 10
+</span></span><span class="line"><span class="cl">{{&lt; /mermaid &gt;}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="mermaid" id="id-4"></div>
+<h2 id="base">base</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{&lt; mermaid &gt;}}
+</span></span><span class="line"><span class="cl">graph LR;
+</span></span><span class="line"><span class="cl">    A[Hard edge] --&gt;|Link text| B(Round edge)
+</span></span><span class="line"><span class="cl">    B --&gt; C{Decision}
+</span></span><span class="line"><span class="cl">    C --&gt;|One| D[Result one]
+</span></span><span class="line"><span class="cl">    C --&gt;|Two| E[Result two]
+</span></span><span class="line"><span class="cl">{{&lt; /mermaid &gt;}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="mermaid" id="id-5"></div>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - music Shortcode</title>
-    <link>http://localhost:4321/en/2020/theme-documentation-music-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:4321/en/2020/theme-documentation-music-shortcode/</guid>
-    <description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a>.</p>
-<p>There are three ways to use it the <code>music</code> shortcode.</p>
-<h2 id="custom-music-url">1 Custom Music URL</h2>
-<p><a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.10" rel="noopener noreffer" target="_blank"></a> The complete usage of <a href="../theme-documentation-content#contents-organization" rel="">local resource references</a> is supported.</p>
-<p>The <code>music</code> shortcode has the following named parameters by custom music URL:</p>
+    <title>Academic: the website builder for Hugo</title>
+    <link>https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/</link>
+    <pubDate>Wed, 20 Apr 2016 17:30:13 &#43;0300</pubDate>
+    <author>Author</author>
+    <guid>https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/</guid>
+    <description><![CDATA[<p><strong>Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 <em>widgets</em>, <em>themes</em>, and <em>language packs</em> included!</strong></p>
+<p><a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener noreffer ">Check out the latest <strong>demo</strong></a> of what you&rsquo;ll get in less than 10 minutes, or <a href="https://sourcethemes.com/academic/#expo" target="_blank" rel="noopener noreffer ">view the <strong>showcase</strong></a> of personal, project, and business sites.</p>
 <ul>
-<li>
-<p><strong>server</strong> <em>[required]</em></p>
-<p>URL of the custom music.</p>
-</li>
-<li>
-<p><strong>name</strong> <em>[optional]</em></p>
-<p>Name of the custom music.</p>
-</li>
-<li>
-<p><strong>artist</strong> <em>[optional]</em></p>
-<p>Artist of the custom music.</p>
-</li>
-<li>
-<p><strong>cover</strong> <em>[required]</em></p>
-<p>URL of the custom music cover.</p>
+<li>👉 <a href="#install" rel=""><strong>Get Started</strong></a></li>
+<li>📚 <a href="https://sourcethemes.com/academic/docs/" target="_blank" rel="noopener noreffer ">View the <strong>documentation</strong></a></li>
+<li>💬 <a href="https://discourse.gohugo.io" target="_blank" rel="noopener noreffer "><strong>Ask a question</strong> on the forum</a></li>
+<li>👥 <a href="https://spectrum.chat/academic" target="_blank" rel="noopener noreffer ">Chat with the <strong>community</strong></a></li>
+<li>🐦 Twitter: <a href="https://twitter.com/source_themes" target="_blank" rel="noopener noreffer ">@source_themes</a> <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener noreffer ">@GeorgeCushen</a> <a href="https://twitter.com/search?q=%23MadeWithAcademic&amp;src=typd" target="_blank" rel="noopener noreffer ">#MadeWithAcademic</a></li>
+<li>💡 <a href="https://github.com/gcushen/hugo-academic/issues" target="_blank" rel="noopener noreffer ">Request a <strong>feature</strong> or report a <strong>bug</strong></a></li>
+<li>⬆️ <strong>Updating?</strong> View the <a href="https://sourcethemes.com/academic/docs/update/" target="_blank" rel="noopener noreffer ">Update Guide</a> and <a href="https://sourcethemes.com/academic/updates/" target="_blank" rel="noopener noreffer ">Release Notes</a></li>
+<li>&#x2764;&#xfe0f; <strong>Support development</strong> of Academic:
+<ul>
+<li>☕️ <a href="https://paypal.me/cushen" target="_blank" rel="noopener noreffer "><strong>Donate a coffee</strong></a></li>
+<li>💵 <a href="https://www.patreon.com/cushen" target="_blank" rel="noopener noreffer ">Become a backer on <strong>Patreon</strong></a></li>
+<li>🖼️ <a href="https://www.redbubble.com/people/neutreno/works/34387919-academic" target="_blank" rel="noopener noreffer ">Decorate your laptop or journal with an Academic <strong>sticker</strong></a></li>
+<li>👕 <a href="https://academic.threadless.com/" target="_blank" rel="noopener noreffer ">Wear the <strong>T-shirt</strong></a></li>
+<li>&#x1f469;&zwj;&#x1f4bb; <a href="https://sourcethemes.com/academic/docs/contribute/" target="_blank" rel="noopener noreffer "><strong>Contribute</strong></a></li>
+</ul>
 </li>
 </ul>
-<p>Example <code>music</code> input by custom music URL:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">music</span> <span class="na">url</span><span class="o">=</span><span class="s">&#34;/music/Wavelength.mp3&#34;</span> <span class="na">name</span><span class="o">=</span><span class="s">Wavelength</span> <span class="na">artist</span><span class="o">=</span><span class="s">oldmanyoung</span> <span class="na">cover</span><span class="o">=</span><span class="s">&#34;/images/Wavelength.jpg&#34;</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<meting-js url="/music/Wavelength.mp3" name="Wavelength" artist="oldmanyoung" cover="/images/Wavelength.jpg" theme="#448aff"></meting-js>
-<h2 id="automatic-identification">2 Music Platform URL Automatic Identification</h2>
-<p>The <code>music</code> shortcode has one named parameter by music platform URL automatic identification:</p>
+
+
+
+<figure>
+    
+        
+             <figcaption>
+                
+                    <h4>Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.</h4>
+                
+                
+            </figcaption></figure>
+
+<p><strong>Key features:</strong></p>
 <ul>
-<li>
-<p><strong>auto</strong> <em>[required]</em> (<strong>first</strong> positional parameter)</p>
-<p>URL of the music platform URL for automatic identification,
-which supports <code>netease</code>, <code>tencent</code> and <code>xiami</code> music platform.</p>
-</li>
+<li><strong>Page builder</strong> - Create <em>anything</em> with <a href="https://sourcethemes.com/academic/docs/page-builder/" target="_blank" rel="noopener noreffer "><strong>widgets</strong></a> and <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener noreffer "><strong>elements</strong></a></li>
+<li><strong>Edit any type of content</strong> - Blog posts, publications, talks, slides, projects, and more!</li>
+<li><strong>Create content</strong> in <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener noreffer "><strong>Markdown</strong></a>, <a href="https://sourcethemes.com/academic/docs/jupyter/" target="_blank" rel="noopener noreffer "><strong>Jupyter</strong></a>, or <a href="https://sourcethemes.com/academic/docs/install/#install-with-rstudio" target="_blank" rel="noopener noreffer "><strong>RStudio</strong></a></li>
+<li><strong>Plugin System</strong> - Fully customizable <a href="https://sourcethemes.com/academic/themes/" target="_blank" rel="noopener noreffer "><strong>color</strong> and <strong>font themes</strong></a></li>
+<li><strong>Display Code and Math</strong> - Code highlighting and <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener noreffer ">LaTeX math</a> supported</li>
+<li><strong>Integrations</strong> - <a href="https://analytics.google.com" target="_blank" rel="noopener noreffer ">Google Analytics</a>, <a href="https://disqus.com" target="_blank" rel="noopener noreffer ">Disqus commenting</a>, Maps, Contact Forms, and more!</li>
+<li><strong>Beautiful Site</strong> - Simple and refreshing one page design</li>
+<li><strong>Industry-Leading SEO</strong> - Help get your website found on search engines and social media</li>
+<li><strong>Media Galleries</strong> - Display your images and videos with captions in a customizable gallery</li>
+<li><strong>Mobile Friendly</strong> - Look amazing on every screen with a mobile friendly version of your site</li>
+<li><strong>Multi-language</strong> - 15+ language packs including English, 中文, and Português</li>
+<li><strong>Multi-user</strong> - Each author gets their own profile page</li>
+<li><strong>Privacy Pack</strong> - Assists with GDPR</li>
+<li><strong>Stand Out</strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects</li>
+<li><strong>One-Click Deployment</strong> - No servers. No databases. Only files.</li>
 </ul>
-<p>Example <code>music</code> input by music platform URL automatic identification:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">music</span> <span class="na">auto</span><span class="o">=</span><span class="s">&#34;https://music.163.com/#/playlist?id=60198&#34;</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">Or
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">music</span> <span class="err">&#34;</span><span class="na">https:</span><span class="err">//</span><span class="na">music</span><span class="err">.</span><span class="na">163</span><span class="err">.</span><span class="na">com</span><span class="err">/#/</span><span class="na">playlist</span><span class="err">?</span><span class="na">id</span><span class="o">=</span><span class="s">60198&#34;</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<meting-js auto="https://music.163.com/#/playlist?id=60198" theme="#448aff"></meting-js>
-<h2 id="custom-server">3 Custom Server, Type and ID</h2>
-<p>The <code>music</code> shortcode has the following named parameters by custom music platform:</p>
+<h2 id="themes">Themes</h2>
+<p>Academic comes with <strong>automatic day (light) and night (dark) mode</strong> built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the <a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener noreffer ">Demo</a> to see it in action! Day/night mode can also be disabled by the site admin in <code>params.toml</code>.</p>
+<p><a href="https://sourcethemes.com/academic/themes/" target="_blank" rel="noopener noreffer ">Choose a stunning <strong>theme</strong> and <strong>font</strong></a> for your site. Themes are fully <a href="https://sourcethemes.com/academic/docs/customization/#custom-theme" target="_blank" rel="noopener noreffer ">customizable</a>.</p>
+<h2 id="ecosystem">Ecosystem</h2>
 <ul>
-<li>
-<p><strong>server</strong> <em>[required]</em> (<strong>first</strong> positional parameter)</p>
-<p>[<code>netease</code>, <code>tencent</code>, <code>kugou</code>, <code>xiami</code>, <code>baidu</code>]</p>
-<p>Music platform.</p>
-</li>
-<li>
-<p><strong>type</strong> <em>[required]</em> (<strong>second</strong> positional parameter)</p>
-<p>[<code>song</code>, <code>playlist</code>, <code>album</code>, <code>search</code>, <code>artist</code>]</p>
-<p>Type of the music.</p>
-</li>
-<li>
-<p><strong>id</strong> <em>[required]</em> (<strong>third</strong> positional parameter)</p>
-<p>Song ID, or playlist ID, or album ID, or search keyword, or artist ID.</p>
-</li>
+<li><strong><a href="https://github.com/sourcethemes/academic-admin" target="_blank" rel="noopener noreffer ">Academic Admin</a>:</strong> An admin tool to import publications from BibTeX or import assets for an offline site</li>
+<li><strong><a href="https://github.com/sourcethemes/academic-scripts" target="_blank" rel="noopener noreffer ">Academic Scripts</a>:</strong> Scripts to help migrate content to new versions of Academic</li>
 </ul>
-<p>Example <code>music</code> input by custom music platform:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">music</span> <span class="na">server</span><span class="o">=</span><span class="s">&#34;netease&#34;</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;song&#34;</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;1868553&#34;</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">Or
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">music</span> <span class="na">netease</span> <span class="na">song</span> <span class="na">1868553</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<meting-js server="netease" type="song" id="1868553" theme="#448aff"></meting-js>
-<h2 id="other-parameters">4 Other Parameters</h2>
-<p>The <code>music</code> shortcode has other named parameters applying to the above three ways:</p>
+<h2 id="install">Install</h2>
+<p>You can choose from one of the following four methods to install:</p>
 <ul>
-<li>
-<p><strong>theme</strong> <em>[optional]</em></p>
-<p><a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a> Main color of the music player, default value is <code>#448aff</code>.</p>
-</li>
-<li>
-<p><strong>fixed</strong> <em>[optional]</em></p>
-<p>Whether to enable fixed mode, default value is <code>false</code>.</p>
-</li>
-<li>
-<p><strong>mini</strong> <em>[optional]</em></p>
-<p>Whether to enable mini mode, default value is <code>false</code>.</p>
-</li>
-<li>
-<p><strong>autoplay</strong> <em>[optional]</em></p>
-<p>Whether to autoplay music, default value is <code>false</code>.</p>
-</li>
-<li>
-<p><strong>volume</strong> <em>[optional]</em></p>
-<p>Default volume when the player is first opened, which will be remembered in the browser, default value is <code>0.7</code>.</p>
-</li>
-<li>
-<p><strong>mutex</strong> <em>[optional]</em></p>
-<p>Whether to pause other players when this player starts playing, default value is <code>true</code>.</p>
-</li>
+<li><a href="https://sourcethemes.com/academic/docs/install/#install-with-web-browser" target="_blank" rel="noopener noreffer "><strong>one-click install using your web browser (recommended)</strong></a></li>
+<li><a href="https://sourcethemes.com/academic/docs/install/#install-with-git" target="_blank" rel="noopener noreffer ">install on your computer using <strong>Git</strong> with the Command Prompt/Terminal app</a></li>
+<li><a href="https://sourcethemes.com/academic/docs/install/#install-with-zip" target="_blank" rel="noopener noreffer ">install on your computer by downloading the <strong>ZIP files</strong></a></li>
+<li><a href="https://sourcethemes.com/academic/docs/install/#install-with-rstudio" target="_blank" rel="noopener noreffer ">install on your computer with <strong>RStudio</strong></a></li>
 </ul>
-<p>The <code>music</code> shortcode has the following named parameters only applying to the type of music list:</p>
-<ul>
-<li>
-<p><strong>loop</strong> <em>[optional]</em></p>
-<p>[<code>all</code>, <code>one</code>, <code>none</code>]</p>
-<p>Loop mode of the music list, default value is <code>none</code>.</p>
-</li>
-<li>
-<p><strong>order</strong> <em>[optional]</em></p>
-<p>[<code>list</code>, <code>random</code>]</p>
-<p>Play order of the music list, default value is <code>list</code>.</p>
-</li>
-<li>
-<p><strong>list-folded</strong> <em>[optional]</em></p>
-<p>Whether the music list should be folded at first, default value is <code>false</code>.</p>
-</li>
-<li>
-<p><strong>list-max-height</strong> <em>[optional]</em></p>
-<p>Max height of the music list, default value is <code>340px</code>.</p>
-</li>
-</ul>]]></description>
+<p>Then <a href="https://sourcethemes.com/academic/docs/get-started/" target="_blank" rel="noopener noreffer ">personalize and deploy your new site</a>.</p>
+<h2 id="updating">Updating</h2>
+<p><a href="https://sourcethemes.com/academic/docs/update/" target="_blank" rel="noopener noreffer ">View the Update Guide</a>.</p>
+<p>Feel free to <em>star</em> the project on <a href="https://github.com/gcushen/hugo-academic/" target="_blank" rel="noopener noreffer ">Github</a> to help keep track of <a href="https://sourcethemes.com/academic/updates" target="_blank" rel="noopener noreffer ">updates</a>.</p>
+<h2 id="license">License</h2>
+<p>Copyright 2016-present <a href="https://georgecushen.com" target="_blank" rel="noopener noreffer ">George Cushen</a>.</p>
+<p>Released under the <a href="https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md" target="_blank" rel="noopener noreffer ">MIT</a> license.</p>
+]]></description>
 </item>
 </channel>
 </rss>
