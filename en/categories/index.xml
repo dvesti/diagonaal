@@ -1,30 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Diagonaal</title>
-        <link>http://localhost:4321/en/categories/</link>
+        <link>https://diagonaal.ru/en/categories/</link>
         <description>Categories - Category - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 18 Nov 2020 22:38:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:4321/en/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 18 Nov 2020 22:38:00 &#43;0800</lastBuildDate><atom:link href="https://diagonaal.ru/en/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown</title>
-    <link>http://localhost:4321/en/categories/markdown/</link>
+    <link>https://diagonaal.ru/en/categories/markdown/</link>
     <pubDate>Wed, 18 Nov 2020 22:38:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://localhost:4321/en/categories/markdown/</guid>
+    <guid>https://diagonaal.ru/en/categories/markdown/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Demo</title>
-    <link>http://localhost:4321/en/categories/demo/</link>
+    <link>https://diagonaal.ru/en/categories/demo/</link>
     <pubDate>Tue, 19 May 2020 16:31:46 &#43;0300</pubDate>
     <author>Author</author>
-    <guid>http://localhost:4321/en/categories/demo/</guid>
+    <guid>https://diagonaal.ru/en/categories/demo/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Documentation</title>
-    <link>http://localhost:4321/en/categories/documentation/</link>
+    <link>https://diagonaal.ru/en/categories/documentation/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://localhost:4321/en/categories/documentation/</guid>
+    <guid>https://diagonaal.ru/en/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
