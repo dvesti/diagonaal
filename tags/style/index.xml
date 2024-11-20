@@ -1,21 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Style - Тэг - Diagonaal</title>
-        <link>http://localhost:4321/tags/style/</link>
+        <link>https://diagonaal.ru/tags/style/</link>
         <description>Style - Тэг - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</lastBuildDate><atom:link href="http://localhost:4321/tags/style/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</lastBuildDate><atom:link href="https://diagonaal.ru/tags/style/" rel="self" type="application/rss+xml" /><item>
     <title>Стили от 23-08-2020</title>
-    <link>http://localhost:4321/2020/style-23-08-2020/</link>
+    <link>https://diagonaal.ru/2020/style-23-08-2020/</link>
     <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
     <author>Автор</author>
-    <guid>http://localhost:4321/2020/style-23-08-2020/</guid>
-<<<<<<< Updated upstream
-    <description><![CDATA[<p>Меняю стили каждый день, как я и писал ранее, в ущерб написанию заметок.<br>
-=======
+    <guid>https://diagonaal.ru/2020/style-23-08-2020/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/featured.jpg" referrerpolicy="no-referrer">
             </div><p>Меняю стили каждый день, как я и писал ранее, в ущерб написанию заметок.<br>
->>>>>>> Stashed changes
 Сейчас всё-таки изменил размер шрифта даты, который был связан с другими стилями, поэтому пришлось выделить в отдельные строки.</p>
 <p>Использовал стили оригинала — <strong>Refined</strong>, а также <strong>Jane</strong></p>
 <p>Менять пришлось и <em>курсив</em>, так как он брался из другого шрифта получался другого размера (в частности, меньше), что было не очень красиво.</p>

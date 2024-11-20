@@ -1,25 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Shortcodes - Тэг - Diagonaal</title>
-<<<<<<< Updated upstream
         <link>https://diagonaal.ru/tags/shortcodes/</link>
         <description>Shortcodes - Тэг - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</lastBuildDate><atom:link href="https://diagonaal.ru/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
-    <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>https://diagonaal.ru/2020/theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://diagonaal.ru/2020/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>
-=======
-        <link>http://localhost:4321/tags/shortcodes/</link>
-        <description>Shortcodes - Тэг - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</lastBuildDate><atom:link href="http://localhost:4321/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</lastBuildDate><atom:link href="https://diagonaal.ru/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
     <title>Thème Documentation - Built-in Shortcodes</title>
-    <link>http://localhost:4321/2020/theme-documentation-built-in-shortcodes/</link>
+    <link>https://diagonaal.ru/2020/theme-documentation-built-in-shortcodes/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2020/theme-documentation-built-in-shortcodes/</guid>
+    <guid>https://diagonaal.ru/2020/theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<p><strong>Hugo</strong> fournit plusieurs shortcodes intégrés pour la commodité de l&rsquo;auteur et pour garder votre contenu de démarque propre.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -30,7 +19,6 @@
 Welcome to take the time to propose a translation by <a href="https://github.com/sunt-programator/CodeIT/pulls" target="_blank" rel="noopener noreffer "><i class="fas fa-code-branch fa-fw" aria-hidden="true"></i>&nbsp;making a PR</a> to the theme!</div>
         </div>
     </div>
->>>>>>> Stashed changes
 <p>Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.</p>
 <p>But this happens to be a bad idea. Everyone uses Markdown because it’s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.</p>
 <p>To avoid this limitations, Hugo created <a href="https://gohugo.io/extras/shortcodes/" target="_blank" rel="noopener noreffer ">shortcodes</a>.
@@ -72,17 +60,10 @@ A shortcode is a simple snippet that can generate reasonable HTML code and confo
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">figure</span><span class="p">&gt;</span>
-<<<<<<< Updated upstream
-</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">img</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;/images/lighthouse.jpg&#34;</span><span class="p">/&gt;</span>
-</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">figcaption</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="cl">        <span class="p">&lt;</span><span class="nt">h4</span><span class="p">&gt;</span>Lighthouse (figure)<span class="p">&lt;/</span><span class="nt">h4</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">figcaption</span><span class="p">&gt;</span>
-=======
 </span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">img</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;/images/lighthouse.jpg&#34;</span> <span class="p">/&gt;</span>
 </span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">figcaption</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">h4</span><span class="p">&gt;</span>Lighthouse (figure)<span class="p">&lt;/</span><span class="nt">h4</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl">  <span class="p">&lt;/</span><span class="nt">figcaption</span><span class="p">&gt;</span>
->>>>>>> Stashed changes
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">figure</span><span class="p">&gt;</span>
 </span></span></code></pre></td></tr></table>
 </div>
@@ -104,11 +85,6 @@ A shortcode is a simple snippet that can generate reasonable HTML code and confo
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-<<<<<<< Updated upstream
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;application/javascript&#34;</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://gist.github.com/spf13/7896402.js&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
-=======
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -118,7 +94,6 @@ A shortcode is a simple snippet that can generate reasonable HTML code and confo
 </span></span><span class="line"><span class="cl">  <span class="na">type</span><span class="o">=</span><span class="s">&#34;application/javascript&#34;</span>
 </span></span><span class="line"><span class="cl">  <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://gist.github.com/spf13/7896402.js&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
->>>>>>> Stashed changes
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="3-highlight">3 highlight</h2>
@@ -136,13 +111,11 @@ A shortcode is a simple snippet that can generate reasonable HTML code and confo
 </span><span class="lnt"> 8
 </span><span class="lnt"> 9
 </span><span class="lnt">10
+</span><span class="lnt">11
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">highlight</span> <span class="na">html</span> <span class="p">&gt;</span>}}
-<<<<<<< Updated upstream
-=======
 </span></span><span class="line"><span class="cl">
->>>>>>> Stashed changes
 </span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">section</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;main&#34;</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl">        <span class="p">&lt;</span><span class="nt">h1</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;title&#34;</span><span class="p">&gt;</span>{{ .Title }}<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
@@ -179,18 +152,6 @@ A shortcode is a simple snippet that can generate reasonable HTML code and confo
 </div>
 <h2 id="4-instagram">4 instagram</h2>
 <p><a href="https://gohugo.io/content-management/shortcodes#instagram" target="_blank" rel="noopener noreffer ">Documentation of <code>instagram</code></a></p>
-<<<<<<< Updated upstream
-<div class="details admonition question open">
-        <div class="details-summary admonition-title">
-            <i class="icon fas fa-question-circle fa-fw" aria-hidden="true"></i>Instagram’s API was deprecated since October 24th, 2020<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
-        </div>
-        <div class="details-content">
-            <div class="admonition-content">The instagram-shortcode refers an endpoint of Instagram’s API, that’s deprecated since October 24th, 2020.
-Thus, no images can be fetched from this API endpoint, resulting in an error when the instagram-shortcode is used.
-For more information please have a look at GitHub issue <a href="https://github.com/gohugoio/hugo/issues/7879" target="_blank" rel="noopener noreffer ">#7879</a>.</div>
-        </div>
-    </div>
-=======
 <p>Example <code>instagram</code> input:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -431,7 +392,6 @@ For more information please have a look at GitHub issue <a href="https://github.
       ></a>
     </div>
   </blockquote><script async src="//www.instagram.com/embed.js"></script>
->>>>>>> Stashed changes
 <h2 id="5-param">5 param</h2>
 <p><a href="https://gohugo.io/content-management/shortcodes#param" target="_blank" rel="noopener noreffer ">Documentation of <code>param</code></a></p>
 <p>Example <code>param</code> input:</p>
@@ -444,7 +404,7 @@ For more information please have a look at GitHub issue <a href="https://github.
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-Hugo provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.
+Hugo fournit plusieurs shortcodes intégrés pour la commodité de l&#39;auteur et pour garder votre contenu de démarque propre.
 <h2 id="ref-and-relref">6 ref and relref</h2>
 <p><a href="https://gohugo.io/content-management/shortcodes#ref-and-relref" target="_blank" rel="noopener noreffer ">Documentation of <code>ref</code> and <code>relref</code></a></p>
 <h2 id="7-tweet">7 tweet</h2>
@@ -455,11 +415,7 @@ Hugo provides multiple built-in shortcodes for author convenience and to keep yo
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<<<<<<< Updated upstream
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">tweet</span> <span class="na">917359331535966209</span> <span class="p">&gt;</span>}}
-=======
 <pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">tweet</span> <span class="na">877500564405444608</span> <span class="p">&gt;</span>}}
->>>>>>> Stashed changes
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
@@ -505,19 +461,11 @@ Hugo provides multiple built-in shortcodes for author convenience and to keep yo
     </div>]]></description>
 </item>
 <item>
-<<<<<<< Updated upstream
-    <title>Theme Documentation - Extended Shortcodes</title>
-    <link>https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>
-=======
     <title>Thème Documentation - Extended Shortcodes</title>
-    <link>http://localhost:4321/2020/theme-documentation-extended-shortcodes/</link>
+    <link>https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/</link>
     <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2020/theme-documentation-extended-shortcodes/</guid>
+    <guid>https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<p>Le thème <strong>CodeIT</strong> fournit plusieurs shortcodes en plus de ceux intégrés dans Hugo.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -528,9 +476,7 @@ Hugo provides multiple built-in shortcodes for author convenience and to keep yo
 Welcome to take the time to propose a translation by <a href="https://github.com/sunt-programator/CodeIT/pulls" target="_blank" rel="noopener noreffer "><i class="fas fa-code-branch fa-fw" aria-hidden="true"></i>&nbsp;making a PR</a> to the theme!</div>
         </div>
     </div>
->>>>>>> Stashed changes
 <h2 id="1-style">1 style</h2>
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -561,9 +507,8 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
 </div><p>The rendered output looks like this:</p>
 <div id="id-1">This is a <strong>right-aligned</strong> paragraph.</div>
 <h2 id="2-link">2 link</h2>
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <p><code>link</code> shortcode is an alternative to <a href="../basic-markdown-syntax#links" rel="">Markdown link syntax</a>. <code>link</code> shortcode can provide some other features and can be used in code blocks.</p>
-<p><a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.10" rel="noopener noreffer" target="_blank"></a> The complete usage of <a href="../theme-documentation-content#contents-organization" rel="">local resource references</a> is supported.</p>
+<p>The complete usage of <a href="../theme-documentation-content#contents-organization" rel="">local resource references</a> is supported.</p>
 <p>The <code>link</code> shortcode has the following named parameters:</p>
 <ul>
 <li>
@@ -639,14 +584,8 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
 </div><p>The rendered output looks like this (hover over the link, there should be a tooltip):</p>
 <a href="https://github.com/upstage/" title="Visit Upstage!" target="_blank" rel="noopener noreffer ">Upstage</a>
 <h2 id="image">3 image</h2>
-<<<<<<< Updated upstream
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p><code>image</code> shortcode is an alternative to <a href="../theme-documentation-built-in-shortcodes#figure" rel=""><code>figure</code> shortcode</a>. <code>image</code> shortcode can take full advantage of the dependent libraries of <a href="https://github.com/aFarkas/lazysizes" target="_blank" rel="noopener noreffer ">lazysizes</a> and <a href="https://github.com/sachinchoolur/lightgallery" target="_blank" rel="noopener noreffer ">lightGallery</a>.</p>
-<p><a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.10" rel="noopener noreffer" target="_blank"></a> The complete usage of <a href="../theme-documentation-content#contents-organization" rel="">local resource references</a> is supported.</p>
-=======
 <p><code>image</code> shortcode is an alternative to <a href="../theme-documentation-built-in-shortcodes#figure" rel=""><code>figure</code> shortcode</a>. <code>image</code> shortcode can take full advantage of the dependent libraries of <a href="https://github.com/aFarkas/lazysizes" target="_blank" rel="noopener noreffer ">lazysizes</a> and <a href="https://github.com/sachinchoolur/lightgallery.js" target="_blank" rel="noopener noreffer ">lightgallery.js</a>.</p>
 <p>The complete usage of <a href="../theme-documentation-content#contents-organization" rel="">local resource references</a> is supported.</p>
->>>>>>> Stashed changes
 <p>The <code>image</code> shortcode has the following named parameters:</p>
 <ul>
 <li>
@@ -820,7 +759,7 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
 <p>Title of the <code>admonition</code> banner, default value is the value of <strong>type</strong> parameter.</p>
 </li>
 <li>
-<p><strong>open</strong> <em>[optional]</em> (<strong>third</strong> positional parameter) <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a></p>
+<p><strong>open</strong> <em>[optional]</em> (<strong>third</strong> positional parameter)</p>
 <p>Whether the content will be expandable by default, default value is <code>true</code>.</p>
 </li>
 </ul>
@@ -855,56 +794,21 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
         </div>
     </div>
 <h2 id="5-mermaid">5 mermaid</h2>
-<<<<<<< Updated upstream
-<p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">Mermaid</a> library.</p>
-<p>The full documentation is provided in <a href="../theme-documentation-mermaid-shortcode" rel="">Theme Documentation - mermaid Shortcode</a>.</p>
-<h2 id="6-echarts">6 echarts</h2>
-<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> library.</p>
-<p>The full documentation is provided in <a href="../theme-documentation-echarts-shortcode" rel="">Theme Documentation - echarts Shortcode</a>.</p>
-<h2 id="7-mapbox">7 mapbox</h2>
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> library.</p>
-<p>The full documentation is provided in <a href="../theme-documentation-mapbox-shortcode" rel="">Theme Documentation - mapbox Shortcode</a>.</p>
-<h2 id="8-music">8 music</h2>
-<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a> library.</p>
-<p>The full documentation is provided in <a href="../theme-documentation-music-shortcode" rel="">Theme Documentation - music Shortcode</a>.</p>
-<h2 id="9-bilibili">9 bilibili</h2>
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>bilibili</code> shortcode embeds a responsive video player for bilibili videos.</p>
-<p>The full documentation is provided in <a href="../theme-documentation-bilibili-shortcode" rel="">Theme Documentation - bilibili Shortcode</a>.</p>
-<h2 id="10-typeit">10 typeit</h2>
-<p>The <code>typeit</code> shortcode provides typing animation based on <a href="https://typeitjs.com/" target="_blank" rel="noopener noreffer ">TypeIt</a> library.</p>
-<p>The full documentation is provided in <a href="../theme-documentation-typeit-shortcode" rel="">Theme Documentation - typeit Shortcode</a>.</p>
-<h2 id="11-script">11 script</h2>
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.8" rel="noopener noreffer" target="_blank"></a>
-<p><code>script</code> is a shortcode to insert custom <strong><i class="fab fa-js fa-fw" aria-hidden="true"></i>&nbsp;Javascript</strong> in your post.</p>
-<div class="details admonition note open">
-        <div class="details-summary admonition-title">
-            <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>Замечание<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
-        </div>
-        <div class="details-content">
-            <div class="admonition-content">The script content can be guaranteed to be executed in order after all third-party libraries are loaded. So you are free to use third-party libraries.</div>
-        </div>
-    </div>
-<p>Example <code>script</code> input:</p>
-=======
 <p><a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">mermaid</a> is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.</p>
 <p>Just insert your mermaid code in the <code>mermaid</code> shortcode and that’s it.</p>
 <h3 id="flowchart">5.1 Flowchart</h3>
 <p>Example <strong>flowchart</strong> <code>mermaid</code> input:</p>
->>>>>>> Stashed changes
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<<<<<<< Updated upstream
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">script</span> <span class="p">&gt;}}</span>
-</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Hello LoveIt!&#39;</span><span class="p">);</span>
-</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="p">/</span><span class="nt">script</span> <span class="p">&gt;</span>}}
-=======
 <pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span><span class="line"><span class="cl">graph LR;
 </span></span><span class="line"><span class="cl">A[Hard edge] --&gt;|Link text| B(Round edge)
@@ -912,20 +816,14 @@ and <code>&amp;</code> referring to this parent HTML element.</p>
 </span></span><span class="line"><span class="cl">C --&gt;|One| D[Result one]
 </span></span><span class="line"><span class="cl">C --&gt;|Two| E[Result two]
 </span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
->>>>>>> Stashed changes
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>You can see the output in the console of the developer tool.</p>
-
-<h2 id="12-raw">12 raw</h2>
-<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
-<p><code>raw</code> is a shortcode to insert raw <strong><i class="fab fa-html5 fa-fw" aria-hidden="true"></i>&nbsp;HTML</strong> content in your post.
-This is useful when you want to include some Markdown content to <strong>avoid being rendered or escaped</strong> by Hugo.</p>
-<p>Example <code>raw</code> input:</p>
+</div><p>The rendered output looks like this:</p>
+<div class="mermaid" id="id-2"></div>
+<h3 id="sequence-diagram">5.2 Sequence Diagram</h3>
+<p>Example <strong>sequence diagram</strong> <code>mermaid</code> input:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<<<<<<< Updated upstream
-=======
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
@@ -1048,7 +946,6 @@ This is useful when you want to include some Markdown content to <strong>avoid b
 <p>Example <strong>state diagram</strong> <code>mermaid</code> input:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
->>>>>>> Stashed changes
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
@@ -1060,24 +957,6 @@ This is useful when you want to include some Markdown content to <strong>avoid b
 </span><span class="lnt">9
 </span></code></pre></td>
 <td class="lntd">
-<<<<<<< Updated upstream
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">Inline Formula: {{<span class="p">&lt;</span> <span class="nt">raw</span> <span class="p">&gt;</span>}}\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">raw</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">Block Formula:
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">raw</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">\[ a=b+c \\ d+e=f \]
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">raw</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">Raw content using Markdown syntax: {{<span class="p">&lt;</span> <span class="nt">raw</span> <span class="p">&gt;</span>}}**Hello**{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">raw</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>The rendered output looks like this:</p>
-<p>Inline Formula: <data id="id-2" data-raw></data></p>
-<p>Block Formula:</p>
-<data id="id-3" data-raw></data>
-<p>Raw content using Markdown syntax: <data id="id-4" data-raw></data></p>]]></description>
-=======
 <pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span><span class="line"><span class="cl">stateDiagram
 </span></span><span class="line"><span class="cl">[*] --&gt; Still
@@ -2156,7 +2035,6 @@ But sometimes you may want to start a set of <code>typeit</code> contents in ord
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>You can see the output in the console of the developer tool.</p>]]></description>
->>>>>>> Stashed changes
 </item>
 </channel>
 </rss>

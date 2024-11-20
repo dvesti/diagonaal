@@ -1,21 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Demo - Категория - Diagonaal</title>
-        <link>http://localhost:4321/categories/demo/</link>
+        <link>https://diagonaal.ru/categories/demo/</link>
         <description>Demo - Категория - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 19 May 2020 16:31:46 &#43;0300</lastBuildDate><atom:link href="http://localhost:4321/categories/demo/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 19 May 2020 16:31:46 &#43;0300</lastBuildDate><atom:link href="https://diagonaal.ru/categories/demo/" rel="self" type="application/rss+xml" /><item>
     <title>My Article Name – Тест</title>
-<<<<<<< Updated upstream
-    <link>http://localhost:4321/2020/my-article-name-ru/</link>
+    <link>https://diagonaal.ru/2020/my-article-name/</link>
     <pubDate>Tue, 19 May 2020 16:31:46 &#43;0300</pubDate>
     <author>Автор</author>
-    <guid>http://localhost:4321/2020/my-article-name-ru/</guid>
-=======
-    <link>http://localhost:4321/2020/my-article-name/</link>
-    <pubDate>Tue, 19 May 2020 16:31:46 &#43;0300</pubDate>
-    <author>Автор</author>
-    <guid>http://localhost:4321/2020/my-article-name/</guid>
->>>>>>> Stashed changes
+    <guid>https://diagonaal.ru/2020/my-article-name/</guid>
     <description><![CDATA[<p>Проверка Шахматных Диаграмм</p>
 <p>
 <strong>FEN</strong>: <code>r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1</code></p>
@@ -50,7 +43,10 @@
 </div><p>renders as</p>
 <div class="mermaid" id="id-1"></div>
 <h3 id="диаграмма">Диаграмма</h3>
-<p>{{/<em>&lt; link-heading &ldquo;Some Interesting Title - Диаграмма&rdquo; &gt;</em>/}}</p>
+<a href="#some-interesting-title-">
+  <h2 id="some-interesting-title-">Some Interesting Title - Диаграмма</h2>
+</a>  
+
 <p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the <code>diagram</code> option in your <code>config/_default/params.toml</code> file or by adding <code>diagram: true</code> to your page front matter.</p>
 <h2 id="an-example-flowchart----в-столбец-td">An example <strong>flowchart</strong> &ndash; в столбец TD:</h2>
 <div class="highlight"><div class="chroma">

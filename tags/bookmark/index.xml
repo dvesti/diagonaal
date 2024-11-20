@@ -1,24 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Bookmark - Тэг - Diagonaal</title>
-<<<<<<< Updated upstream
         <link>https://diagonaal.ru/tags/bookmark/</link>
         <description>Bookmark - Тэг - Diagonaal</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</lastBuildDate><atom:link href="https://diagonaal.ru/tags/bookmark/" rel="self" type="application/rss+xml" /><item>
-=======
-        <link>http://localhost:4321/tags/bookmark/</link>
-        <description>Bookmark - Тэг - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</lastBuildDate><atom:link href="http://localhost:4321/tags/bookmark/" rel="self" type="application/rss+xml" /><item>
->>>>>>> Stashed changes
     <title>Bookmarks</title>
-    <link>http://localhost:4321/2021/bookmarks/</link>
+    <link>https://diagonaal.ru/2021/bookmarks/</link>
     <pubDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</pubDate>
     <author>Автор</author>
-<<<<<<< Updated upstream
     <guid>https://diagonaal.ru/2021/bookmarks/</guid>
-=======
-    <guid>http://localhost:4321/2021/bookmarks/</guid>
->>>>>>> Stashed changes
     <description><![CDATA[<p>All my <a href="tags/bookmark" rel="">bookmarks</a>. Also see <a href="https://awesome.re/" target="_blank" rel="noopener noreffer ">awesome list</a> for all kinds of stuff.</p>
 <h2 id="general-free-stuff">General Free stuff</h2>
 <ul>
@@ -190,11 +180,7 @@
 <h3 id="systems-biology-models">Systems biology models</h3>
 <ul>
 <li><a href="https://www.ebi.ac.uk/biomodels/" target="_blank" rel="noopener noreffer ">BioModels</a>, SMBL format and generated code avaiable</li>
-<<<<<<< Updated upstream
-<li><a href="" rel="">Virtual Metabolic Human</a></li>
-=======
 <li><a href="https://vmh.uni.lu/" target="_blank" rel="noopener noreffer ">Virtual Metabolic Human</a></li>
->>>>>>> Stashed changes
 <li><a href="https://www.virtualrat.org" target="_blank" rel="noopener noreffer ">Virtual Rat</a></li>
 <li><a href="https://vcell.org" target="_blank" rel="noopener noreffer ">Virtual Cell</a></li>
 <li><a href="https://www.metanetx.org/" target="_blank" rel="noopener noreffer ">MetaNetX</a></li>
