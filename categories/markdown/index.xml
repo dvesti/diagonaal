@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Markdown - Категория - Diagonaal</title>
-        <link>http://localhost:4321/categories/markdown/</link>
+        <link>https://diagonaal.ru/categories/markdown/</link>
         <description>Markdown - Категория - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:4321/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://diagonaal.ru/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Syntaxe de Markdown de Base</title>
-    <link>http://localhost:4321/2019/syntaxe-de-markdown-de-base/</link>
+    <link>https://diagonaal.ru/2019/syntaxe-de-markdown-de-base/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2019/syntaxe-de-markdown-de-base/</guid>
+    <guid>https://diagonaal.ru/2019/syntaxe-de-markdown-de-base/</guid>
     <description><![CDATA[<p>Cet article propose un exemple de syntaxe Markdown de base qui peut être utilisée dans les fichiers de contenu Hugo.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -1163,10 +1163,10 @@ line 3 of code
 </item>
 <item>
     <title>Emoji Support</title>
-    <link>http://localhost:4321/2019/emoji-support/</link>
+    <link>https://diagonaal.ru/2019/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2019/emoji-support/</guid>
+    <guid>https://diagonaal.ru/2019/emoji-support/</guid>
     <description><![CDATA[<p>Emoji peut être activé dans un projet Hugo de plusieurs façons.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">

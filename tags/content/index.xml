@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Content - Тэг - Diagonaal</title>
-        <link>http://localhost:4321/tags/content/</link>
+        <link>https://diagonaal.ru/tags/content/</link>
         <description>Content - Тэг - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:4321/tags/content/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</lastBuildDate><atom:link href="https://diagonaal.ru/tags/content/" rel="self" type="application/rss+xml" /><item>
     <title>Thème Documentation - Contenu</title>
-    <link>http://localhost:4321/2020/theme-documentation-contenu/</link>
+    <link>https://diagonaal.ru/2020/theme-documentation-contenu/</link>
     <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2020/theme-documentation-contenu/</guid>
+    <guid>https://diagonaal.ru/2020/theme-documentation-contenu/</guid>
     <description><![CDATA[<p>Découvrez comment créer et organiser votre contenu rapidement et intuitivement dans le thème <strong>CodeIT</strong>.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">

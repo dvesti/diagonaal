@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Diagonaal</title>
-        <link>http://localhost:4321/</link>
+        <link>https://diagonaal.ru/</link>
         <description>Diagonaal</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</lastBuildDate>
-            <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://diagonaal.ru/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Thème Documentation - Concepts de Base</title>
-    <link>http://localhost:4321/2020/theme-documentation-concepts-de-base/</link>
+    <link>https://diagonaal.ru/2020/theme-documentation-concepts-de-base/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2020/theme-documentation-concepts-de-base/</guid>
+    <guid>https://diagonaal.ru/2020/theme-documentation-concepts-de-base/</guid>
     <description><![CDATA[<p>Découvrez en quoi consiste le thème Hugo - <strong>CodeIT</strong> et les concepts fondamentaux qui le sous-tendent.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -1898,10 +1898,10 @@ you need to upload different <code>index.json</code> for each language to the di
 </item>
 <item>
     <title>Thème Documentation - Contenu</title>
-    <link>http://localhost:4321/2020/theme-documentation-contenu/</link>
+    <link>https://diagonaal.ru/2020/theme-documentation-contenu/</link>
     <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2020/theme-documentation-contenu/</guid>
+    <guid>https://diagonaal.ru/2020/theme-documentation-contenu/</guid>
     <description><![CDATA[<p>Découvrez comment créer et organiser votre contenu rapidement et intuitivement dans le thème <strong>CodeIT</strong>.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -2416,10 +2416,10 @@ your content will conflict with basic or extended Markdown syntax, and it is ine
 </item>
 <item>
     <title>Thème Documentation - Built-in Shortcodes</title>
-    <link>http://localhost:4321/2020/theme-documentation-built-in-shortcodes/</link>
+    <link>https://diagonaal.ru/2020/theme-documentation-built-in-shortcodes/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2020/theme-documentation-built-in-shortcodes/</guid>
+    <guid>https://diagonaal.ru/2020/theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<p><strong>Hugo</strong> fournit plusieurs shortcodes intégrés pour la commodité de l&rsquo;auteur et pour garder votre contenu de démarque propre.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -2873,10 +2873,10 @@ Hugo fournit plusieurs shortcodes intégrés pour la commodité de l&#39;auteur 
 </item>
 <item>
     <title>Thème Documentation - Extended Shortcodes</title>
-    <link>http://localhost:4321/2020/theme-documentation-extended-shortcodes/</link>
+    <link>https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/</link>
     <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2020/theme-documentation-extended-shortcodes/</guid>
+    <guid>https://diagonaal.ru/2020/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<p>Le thème <strong>CodeIT</strong> fournit plusieurs shortcodes en plus de ceux intégrés dans Hugo.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -4449,10 +4449,10 @@ But sometimes you may want to start a set of <code>typeit</code> contents in ord
 </item>
 <item>
     <title>Syntaxe de Markdown de Base</title>
-    <link>http://localhost:4321/2019/syntaxe-de-markdown-de-base/</link>
+    <link>https://diagonaal.ru/2019/syntaxe-de-markdown-de-base/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2019/syntaxe-de-markdown-de-base/</guid>
+    <guid>https://diagonaal.ru/2019/syntaxe-de-markdown-de-base/</guid>
     <description><![CDATA[<p>Cet article propose un exemple de syntaxe Markdown de base qui peut être utilisée dans les fichiers de contenu Hugo.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -5607,10 +5607,10 @@ line 3 of code
 </item>
 <item>
     <title>Emoji Support</title>
-    <link>http://localhost:4321/2019/emoji-support/</link>
+    <link>https://diagonaal.ru/2019/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>Sunt Programator!</author>
-    <guid>http://localhost:4321/2019/emoji-support/</guid>
+    <guid>https://diagonaal.ru/2019/emoji-support/</guid>
     <description><![CDATA[<p>Emoji peut être activé dans un projet Hugo de plusieurs façons.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
@@ -11358,10 +11358,10 @@ Welcome to take the time to propose a translation by <a href="https://github.com
 </item>
 <item>
     <title>Bookmarks</title>
-    <link>http://localhost:4321/2021/bookmarks/</link>
+    <link>https://diagonaal.ru/2021/bookmarks/</link>
     <pubDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</pubDate>
     <author>Автор</author>
-    <guid>http://localhost:4321/2021/bookmarks/</guid>
+    <guid>https://diagonaal.ru/2021/bookmarks/</guid>
     <description><![CDATA[<p>All my <a href="tags/bookmark" rel="">bookmarks</a>. Also see <a href="https://awesome.re/" target="_blank" rel="noopener noreffer ">awesome list</a> for all kinds of stuff.</p>
 <h2 id="general-free-stuff">General Free stuff</h2>
 <ul>
@@ -11729,10 +11729,10 @@ Welcome to take the time to propose a translation by <a href="https://github.com
 </item>
 <item>
     <title>Статистика по Covid-19 в Эстонии</title>
-    <link>http://localhost:4321/2021/covid-chart/</link>
+    <link>https://diagonaal.ru/2021/covid-chart/</link>
     <pubDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</pubDate>
     <author>Автор</author>
-    <guid>http://localhost:4321/2021/covid-chart/</guid>
+    <guid>https://diagonaal.ru/2021/covid-chart/</guid>
     <description><![CDATA[<p>Создали <a href="/2021/covid-chart/" rel=""><strong>страницу</strong></a> со статистикой по коронавирусу в Эстонии.</p>
 <div class="details admonition info open">
         <div class="details-summary admonition-title">
@@ -11746,24 +11746,38 @@ Welcome to take the time to propose a translation by <a href="https://github.com
 <div class="echarts" id="id-1" style="width: 100%; height: 30rem;"></div>]]></description>
 </item>
 <item>
-    <title>First post</title>
-    <link>http://localhost:4321/2021/first-post/</link>
-    <pubDate>Sat, 13 Feb 2021 20:58:54 &#43;0200</pubDate>
+    <title>Стили от 23-08-2020</title>
+    <link>https://diagonaal.ru/2020/style-23-08-2020/</link>
+    <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
     <author>Автор</author>
-    <guid>http://localhost:4321/2021/first-post/</guid>
-    <description><![CDATA[<p><strong>Привет</strong> <em>всем</em>!<br>
-Тест<br>
-Testing</p>
-]]></description>
+    <guid>https://diagonaal.ru/2020/style-23-08-2020/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured.jpg" referrerpolicy="no-referrer">
+            </div><p>Меняю стили каждый день, как я и писал ранее, в ущерб написанию заметок.<br>
+Сейчас всё-таки изменил размер шрифта даты, который был связан с другими стилями, поэтому пришлось выделить в отдельные строки.</p>
+<p>Использовал стили оригинала — <strong>Refined</strong>, а также <strong>Jane</strong></p>
+<p>Менять пришлось и <em>курсив</em>, так как он брался из другого шрифта получался другого размера (в частности, меньше), что было не очень красиво.</p>
+<p>Не считаю себя специалистом по дизайну или внешнему виду и стилям, но стараюсь привести сайт-блог к такому виду, чтобы нравилось самому. Например, чуть б<strong>о</strong>льший шрифт, чтоб не щуриться.</p>
+<p>Между тем, структура (скелет) сайта адаптирована для мобильных устройств: очень интересно читать сайт, имитируя СмартФон, сужая окно просмотра по горизонтали.</p>
+<blockquote>
+<p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.<br>
+Это какой-то <strong>текст для примера</strong>, чтобы показать как выглядит цитата.<br>
+Это или Источник или высказывания Великих людей. Да, и –- вообще&hellip;</p>
+</blockquote>
+<p>Изменил внешний вид цитаты, убрал отображение тэгов и категорий на странице Архива.  По секрету: на сайте есть страница и тэгов и категорий, просто не указана в меню.  При необходимых минимальных навыках, эти странички можно отыскать самому</p>]]></description>
 </item>
 <item>
-    <title>Приветствие!</title>
-    <link>http://localhost:4321/2021/privestvie/</link>
-    <pubDate>Sat, 13 Feb 2021 20:58:54 &#43;0200</pubDate>
+    <title>Погладь меня</title>
+    <link>https://diagonaal.ru/2020/pogladj-menja/</link>
+    <pubDate>Sat, 22 Aug 2020 19:01:23 &#43;0300</pubDate>
     <author>Автор</author>
-    <guid>http://localhost:4321/2021/privestvie/</guid>
-    <description><![CDATA[<p><strong>Привет</strong> <em>всем</em>, кто зашёл на этот сайт!<br>
-тест 22-30 &ndash; 23-10-2022</p>]]></description>
+    <guid>https://diagonaal.ru/2020/pogladj-menja/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured.jpg" referrerpolicy="no-referrer">
+            </div><p><strong>Почему такой ты робкий?<br>
+Потому что я в коробке?<br>
+Не стесняйся и – погладь:<br>
+Будешь ночью крепче спать!</strong></p>]]></description>
 </item>
 </channel>
 </rss>
