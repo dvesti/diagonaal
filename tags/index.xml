@@ -1,86 +1,86 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Тэг - Diagonaal</title>
-        <link>https://diagonaal.ru/tags/</link>
+        <link>http://localhost:4321/tags/</link>
         <description>Tags - Тэг - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</lastBuildDate><atom:link href="https://diagonaal.ru/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</lastBuildDate><atom:link href="http://localhost:4321/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Charts</title>
-    <link>https://diagonaal.ru/tags/charts/</link>
+    <link>http://localhost:4321/tags/charts/</link>
     <pubDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</pubDate>
     <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/charts/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Bookmark</title>
-    <link>https://diagonaal.ru/tags/bookmark/</link>
-    <pubDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/bookmark/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Font</title>
-    <link>https://diagonaal.ru/tags/font/</link>
-    <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/font/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Quote</title>
-    <link>https://diagonaal.ru/tags/quote/</link>
-    <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/quote/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Style</title>
-    <link>https://diagonaal.ru/tags/style/</link>
-    <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/style/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Cat</title>
-    <link>https://diagonaal.ru/tags/cat/</link>
-    <pubDate>Sat, 22 Aug 2020 19:01:23 &#43;0300</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/cat/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Image</title>
-    <link>https://diagonaal.ru/tags/image/</link>
-    <pubDate>Sat, 22 Aug 2020 19:01:23 &#43;0300</pubDate>
-    <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/image/</guid>
+    <guid>http://localhost:4321/tags/charts/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Test</title>
-    <link>https://diagonaal.ru/tags/test/</link>
-    <pubDate>Fri, 14 Aug 2020 17:04:31 &#43;0300</pubDate>
+    <link>http://localhost:4321/tags/test/</link>
+    <pubDate>Sat, 13 Feb 2021 20:58:54 &#43;0200</pubDate>
     <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/test/</guid>
+    <guid>http://localhost:4321/tags/test/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Bookmark</title>
+    <link>http://localhost:4321/tags/bookmark/</link>
+    <pubDate>Thu, 04 Feb 2021 15:37:34 &#43;0800</pubDate>
+    <author>Автор</author>
+    <guid>http://localhost:4321/tags/bookmark/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Font</title>
+    <link>http://localhost:4321/tags/font/</link>
+    <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
+    <author>Автор</author>
+    <guid>http://localhost:4321/tags/font/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Quote</title>
+    <link>http://localhost:4321/tags/quote/</link>
+    <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
+    <author>Автор</author>
+    <guid>http://localhost:4321/tags/quote/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Style</title>
+    <link>http://localhost:4321/tags/style/</link>
+    <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
+    <author>Автор</author>
+    <guid>http://localhost:4321/tags/style/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Cat</title>
+    <link>http://localhost:4321/tags/cat/</link>
+    <pubDate>Sat, 22 Aug 2020 19:01:23 &#43;0300</pubDate>
+    <author>Автор</author>
+    <guid>http://localhost:4321/tags/cat/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Image</title>
+    <link>http://localhost:4321/tags/image/</link>
+    <pubDate>Sat, 22 Aug 2020 19:01:23 &#43;0300</pubDate>
+    <author>Автор</author>
+    <guid>http://localhost:4321/tags/image/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Football</title>
-    <link>https://diagonaal.ru/tags/football/</link>
+    <link>http://localhost:4321/tags/football/</link>
     <pubDate>Fri, 10 Jul 2020 16:25:13 &#43;0300</pubDate>
     <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/football/</guid>
+    <guid>http://localhost:4321/tags/football/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Date</title>
-    <link>https://diagonaal.ru/tags/date/</link>
+    <link>http://localhost:4321/tags/date/</link>
     <pubDate>Tue, 07 Jul 2020 13:00:13 &#43;0300</pubDate>
     <author>Автор</author>
-    <guid>https://diagonaal.ru/tags/date/</guid>
+    <guid>http://localhost:4321/tags/date/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
