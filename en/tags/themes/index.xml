@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Themes - Tag - Diagonaal</title>
-        <link>https://diagonaal.ru/en/tags/themes/</link>
+        <link>http://localhost:4321/en/tags/themes/</link>
         <description>Themes - Tag - Diagonaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Apr 2016 17:30:13 &#43;0300</lastBuildDate><atom:link href="https://diagonaal.ru/en/tags/themes/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Apr 2016 17:30:13 &#43;0300</lastBuildDate><atom:link href="http://localhost:4321/en/tags/themes/" rel="self" type="application/rss+xml" /><item>
     <title>Academic: the website builder for Hugo</title>
-    <link>https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/</link>
+    <link>http://localhost:4321/en/2016/academic-the-website-builder-for-hugo/</link>
     <pubDate>Wed, 20 Apr 2016 17:30:13 &#43;0300</pubDate>
     <author>Author</author>
-    <guid>https://diagonaal.ru/en/2016/academic-the-website-builder-for-hugo/</guid>
+    <guid>http://localhost:4321/en/2016/academic-the-website-builder-for-hugo/</guid>
     <description><![CDATA[<p><strong>Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 <em>widgets</em>, <em>themes</em>, and <em>language packs</em> included!</strong></p>
 <p><a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener noreffer ">Check out the latest <strong>demo</strong></a> of what you&rsquo;ll get in less than 10 minutes, or <a href="https://sourcethemes.com/academic/#expo" target="_blank" rel="noopener noreffer ">view the <strong>showcase</strong></a> of personal, project, and business sites.</p>
 <ul>

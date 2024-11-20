@@ -18,7 +18,13 @@
     <pubDate>Sun, 23 Aug 2020 17:04:31 &#43;0300</pubDate>
     <author>Автор</author>
     <guid>http://localhost:4321/2020/style-23-08-2020/</guid>
+<<<<<<< Updated upstream
     <description><![CDATA[<p>Меняю стили каждый день, как я и писал ранее, в ущерб написанию заметок.<br>
+=======
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured.jpg" referrerpolicy="no-referrer">
+            </div><p>Меняю стили каждый день, как я и писал ранее, в ущерб написанию заметок.<br>
+>>>>>>> Stashed changes
 Сейчас всё-таки изменил размер шрифта даты, который был связан с другими стилями, поэтому пришлось выделить в отдельные строки.</p>
 <p>Использовал стили оригинала — <strong>Refined</strong>, а также <strong>Jane</strong></p>
 <p>Менять пришлось и <em>курсив</em>, так как он брался из другого шрифта получался другого размера (в частности, меньше), что было не очень красиво.</p>
@@ -37,7 +43,13 @@
     <pubDate>Fri, 14 Aug 2020 17:04:31 &#43;0300</pubDate>
     <author>Автор</author>
     <guid>http://localhost:4321/2020/test-1/</guid>
+<<<<<<< Updated upstream
     <description><![CDATA[<p>Это <del>тест</del>овое сообщение <em>с этой</em> <strong>картинкой</strong>:</p>
+=======
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured.jpg" referrerpolicy="no-referrer">
+            </div><p>Это <del>тест</del>овое сообщение <em>с этой</em> <strong>картинкой</strong>:</p>
+>>>>>>> Stashed changes
 <!--![](featured.jpg) -->
 <p>которая отображается при пересылке ссылки, например, в Скайп</p>
 ]]></description>

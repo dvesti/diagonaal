@@ -1,14 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Charts - Тэг - Diagonaal</title>
+<<<<<<< Updated upstream
         <link>https://diagonaal.ru/tags/charts/</link>
         <description>Charts - Тэг - Diagonaal</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</lastBuildDate><atom:link href="https://diagonaal.ru/tags/charts/" rel="self" type="application/rss+xml" /><item>
+=======
+        <link>http://localhost:4321/tags/charts/</link>
+        <description>Charts - Тэг - Diagonaal</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</lastBuildDate><atom:link href="http://localhost:4321/tags/charts/" rel="self" type="application/rss+xml" /><item>
+>>>>>>> Stashed changes
     <title>Статистика по Covid-19 в Эстонии</title>
-    <link>https://diagonaal.ru/2021/covid-chart/</link>
+    <link>http://localhost:4321/2021/covid-chart/</link>
     <pubDate>Mon, 22 Mar 2021 02:53:07 &#43;0200</pubDate>
+<<<<<<< Updated upstream
     <author>Dia</author>
     <guid>https://diagonaal.ru/2021/covid-chart/</guid>
+=======
+    <author>Автор</author>
+    <guid>http://localhost:4321/2021/covid-chart/</guid>
+>>>>>>> Stashed changes
     <description><![CDATA[<p>Создали <a href="/2021/covid-chart/" rel=""><strong>страницу</strong></a> со статистикой по коронавирусу в Эстонии.</p>
 <div class="details admonition info open">
         <div class="details-summary admonition-title">

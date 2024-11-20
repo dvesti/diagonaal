@@ -2,16 +2,24 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://diagonaal.ru/ru/sitemap.xml</loc>
+    <loc>http://localhost:4321/ru/sitemap.xml</loc>
     
+<<<<<<< Updated upstream
       <lastmod>2024-11-19T23:44:24+02:00</lastmod>
+=======
+      <lastmod>2022-10-25T18:03:37+03:00</lastmod>
+>>>>>>> Stashed changes
     
   </sitemap>
   
   <sitemap>
-    <loc>https://diagonaal.ru/en/sitemap.xml</loc>
+    <loc>http://localhost:4321/en/sitemap.xml</loc>
     
+<<<<<<< Updated upstream
       <lastmod>2024-11-19T22:34:34+02:00</lastmod>
+=======
+      <lastmod>2022-10-25T18:03:37+03:00</lastmod>
+>>>>>>> Stashed changes
     
   </sitemap>
   
